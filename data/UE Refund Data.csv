@@ -1,0 +1,184 @@
+Location,OrderID,WorkflowUUID,OrderDate,OrderIssue,GrossAOV,TotalRefund,RefundCoveredByMerchant,RefundNotCoveredByMerchant,PrimaryKey
+Mitte,#1DCAB,a815a13a-a06c-497b-9e29-03835b51dcab,2022-12-04 16:15:46,Missing Items,33.29,5.4,5.4,0.0,#1DCAB - Mitte - 2022-12-04
+Mitte,#6FE3E,216c8172-1705-481c-84ae-c0d66636fe3e,2022-12-06 19:51:48,Missing Items,19.19,11.9,11.9,0.0,#6FE3E - Mitte - 2022-12-06
+Mitte,#95CC0,c895c228-7e8f-4abe-a220-391b41a95cc0,2022-12-10 12:04:15,Missing Items,57.89,4.5,4.5,0.0,#95CC0 - Mitte - 2022-12-10
+Mitte,#47A9E,43e30280-cfd2-4952-bcc2-044207247a9e,2022-12-16 18:32:37,Missing Items,11.59,7.7,7.7,0.0,#47A9E - Mitte - 2022-12-16
+Mitte,#5064B,89ffc0f5-9737-40ef-9001-5084c6b5064b,2022-12-19 16:17:23,Missing Items,19.29,3.9,3.9,0.0,#5064B - Mitte - 2022-12-19
+Prenzlauer Berg,#D98E6,1b982265-c054-464f-9f95-2ae1d70d98e6,2022-12-09 18:53:29,Missing Items,27.31,23.2,23.2,0.0,#D98E6 - Prenzlauer Berg - 2022-12-09
+Prenzlauer Berg,#DD52A,64561b4e-34c5-4d59-8659-329ba42dd52a,2022-12-15 20:06:42,Incomplete,10.54,1.2,0.0,1.2,#DD52A - Prenzlauer Berg - 2022-12-15
+Prenzlauer Berg,#1D2E9,cfcd6edd-f65c-4c31-b63b-c1159b21d2e9,2022-12-22 21:03:54,Missing Items,15.48,5.4,5.4,0.0,#1D2E9 - Prenzlauer Berg - 2022-12-22
+Bergmannkiez,#C3D68,3f14042f-4a28-406f-97f2-29e1294c3d68,2023-03-02 18:34:36,Incomplete,17.67,4.9,4.9,0.0,#C3D68 - Bergmannkiez - 2023-03-02
+Bergmannkiez,#0E964,88d2eb13-730b-41bc-92cb-07db2b90e964,2023-03-03 12:47:53,Food Quality,25.29,9.8,0.0,9.8,#0E964 - Bergmannkiez - 2023-03-03
+Bergmannkiez,#50207,7f986e2f-c3f6-4776-8af8-e5b07b250207,2023-03-03 19:01:02,Incomplete,29.73,3.9,3.9,0.0,#50207 - Bergmannkiez - 2023-03-03
+Bergmannkiez,#B7322,fde5da55-64c0-425a-b2d8-50a107cb7322,2023-03-04 01:21:34,Incomplete,11.02,3.9,3.9,0.0,#B7322 - Bergmannkiez - 2023-03-04
+Bergmannkiez,#97982,4b469626-94db-4ef1-a831-880772797982,2023-03-05 18:03:50,Partial Missing Items,12.63,1.9,1.9,0.0,#97982 - Bergmannkiez - 2023-03-05
+Bergmannkiez,#FB2E4,cf8c24b7-243f-4b53-af53-fb9a1e2fb2e4,2023-03-08 17:26:04,Missing Items,13.01,3.9,3.9,0.0,#FB2E4 - Bergmannkiez - 2023-03-08
+Bergmannkiez,#AF12D,a5d327bb-a7f8-4e91-830f-daad76faf12d,2023-03-10 11:41:40,Missing Items,13.33,0.9,0.9,0.0,#AF12D - Bergmannkiez - 2023-03-10
+Bergmannkiez,#EE73C,d7999cef-9184-4763-8b37-6d65570ee73c,2023-03-11 21:11:45,Missing Items,30.17,1.9,1.9,0.0,#EE73C - Bergmannkiez - 2023-03-11
+Bergmannkiez,#E34C4,71316e21-6a94-4ffa-a64d-5ab0c54e34c4,2023-03-12 17:31:02,Incomplete,20.25,3.0,0.0,3.0,#E34C4 - Bergmannkiez - 2023-03-12
+Bergmannkiez,#2C3A6,d8361d39-6c62-4460-9c4b-72e6ae22c3a6,2023-03-13 15:01:40,Wrong Order,23.17,23.17,0.0,23.17,#2C3A6 - Bergmannkiez - 2023-03-13
+Bergmannkiez,#35D51,76f7c9a5-ad25-4b6f-b975-9910d9e35d51,2023-03-13 20:19:00,Missing Items,13.53,1.9,1.9,0.0,#35D51 - Bergmannkiez - 2023-03-13
+Bergmannkiez,#29D23,63af8f9f-dc02-4e50-addb-3e162b929d23,2023-03-14 11:22:43,Partial Missing Items,11.91,1.9,1.9,0.0,#29D23 - Bergmannkiez - 2023-03-14
+Bergmannkiez,#8B422,44cec5c4-8d96-4d38-ba0c-87403898b422,2023-03-14 20:17:43,Partial Missing Items,30.57,3.0,3.0,0.0,#8B422 - Bergmannkiez - 2023-03-14
+Bergmannkiez,#93643,23d0b967-14f4-46c1-8e42-d8c96f093643,2023-03-19 22:21:12,Missing Items,16.09,3.9,3.9,0.0,#93643 - Bergmannkiez - 2023-03-19
+Bergmannkiez,#F3645,d2cb12b4-de07-41d9-9f76-77e2043f3645,2023-03-20 21:26:10,Missing Items,35.08,4.9,4.9,0.0,#F3645 - Bergmannkiez - 2023-03-20
+Bergmannkiez,#874E5,158fcc52-5b40-4e41-b66d-079cd91874e5,2023-03-23 13:19:24,Partial Missing Items,14.33,1.9,1.9,0.0,#874E5 - Bergmannkiez - 2023-03-23
+Bergmannkiez,#2159A,119559c2-155e-48b8-8594-f96449b2159a,2023-03-24 17:43:39,Incomplete,16.57,4.9,0.0,4.9,#2159A - Bergmannkiez - 2023-03-24
+Bergmannkiez,#87875,d4d48718-8909-4f28-92c1-e9cc6dd87875,2023-03-26 11:16:50,Partial Missing Items,15.73,1.9,1.9,0.0,#87875 - Bergmannkiez - 2023-03-26
+Bergmannkiez,#828A7,9c430c8f-9867-4e13-a93b-6031248828a7,2023-03-28 21:00:03,Missing Items,15.81,4.9,4.9,0.0,#828A7 - Bergmannkiez - 2023-03-28
+Bergmannkiez,#5A0B1,647090cf-d8da-40a3-97c5-a43534e5a0b1,2023-03-30 12:46:20,Wrong Order,14.33,14.33,12.54,1.79,#5A0B1 - Bergmannkiez - 2023-03-30
+Bergmannkiez,#A9504,64b1222c-35b4-4eae-a004-2b144b8a9504,2023-03-30 14:23:07,Partial Missing Items,15.91,1.9,1.9,0.0,#A9504 - Bergmannkiez - 2023-03-30
+Bergmannkiez,#06BD5,aae73ec5-86e4-4704-a425-33dd83d06bd5,2023-03-30 21:23:00,Missing Items,17.67,3.9,3.9,0.0,#06BD5 - Bergmannkiez - 2023-03-30
+Charlottenburg,#64684,56adc36d-ab70-4a87-b9b5-1d0619164684,2023-03-04 14:53:14,Incomplete,17.61,3.5,0.0,3.5,#64684 - Charlottenburg - 2023-03-04
+Charlottenburg,#4038B,360696ba-6ec1-4b6a-9e57-70849c04038b,2023-03-08 18:44:32,Partial Missing Items,13.19,3.0,3.0,0.0,#4038B - Charlottenburg - 2023-03-08
+Charlottenburg,#45748,b56b0009-1f5c-4fb4-8ce0-bf7b39145748,2023-03-18 14:26:25,Missing Items,16.32,7.84,7.84,0.0,#45748 - Charlottenburg - 2023-03-18
+Charlottenburg,#02A00,6b1bd65d-3e41-4cd5-b0e5-e90adf802a00,2023-03-26 19:07:04,Incomplete,23.33,9.8,7.84,1.96,#02A00 - Charlottenburg - 2023-03-26
+Charlottenburg,#59A71,741dce1e-e9c2-4960-8124-eeec45d59a71,2023-03-29 19:32:26,Missing Items,27.83,15.4,15.4,0.0,#59A71 - Charlottenburg - 2023-03-29
+Friedrichshain,#32A77,c9773798-4a4f-4776-a352-803237632a77,2023-03-10 20:29:29,Wrong Order,27.78,27.78,0.0,27.78,#32A77 - Friedrichshain - 2023-03-10
+Friedrichshain,#DAFA5,b303367a-0ce7-4dfa-be5d-0c8e926dafa5,2023-03-12 13:05:49,Missing Items,30.09,18.8,18.8,0.0,#DAFA5 - Friedrichshain - 2023-03-12
+Friedrichshain,#2F035,feafb841-58f2-4b93-ab92-2a8b67d2f035,2023-03-12 18:14:14,Incomplete,19.93,9.8,7.84,1.96,#2F035 - Friedrichshain - 2023-03-12
+Friedrichshain,#CDC74,43e47b00-8c95-47fb-8b1d-5077773cdc74,2023-03-20 21:00:54,Never Received,28.63,28.63,0.0,28.63,#CDC74 - Friedrichshain - 2023-03-20
+Friedrichshain,#7B28A,540f6967-1cf3-4bfb-83b3-63f3a9a7b28a,2023-03-27 18:07:43,Incomplete,16.76,1.9,0.0,1.9,#7B28A - Friedrichshain - 2023-03-27
+Prenzlauer Berg,#EC788,7b78e017-2d1d-4e30-969e-516ebfdec788,2023-03-13 18:23:21,Wrong Order,17.67,17.67,0.0,17.67,#EC788 - Prenzlauer Berg - 2023-03-13
+Prenzlauer Berg,#EED96,20d1f50f-9918-461c-aaef-b8187cbeed96,2023-03-18 20:17:42,Missing Items,33.4,9.8,9.8,0.0,#EED96 - Prenzlauer Berg - 2023-03-18
+Mitte,#A7406,30b03cad-adc4-4cb3-9b4b-e76d62ca7406,2023-03-08 16:23:15,Partial Missing Items,22.19,1.9,1.9,0.0,#A7406 - Mitte - 2023-03-08
+Mitte,#14CC2,de4dcdea-7aff-4b94-a8ca-4c95da014cc2,2023-03-10 20:28:05,Missing Items,40.91,11.54,11.54,0.0,#14CC2 - Mitte - 2023-03-10
+Mitte,#97763,9658b51d-75a8-47c5-b3d3-fb1c4b797763,2023-03-12 21:22:34,Incomplete,52.53,3.4,3.4,0.0,#97763 - Mitte - 2023-03-12
+Mitte,#0B6EC,8931b4c6-d700-405e-9988-825a0140b6ec,2023-03-16 13:44:31,Missing Items,13.2,1.5,1.5,0.0,#0B6EC - Mitte - 2023-03-16
+Prenzlauer Berg,#FBFEC,c14292f8-d251-431a-9874-0ce3c23fbfec,2023-03-05 12:50:16,Missing Items,58.16,10.9,10.9,0.0,#FBFEC - Prenzlauer Berg - 2023-03-05
+Samariterkiez,#7E8B4,d01c048d-227a-477c-820e-84935727e8b4,2023-04-24 21:45:14,Partial Missing Items,17.67,6.8,6.8,0.0,#7E8B4 - Samariterkiez - 2023-04-24
+Bergmannkiez,#BAC6E,b0b76f25-3d14-42a5-b8cb-6fd143cbac6e,2023-04-03 20:20:24,Partial Missing Items,61.37,1.9,1.9,0.0,#BAC6E - Bergmannkiez - 2023-04-03
+Bergmannkiez,#EAC58,530fac5c-b03a-4b21-8af0-1cbd47deac58,2023-04-04 20:15:34,Missing Items,11.97,11.97,0.0,11.97,#EAC58 - Bergmannkiez - 2023-04-04
+Bergmannkiez,#18420,cdba92a2-6e1b-4a42-b425-5c05cba18420,2023-04-06 14:14:44,Food Quality,10.11,10.11,0.0,10.11,#18420 - Bergmannkiez - 2023-04-06
+Bergmannkiez,#C5083,bd7b96e4-8951-47e3-a46b-b3ce2eec5083,2023-04-06 16:07:37,Partial Missing Items,27.91,3.9,3.9,0.0,#C5083 - Bergmannkiez - 2023-04-06
+Bergmannkiez,#70327,d1428186-cfd9-43e1-ab1d-9ce3d8a70327,2023-04-15 22:30:03,Missing Items,11.15,3.9,3.9,0.0,#70327 - Bergmannkiez - 2023-04-15
+Bergmannkiez,#A9EC0,35a2bdf9-6cb8-4c10-a761-1fd1102a9ec0,2023-04-22 23:00:59,Incomplete,26.53,1.47,0.0,1.47,#A9EC0 - Bergmannkiez - 2023-04-22
+Bergmannkiez,#AC08F,be98b306-3bd8-4274-83ed-7532fb6ac08f,2023-04-25 20:38:47,Incomplete,11.11,2.94,0.0,2.94,#AC08F - Bergmannkiez - 2023-04-25
+Charlottenburg,#57781,8612cfd5-527e-49a3-8d27-6cf7d9657781,2023-04-02 18:42:44,Missing Items,39.83,19.42,19.42,0.0,#57781 - Charlottenburg - 2023-04-02
+Charlottenburg,#419A2,fa3f33d2-f281-4689-b2d2-4d46c07419a2,2023-04-03 18:52:53,Wrong Order,14.21,14.21,0.0,14.21,#419A2 - Charlottenburg - 2023-04-03
+Friedrichshain,#4F6F1,07c9c929-4b99-4d1b-aeef-fb9deef4f6f1,2023-04-02 23:28:32,Incomplete,26.03,1.9,0.0,1.9,#4F6F1 - Friedrichshain - 2023-04-02
+Friedrichshain,#C0A18,1f63ce05-c22c-44d5-b822-a328c78c0a18,2023-04-10 16:24:41,Partial Missing Items,23.02,3.8,1.9,1.9,#C0A18 - Friedrichshain - 2023-04-10
+Friedrichshain,#BFFA1,82f0bc03-e672-4ef6-a2f1-2b9624cbffa1,2023-04-14 18:35:53,Wrong Order,7.19,7.19,2.8,4.39,#BFFA1 - Friedrichshain - 2023-04-14
+Friedrichshain,#83517,372bd001-e15c-4f52-8e29-ee672d083517,2023-04-14 22:01:19,Missing Items,28.47,1.2,1.2,0.0,#83517 - Friedrichshain - 2023-04-14
+Friedrichshain,#84286,909b2037-0102-43c7-9967-18d702c84286,2023-04-19 20:09:18,Incomplete,25.54,10.54,7.84,2.7,#84286 - Friedrichshain - 2023-04-19
+Friedrichshain,#9B9CB,6adfa3a5-1ac0-44cf-a2e0-aa6c86c9b9cb,2023-04-26 18:58:39,Missing Items,27.55,1.9,1.9,0.0,#9B9CB - Friedrichshain - 2023-04-26
+Friedrichshain,#04049,34ffd730-2a76-4a0f-99a3-22fbb0104049,2023-04-30 23:28:55,Missing Items,16.26,3.9,3.9,0.0,#04049 - Friedrichshain - 2023-04-30
+Prenzlauer Berg,#80D95,10daf79d-5a35-4fde-9e6c-8d6f2f980d95,2023-04-04 13:44:04,Missing Items,28.4,6.4,6.4,0.0,#80D95 - Prenzlauer Berg - 2023-04-04
+Prenzlauer Berg,#65871,c523c5cd-4eb9-4d21-93f4-211160c65871,2023-04-30 22:10:44,Incomplete,13.68,5.3,4.6,0.7,#65871 - Prenzlauer Berg - 2023-04-30
+Samariterkiez,#F76E7,127a1c04-baea-4462-bd9f-812e48df76e7,2023-05-08 18:08:25,Missing Items,31.86,7.8,7.8,0.0,#F76E7 - Samariterkiez - 2023-05-08
+Samariterkiez,#9C144,f52a06d1-8ab0-488b-b5ad-ba18d969c144,2023-05-16 19:53:57,Wrong Order,22.39,22.39,19.4,2.99,#9C144 - Samariterkiez - 2023-05-16
+Bergmannkiez,#E15EF,834de340-1fe1-4ed9-8da3-9b554c5e15ef,2023-05-04 18:28:39,Missing Items,55.99,1.9,1.9,0.0,#E15EF - Bergmannkiez - 2023-05-04
+Bergmannkiez,#0873C,0aaf4715-5290-4637-b2dc-7b9e4f70873c,2023-05-05 20:20:38,Partial Missing Items,10.16,2.07,2.07,0.0,#0873C - Bergmannkiez - 2023-05-05
+Bergmannkiez,#AFC6F,07f7759a-7f40-4a74-9deb-2c1e3f2afc6f,2023-05-07 22:50:59,Partial Missing Items,40.18,5.7,5.7,0.0,#AFC6F - Bergmannkiez - 2023-05-07
+Bergmannkiez,#40580,31f4fe68-bc48-4e20-87db-a49dcf040580,2023-05-09 17:55:41,Partial Missing Items,15.48,3.0,3.0,0.0,#40580 - Bergmannkiez - 2023-05-09
+Bergmannkiez,#B9C0D,293ceb15-8b02-4afa-99fb-95d8822b9c0d,2023-05-13 20:27:48,Missing Items,30.39,4.9,4.9,0.0,#B9C0D - Bergmannkiez - 2023-05-13
+Bergmannkiez,#07F2C,f487afdc-f721-486b-8496-cac677107f2c,2023-05-16 13:30:10,Missing Items,14.79,3.9,3.9,0.0,#07F2C - Bergmannkiez - 2023-05-16
+Bergmannkiez,#A7B49,2f284473-60dc-4b17-9e74-51970bca7b49,2023-05-17 12:57:51,Partial Missing Items,14.44,1.9,1.9,0.0,#A7B49 - Bergmannkiez - 2023-05-17
+Bergmannkiez,#B1350,671cae98-0f39-436a-b7d6-dc8a555b1350,2023-05-18 19:15:49,Missing Items,19.47,5.35,5.35,0.0,#B1350 - Bergmannkiez - 2023-05-18
+Bergmannkiez,#56665,0a22745a-400e-4946-b871-370de7a56665,2023-05-21 14:07:09,Partial Missing Items,34.58,3.8,3.8,0.0,#56665 - Bergmannkiez - 2023-05-21
+Bergmannkiez,#57874,b14a0082-95d2-4658-8d2c-3789bda57874,2023-05-21 18:26:43,Incomplete,16.09,1.9,1.9,0.0,#57874 - Bergmannkiez - 2023-05-21
+Bergmannkiez,#C5059,27287ef6-e717-4ec1-9b54-fa728a7c5059,2023-05-25 19:11:23,Missing Items,27.69,10.9,10.9,0.0,#C5059 - Bergmannkiez - 2023-05-25
+Bergmannkiez,#DA5A3,4306f6ec-65a7-463f-925e-f4a1d59da5a3,2023-05-29 15:25:28,Missing Items,18.52,1.9,1.9,0.0,#DA5A3 - Bergmannkiez - 2023-05-29
+Bergmannkiez,#0E484,3163b452-b194-4d01-b710-86c48fb0e484,2023-05-29 19:43:01,Incomplete,22.66,9.25,0.0,9.25,#0E484 - Bergmannkiez - 2023-05-29
+Charlottenburg,#34442,6f1f7ffe-4f22-4c0f-9b63-d2b2f2f34442,2023-05-01 13:48:29,Missing Items,41.39,10.9,10.9,0.0,#34442 - Charlottenburg - 2023-05-01
+Charlottenburg,#AC23B,5d28c7df-c95e-450f-b4da-27b9b20ac23b,2023-05-01 16:28:12,Wrong Order,23.27,23.27,0.0,23.27,#AC23B - Charlottenburg - 2023-05-01
+Charlottenburg,#7AD8E,006b2018-a6c7-40da-9872-5d5b0c77ad8e,2023-05-05 20:42:41,Missing Items,50.98,9.8,9.8,0.0,#7AD8E - Charlottenburg - 2023-05-05
+Charlottenburg,#9E633,be49bd43-20ee-4b65-9a8e-a002a8d9e633,2023-05-08 21:21:31,Incomplete,44.21,2.94,0.0,2.94,#9E633 - Charlottenburg - 2023-05-08
+Charlottenburg,#F8208,c8d2487b-c47a-4ded-bafa-b2a3c13f8208,2023-05-23 12:10:04,Wrong Order,22.61,22.61,0.0,22.61,#F8208 - Charlottenburg - 2023-05-23
+Charlottenburg,#703D0,a4961c5d-1555-4495-b3f6-e909159703d0,2023-05-23 18:32:01,Food Quality,41.13,9.8,0.0,9.8,#703D0 - Charlottenburg - 2023-05-23
+Friedrichshain,#D4C9F,690bf3f7-98ec-4788-9fcd-9c37dd9d4c9f,2023-05-01 21:23:20,Missing Items,22.32,9.8,9.8,0.0,#D4C9F - Friedrichshain - 2023-05-01
+Friedrichshain,#1A317,34525904-dfe3-4eae-be4c-da48d431a317,2023-05-15 17:32:59,Partial Missing Items,25.41,4.27,4.27,0.0,#1A317 - Friedrichshain - 2023-05-15
+Friedrichshain,#575A4,ee3a73e9-122f-4de6-bd51-f3f9ca2575a4,2023-05-18 20:25:55,Missing Items,29.89,26.9,0.0,26.9,#575A4 - Friedrichshain - 2023-05-18
+Friedrichshain,#031D5,4d0b97fb-3079-4076-8e05-df04c41031d5,2023-05-20 20:17:53,Wrong Order,8.11,8.11,0.0,8.11,#031D5 - Friedrichshain - 2023-05-20
+Kreuzberg,#BBBEA,928de974-e1b6-4238-86fb-febd222bbbea,2023-05-13 18:41:36,Wrong Order,13.77,14.5,14.5,0.0,#BBBEA - Kreuzberg - 2023-05-13
+Kreuzberg,#C77AD,104937a3-559a-480f-a69d-8c2d3f6c77ad,2023-05-20 18:14:40,Wrong Order,12.21,12.21,0.0,12.21,#C77AD - Kreuzberg - 2023-05-20
+Leipzig Mitte,#3629B,60087db1-abc3-4d6c-bed8-de2d2aa3629b,2023-05-07 17:48:49,Incomplete,21.5,2.85,1.9,0.95,#3629B - Leipzig Mitte - 2023-05-07
+Leipzig Mitte,#772FA,51e8bd02-3bb7-46ef-b111-491c0d5772fa,2023-05-10 11:43:16,Missing Items,18.6,3.9,3.9,0.0,#772FA - Leipzig Mitte - 2023-05-10
+Leipzig Mitte,#D0525,3d6fb922-8b50-403a-980f-8f9c2b3d0525,2023-05-10 16:59:25,Missing Items,10.68,15.68,15.68,0.0,#D0525 - Leipzig Mitte - 2023-05-10
+Leipzig Mitte,#700EC,2fd31f75-3c30-4883-86f9-56b039e700ec,2023-05-14 15:21:44,Missing Items,26.53,4.9,4.9,0.0,#700EC - Leipzig Mitte - 2023-05-14
+Leipzig Mitte,#72A03,816ac6be-ef67-4524-b8d6-fc43c2972a03,2023-05-20 20:04:38,Missing Items,14.79,12.9,12.9,0.0,#72A03 - Leipzig Mitte - 2023-05-20
+Leipzig Mitte,#FFB2F,df665d79-4c41-4f94-91e4-db06a21ffb2f,2023-05-31 18:45:38,Missing Items,29.34,1.9,1.9,0.0,#FFB2F - Leipzig Mitte - 2023-05-31
+Prenzlauer Berg,#144B9,d39903f6-b6cd-404c-8b19-6dbfdbf144b9,2023-05-07 18:45:31,Partial Missing Items,11.42,3.0,3.0,0.0,#144B9 - Prenzlauer Berg - 2023-05-07
+Prenzlauer Berg,#8A490,8b9253fb-ee8d-47f2-8451-19a80738a490,2023-05-12 18:42:22,Incomplete,12.91,9.8,9.8,0.0,#8A490 - Prenzlauer Berg - 2023-05-12
+Prenzlauer Berg,#F9036,d81e1214-c8d7-472c-a2d7-f62b20cf9036,2023-05-19 10:29:53,Never Received,20.22,20.22,0.0,20.22,#F9036 - Prenzlauer Berg - 2023-05-19
+Prenzlauer Berg,#96035,81f6be7b-490e-42df-9c11-88175b596035,2023-05-20 19:13:27,Missing Items,16.74,3.92,3.92,0.0,#96035 - Prenzlauer Berg - 2023-05-20
+Prenzlauer Berg,#0CCF9,715f3d53-08cc-412c-a2a7-1218c060ccf9,2023-05-21 17:10:59,Missing Items,14.84,9.8,9.8,0.0,#0CCF9 - Prenzlauer Berg - 2023-05-21
+Prenzlauer Berg,#4B35F,1c30f509-08b9-4ea4-868e-01b1de14b35f,2023-05-31 17:42:44,Missing Items,32.02,20.58,19.6,0.98,#4B35F - Prenzlauer Berg - 2023-05-31
+Schillerkiez,#8A7A4,33a20cde-f5d8-46df-9f18-818dfdb8a7a4,2023-05-29 17:53:13,Missing Items,52.68,12.7,12.7,0.0,#8A7A4 - Schillerkiez - 2023-05-29
+Schillerkiez,#20619,6199a311-ee8c-40dc-bf39-e8f73ea20619,2023-05-31 14:18:07,Missing Items,18.3,4.1,3.9,0.2,#20619 - Schillerkiez - 2023-05-31
+Mitte,#7B6DA,67146978-c055-405d-b1af-8f2a8947b6da,2023-05-02 16:48:03,Incomplete,30.8,16.7,15.2,1.5,#7B6DA - Mitte - 2023-05-02
+Mitte,#E0A32,af5afadb-e332-4ed4-8201-c356621e0a32,2023-05-08 17:38:45,Never Received,11.68,11.68,0.0,11.68,#E0A32 - Mitte - 2023-05-08
+Mitte,#EAEBF,c33a8413-09f6-4c4f-9045-c94b685eaebf,2023-05-10 19:01:12,Incomplete,8.79,6.0,1.9,4.1,#EAEBF - Mitte - 2023-05-10
+Mitte,#62086,15ccb11d-16ec-4f86-91b4-cf171ec62086,2023-05-12 16:40:36,Missing Items,25.83,9.8,9.8,0.0,#62086 - Mitte - 2023-05-12
+Mitte,#F56E5,a3010086-241f-4e76-bcd9-263bc51f56e5,2023-05-19 15:09:39,Missing Items,8.02,8.02,0.0,8.02,#F56E5 - Mitte - 2023-05-19
+Mitte,#E638B,3c92096c-6512-4e55-8ce7-472bc1ae638b,2023-05-19 20:14:00,Partial Missing Items,44.89,3.0,3.0,0.0,#E638B - Mitte - 2023-05-19
+Mitte,#8A758,090feb19-bf82-450e-a2af-fea16938a758,2023-05-23 17:59:08,Missing Items,23.12,6.0,6.0,0.0,#8A758 - Mitte - 2023-05-23
+Mitte,#40A5E,c4f5aa51-d045-4a28-aee8-b470b4f40a5e,2023-05-25 15:45:54,Missing Items,16.85,8.8,8.8,0.0,#40A5E - Mitte - 2023-05-25
+Mitte,#AA040,b11944e4-566a-4d05-9059-4155222aa040,2023-05-28 12:28:00,Missing Items,14.0,6.9,6.9,0.0,#AA040 - Mitte - 2023-05-28
+Prenzlauer Berg,#066B5,723b2314-8104-4658-9cfe-5e14421066b5,2023-06-26 19:01:33,Missing Items,45.91,41.27,39.3,1.97,#066B5 - Prenzlauer Berg - 2023-06-26
+Samariterkiez,#601F5,891e4393-0891-4c51-9378-c12c416601f5,2023-06-02 17:14:23,Incomplete,15.9,9.5,9.5,0.0,#601F5 - Samariterkiez - 2023-06-02
+Samariterkiez,#E0C7A,ce9946ba-242f-4c78-b5e4-f373ed5e0c7a,2023-06-04 18:56:13,Missing Items,38.7,4.1,3.9,0.2,#E0C7A - Samariterkiez - 2023-06-04
+Samariterkiez,#805BB,40ce3f31-f6d3-4c1e-a004-025043f805bb,2023-06-08 20:41:14,Food Quality,41.83,9.8,0.0,9.8,#805BB - Samariterkiez - 2023-06-08
+Samariterkiez,#A7655,84aeed63-9735-497e-8353-21ca65ca7655,2023-06-08 21:14:54,Missing Items,22.45,20.27,19.3,0.97,#A7655 - Samariterkiez - 2023-06-08
+Samariterkiez,#17818,3211dd53-4b2f-4d22-8834-125e19a17818,2023-06-08 23:44:33,Missing Items,24.2,10.29,9.8,0.49,#17818 - Samariterkiez - 2023-06-08
+Samariterkiez,#AC804,ba9406b1-8b7a-41dc-9174-d05c940ac804,2023-06-10 21:10:30,Partial Missing Items,22.83,1.9,1.9,0.0,#AC804 - Samariterkiez - 2023-06-10
+Samariterkiez,#8AA8E,c1b93d16-09cc-40df-ae11-f060b138aa8e,2023-06-25 23:38:51,Incomplete,15.45,8.8,8.8,0.0,#8AA8E - Samariterkiez - 2023-06-25
+Charlottenburg,#081E5,210c61ca-8901-46a0-a9ba-d0b2ad5081e5,2023-06-04 15:54:58,Incomplete,25.0,3.5,3.5,0.0,#081E5 - Charlottenburg - 2023-06-04
+Charlottenburg,#1BA12,816f9a76-cdfc-4849-a877-df1d9041ba12,2023-06-19 19:49:58,Missing Items,38.15,15.02,14.3,0.72,#1BA12 - Charlottenburg - 2023-06-19
+Charlottenburg,#64420,0ec289d9-2d48-4f99-879f-cb9bf7f64420,2023-06-20 20:14:10,Missing Items,28.41,7.25,6.9,0.35,#64420 - Charlottenburg - 2023-06-20
+Charlottenburg,#A6565,79ffe756-1b1a-43a9-8f2e-8fcb1b4a6565,2023-06-23 19:51:01,Missing Items,23.69,1.9,1.9,0.0,#A6565 - Charlottenburg - 2023-06-23
+Charlottenburg,#54E82,a5802aa5-19ba-4612-b2a9-6a1971c54e82,2023-06-23 20:00:35,Never Received,18.37,18.37,0.0,18.37,#54E82 - Charlottenburg - 2023-06-23
+Charlottenburg,#BD02A,ccefe115-f452-4da8-bc90-ec1f964bd02a,2023-06-23 20:39:02,Incomplete,17.7,3.9,3.9,0.0,#BD02A - Charlottenburg - 2023-06-23
+Charlottenburg,#C2E9E,3662b3a8-344a-40d8-b3c5-0480609c2e9e,2023-06-24 17:24:39,Missing Items,16.2,2.0,1.9,0.1,#C2E9E - Charlottenburg - 2023-06-24
+Charlottenburg,#B52FA,4b7e2ce6-f4f5-4b60-9578-4fb928db52fa,2023-06-24 19:49:42,Missing Items,15.4,15.4,15.4,0.0,#B52FA - Charlottenburg - 2023-06-24
+Charlottenburg,#D0E11,668e5392-47b8-4fd0-9727-2b6570fd0e11,2023-06-25 16:33:18,Food Quality,13.3,9.16,0.0,9.16,#D0E11 - Charlottenburg - 2023-06-25
+Charlottenburg,#D9BC8,b6128138-23a1-42be-835f-d2c33abd9bc8,2023-06-26 20:49:30,Incomplete,29.69,3.0,0.0,3.0,#D9BC8 - Charlottenburg - 2023-06-26
+Charlottenburg,#8A23E,c1f5ce27-ab95-4fef-b286-b21ea708a23e,2023-06-28 15:01:47,Missing Items,16.12,9.8,9.8,0.0,#8A23E - Charlottenburg - 2023-06-28
+Friedrichshain,#CB284,f1d13955-ac0d-4ae9-a7e0-ad0fcc2cb284,2023-06-02 19:59:22,Missing Items,26.29,10.29,9.8,0.49,#CB284 - Friedrichshain - 2023-06-02
+Kreuzberg,#B9B8B,4dc4ef3d-f911-4802-8a2d-7ac5514b9b8b,2023-06-05 15:36:33,Incomplete,14.5,1.9,1.9,0.0,#B9B8B - Kreuzberg - 2023-06-05
+Kreuzberg,#4544A,58f55648-b628-40a3-86b8-e3ca4444544a,2023-06-07 20:41:22,Wrong Order,10.64,10.64,0.0,10.64,#4544A - Kreuzberg - 2023-06-07
+Kreuzberg,#D5FC1,d769ea14-52bf-4348-bb45-fc369c8d5fc1,2023-06-14 20:03:20,Incomplete,14.69,1.8,0.9,0.9,#D5FC1 - Kreuzberg - 2023-06-14
+Leipzig Mitte,#C6436,8106728a-ae6b-40e6-81e7-803bd4dc6436,2023-06-01 19:06:11,Partial Missing Items,23.87,3.0,3.0,0.0,#C6436 - Leipzig Mitte - 2023-06-01
+Leipzig Mitte,#E201C,4657008d-e0da-4319-9904-335d930e201c,2023-06-07 12:34:50,Never Received,14.86,14.86,0.0,14.86,#E201C - Leipzig Mitte - 2023-06-07
+Leipzig Mitte,#E1E02,c3850650-78a0-44a9-8f83-ca1d134e1e02,2023-06-11 14:29:19,Missing Items,11.42,5.15,4.9,0.25,#E1E02 - Leipzig Mitte - 2023-06-11
+Leipzig Mitte,#37DDB,c65d3917-5599-44dd-abc3-1d5080f37ddb,2023-06-18 19:38:56,Incomplete,21.69,10.9,10.9,0.0,#37DDB - Leipzig Mitte - 2023-06-18
+Leipzig Mitte,#7FA2E,f317ae82-9c05-4e94-a8d7-e73864b7fa2e,2023-06-25 14:51:35,Missing Items,13.77,4.9,4.9,0.0,#7FA2E - Leipzig Mitte - 2023-06-25
+Leipzig Mitte,#AA3A6,1769f248-ae62-4c33-b4ed-6d21c4caa3a6,2023-06-27 14:12:51,Food Quality,27.32,10.7,0.0,10.7,#AA3A6 - Leipzig Mitte - 2023-06-27
+Leipzig Mitte,#4FB23,61fe3adf-c2d8-499a-8664-f31c41e4fb23,2023-06-27 15:07:26,Missing Items,10.45,6.42,0.0,6.42,#4FB23 - Leipzig Mitte - 2023-06-27
+Leipzig Mitte,#91000,3ac6e3b8-e489-4622-ba99-f0f674091000,2023-06-28 12:18:16,Miscellaneous,50.38,4.8,1.9,2.9,#91000 - Leipzig Mitte - 2023-06-28
+Leipzig Mitte,#06177,40cbb1d9-0a1c-476a-8290-dec44fa06177,2023-06-28 15:02:53,Partial Missing Items,13.6,1.9,1.9,0.0,#06177 - Leipzig Mitte - 2023-06-28
+Leipzig Mitte,#56032,a165a26d-d0e5-40db-bc9a-617478e56032,2023-06-30 14:42:21,Miscellaneous,13.26,4.9,0.0,4.9,#56032 - Leipzig Mitte - 2023-06-30
+Prenzlauer Berg,#6FEB6,32d9d3b6-5837-4b55-9144-490b7716feb6,2023-06-06 14:12:05,Incomplete,15.28,5.48,0.0,5.48,#6FEB6 - Prenzlauer Berg - 2023-06-06
+Prenzlauer Berg,#52D93,b4602b83-095e-4cf4-a8d6-6e2057152d93,2023-06-08 22:04:05,Food Quality,16.8,10.19,0.0,10.19,#52D93 - Prenzlauer Berg - 2023-06-08
+Prenzlauer Berg,#47F7A,455c9061-abd8-4d26-915e-a63afaf47f7a,2023-06-12 16:03:05,Missing Items,15.29,13.97,13.3,0.67,#47F7A - Prenzlauer Berg - 2023-06-12
+Prenzlauer Berg,#70046,105c04e4-e004-4926-8efe-f8cc8bb70046,2023-06-18 21:30:33,Partial Missing Items,19.81,3.0,0.0,3.0,#70046 - Prenzlauer Berg - 2023-06-18
+Prenzlauer Berg,#64079,6504843b-710c-4b73-b1cd-e7785b664079,2023-06-22 22:28:05,Never Received,17.62,17.62,0.0,17.62,#64079 - Prenzlauer Berg - 2023-06-22
+Prenzlauer Berg,#4329E,600c14b6-88d0-4387-b456-819dae24329e,2023-06-23 12:02:28,Wrong Order,29.54,29.54,0.0,29.54,#4329E - Prenzlauer Berg - 2023-06-23
+Prenzlauer Berg,#61BFD,6b7dd73b-ec50-4880-811b-d185e4661bfd,2023-06-24 14:13:06,Missing Items,15.96,2.0,1.9,0.1,#61BFD - Prenzlauer Berg - 2023-06-24
+Prenzlauer Berg,#57B2A,59f0ab33-6eb1-46ad-a7c7-b33f2f857b2a,2023-06-24 19:59:07,Food Quality,13.6,13.6,0.0,13.6,#57B2A - Prenzlauer Berg - 2023-06-24
+Prenzlauer Berg,#C3E5F,19f14a54-cdb5-4070-934a-7820ec3c3e5f,2023-06-25 14:25:25,Missing Items,18.04,10.9,10.9,0.0,#C3E5F - Prenzlauer Berg - 2023-06-25
+Prenzlauer Berg,#B6394,4f224fa3-5b25-47d3-80bd-42831f3b6394,2023-06-25 19:15:41,Never Received,14.7,14.7,0.0,14.7,#B6394 - Prenzlauer Berg - 2023-06-25
+Prenzlauer Berg,#ACF53,f8a564d5-0471-4133-842f-a52b5b3acf53,2023-06-25 20:34:56,Missing Items,19.11,4.73,4.5,0.23,#ACF53 - Prenzlauer Berg - 2023-06-25
+Prenzlauer Berg,#6D446,d91ce96b-a463-4b73-9b0c-40b110c6d446,2023-06-26 17:02:43,Never Received,16.7,16.7,0.0,16.7,#6D446 - Prenzlauer Berg - 2023-06-26
+Schillerkiez,#73745,8bd37e2f-7ab3-41d9-bdad-c37169a73745,2023-06-01 18:57:12,Incomplete,23.47,2.94,0.0,2.94,#73745 - Schillerkiez - 2023-06-01
+Schillerkiez,#D05CB,c071b7e5-01fe-4040-a103-58f61c5d05cb,2023-06-02 17:22:58,Missing Items,41.79,5.15,4.9,0.25,#D05CB - Schillerkiez - 2023-06-02
+Schillerkiez,#F7ECD,c641b206-15d5-4e01-a5d0-257ca96f7ecd,2023-06-07 22:53:32,Wrong Order,16.9,22.54,22.54,0.0,#F7ECD - Schillerkiez - 2023-06-07
+Schillerkiez,#44D2A,f38f4cd0-125c-4448-9ec6-e5abeaf44d2a,2023-06-11 13:31:49,Missing Items,16.98,5.68,5.4,0.28,#44D2A - Schillerkiez - 2023-06-11
+Schillerkiez,#3201E,169ea5a0-5112-4c9c-86a7-277b1c73201e,2023-06-11 19:37:09,Partial Missing Items,21.03,1.9,1.9,0.0,#3201E - Schillerkiez - 2023-06-11
+Schillerkiez,#42FC1,9f40728c-60d4-4eff-a7a2-93741c742fc1,2023-06-15 14:04:31,Food Quality,15.08,9.25,0.0,9.25,#42FC1 - Schillerkiez - 2023-06-15
+Schillerkiez,#0F489,1dd8b2a2-1f55-4643-a90b-3c2599c0f489,2023-06-25 20:26:43,Food Quality,17.01,17.01,0.0,17.01,#0F489 - Schillerkiez - 2023-06-25
+Schillerkiez,#650B4,a211b841-1d92-4ef4-a837-8de2a93650b4,2023-06-26 19:28:37,Incomplete,21.6,2.94,2.8,0.14,#650B4 - Schillerkiez - 2023-06-26
+DTM Westend,#42370,a0eeaaba-028e-404f-9fd3-0dd68f342370,2023-06-23 19:58:19,Missing Items,18.5,4.73,4.5,0.23,#42370 - DTM Westend - 2023-06-23
+DTM Westend,#83BB5,11cd8283-07a0-4c70-bacd-e587aa483bb5,2023-06-27 18:48:52,Missing Items,3.8,2.15,0.0,2.15,#83BB5 - DTM Westend - 2023-06-27
+DTM Westend,#A8CDA,033063c1-1224-4c1d-a75d-794f6e4a8cda,2023-06-28 19:02:30,Missing Items,13.27,2.0,1.9,0.1,#A8CDA - DTM Westend - 2023-06-28
+DTM Westend,#2E58B,2b2f37dd-97f5-463e-bccf-29384c32e58b,2023-06-29 16:32:28,Incomplete,10.7,4.9,0.9,4.0,#2E58B - DTM Westend - 2023-06-29
+DTM Westend,#7A380,31d9e973-8976-4a99-8f6e-394b7bc7a380,2023-06-30 21:31:34,Missing Items,12.2,4.9,4.9,0.0,#7A380 - DTM Westend - 2023-06-30
+Mitte,#0740A,a161198b-a0de-44c4-83dc-b8e99640740a,2023-06-04 19:13:26,Never Received,17.32,17.32,0.0,17.32,#0740A - Mitte - 2023-06-04
+Mitte,#E9365,5acf4834-09e6-41ce-82ee-4fbae2ce9365,2023-06-10 20:07:54,Incomplete,20.43,3.9,3.9,0.0,#E9365 - Mitte - 2023-06-10
+Mitte,#2E635,bc0e243a-4094-43be-96e8-87cbb5d2e635,2023-06-25 14:35:37,Incomplete,21.5,11.76,3.27,8.49,#2E635 - Mitte - 2023-06-25
+Mitte,#0432F,c5b8b473-d46b-4ceb-9f54-cc03e3e0432f,2023-06-26 18:18:29,Partial Missing Items,18.76,1.9,1.9,0.0,#0432F - Mitte - 2023-06-26
+Mitte,#233EB,258be89d-7552-4cb0-82b4-f2c5465233eb,2023-06-27 11:34:43,Never Received,10.2,10.2,0.0,10.2,#233EB - Mitte - 2023-06-27
+Mitte,#04BE1,0e2f795c-0493-4e33-8205-271706404be1,2023-06-27 18:43:43,Food Quality,6.7,6.7,0.0,6.7,#04BE1 - Mitte - 2023-06-27
+Mitte,#2C79B,3a0665d2-daaf-4df8-a521-573f5c52c79b,2023-06-29 13:07:44,Missing Items,24.06,10.29,9.8,0.49,#2C79B - Mitte - 2023-06-29
+Nollendorfkiez,#3DBCD,1c57c6df-6aac-461e-b69f-98b5f3b3dbcd,2023-06-25 12:34:19,Partial Missing Items,11.6,0.9,0.9,0.0,#3DBCD - Nollendorfkiez - 2023-06-25
+Nollendorfkiez,#4108B,711d516c-9849-48bf-95f2-eb8e91f4108b,2023-06-26 21:03:30,Missing Items,9.8,9.8,9.8,0.0,#4108B - Nollendorfkiez - 2023-06-26

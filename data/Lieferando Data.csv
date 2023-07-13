@@ -1,0 +1,721 @@
+PrimaryKey,Location,OrderID,OrderDate,OrderTime,Channel,DeliveryType,GrossAOV
+#VQK6QR - Mitte - 2022-12-01,Mitte,#VQK6QR,2022-12-01,13:51:59,Lieferando,Delivery,18.2
+#WC5HJZ - Mitte - 2022-12-01,Mitte,#WC5HJZ,2022-12-01,13:53:34,Lieferando,Delivery,50.3
+#BA5DDC - Mitte - 2022-12-01,Mitte,#BA5DDC,2022-12-01,14:00:18,Lieferando,Delivery,34.0
+#7U3X7Q - Mitte - 2022-12-01,Mitte,#7U3X7Q,2022-12-01,18:04:34,Lieferando,Delivery,19.4
+#IQQCLV - Prenzlauer Berg - 2022-12-01,Prenzlauer Berg,#IQQCLV,2022-12-01,18:20:12,Lieferando,Delivery,24.0
+#WWF8RD - Mitte - 2022-12-01,Mitte,#WWF8RD,2022-12-01,19:41:14,Lieferando,Delivery,16.3
+#V838JR - Mitte - 2022-12-01,Mitte,#V838JR,2022-12-01,20:52:34,Lieferando,Delivery,22.2
+#HJMFNS - Mitte - 2022-12-02,Mitte,#HJMFNS,2022-12-02,12:38:17,Lieferando,Pickup,18.4
+#XR1CZU - Mitte - 2022-12-02,Mitte,#XR1CZU,2022-12-02,12:47:12,Lieferando,Delivery,23.8
+#ITTZLW - Mitte - 2022-12-02,Mitte,#ITTZLW,2022-12-02,17:21:35,Lieferando,Delivery,33.6
+#E38VBN - Mitte - 2022-12-02,Mitte,#E38VBN,2022-12-02,18:17:21,Lieferando,Delivery,22.4
+#DWRDB9 - Prenzlauer Berg - 2022-12-02,Prenzlauer Berg,#DWRDB9,2022-12-02,19:05:59,Lieferando,Delivery,41.6
+#IWC6A8 - Mitte - 2022-12-03,Mitte,#IWC6A8,2022-12-03,17:53:13,Lieferando,Delivery,31.8
+#JPCF8Z - Mitte - 2022-12-03,Mitte,#JPCF8Z,2022-12-03,19:44:53,Lieferando,Delivery,25.9
+#YAR7KL - Mitte - 2022-12-03,Mitte,#YAR7KL,2022-12-03,20:08:12,Lieferando,Delivery,22.2
+#QOSJ6K - Mitte - 2022-12-04,Mitte,#QOSJ6K,2022-12-04,13:52:55,Lieferando,Delivery,24.9
+#W87KYB - Prenzlauer Berg - 2022-12-04,Prenzlauer Berg,#W87KYB,2022-12-04,16:03:56,Lieferando,Delivery,26.8
+#O2NYHW - Mitte - 2022-12-04,Mitte,#O2NYHW,2022-12-04,19:24:08,Lieferando,Delivery,14.6
+#AUUWDX - Prenzlauer Berg - 2022-12-04,Prenzlauer Berg,#AUUWDX,2022-12-04,20:30:00,Lieferando,Delivery,15.4
+#HVYCWM - Mitte - 2022-12-05,Mitte,#HVYCWM,2022-12-05,12:04:48,Lieferando,Delivery,24.0
+#T8YJFV - Mitte - 2022-12-05,Mitte,#T8YJFV,2022-12-05,12:26:19,Lieferando,Pickup,11.4
+#SNDUI2 - Mitte - 2022-12-05,Mitte,#SNDUI2,2022-12-05,12:29:25,Lieferando,Delivery,13.3
+#LQEIMQ - Prenzlauer Berg - 2022-12-05,Prenzlauer Berg,#LQEIMQ,2022-12-05,15:35:19,Lieferando,Delivery,16.3
+#Z98RG4 - Mitte - 2022-12-05,Mitte,#Z98RG4,2022-12-05,16:25:17,Lieferando,Delivery,33.6
+#9SP12N - Mitte - 2022-12-05,Mitte,#9SP12N,2022-12-05,17:55:06,Lieferando,Delivery,13.5
+#3WMQCO - Prenzlauer Berg - 2022-12-05,Prenzlauer Berg,#3WMQCO,2022-12-05,18:03:53,Lieferando,Delivery,26.4
+#LVLTIQ - Prenzlauer Berg - 2022-12-05,Prenzlauer Berg,#LVLTIQ,2022-12-05,18:46:43,Lieferando,Delivery,41.7
+#2OGN4F - Prenzlauer Berg - 2022-12-06,Prenzlauer Berg,#2OGN4F,2022-12-06,16:38:03,Lieferando,Delivery,25.3
+#4Y4E3X - Prenzlauer Berg - 2022-12-06,Prenzlauer Berg,#4Y4E3X,2022-12-06,16:46:14,Lieferando,Pickup,10.0
+#HCLUZ8 - Mitte - 2022-12-06,Mitte,#HCLUZ8,2022-12-06,16:47:37,Lieferando,Delivery,25.6
+#889A4V - Mitte - 2022-12-06,Mitte,#889A4V,2022-12-06,16:49:06,Lieferando,Delivery,34.3
+#WQTQBR - Prenzlauer Berg - 2022-12-06,Prenzlauer Berg,#WQTQBR,2022-12-06,16:51:18,Lieferando,Delivery,16.3
+#B44258 - Prenzlauer Berg - 2022-12-06,Prenzlauer Berg,#B44258,2022-12-06,17:27:34,Lieferando,Delivery,17.8
+#LYX2QK - Mitte - 2022-12-06,Mitte,#LYX2QK,2022-12-06,18:31:38,Lieferando,Delivery,12.9
+#EBD362 - Mitte - 2022-12-06,Mitte,#EBD362,2022-12-06,18:36:28,Lieferando,Delivery,16.3
+#R3G63J - Mitte - 2022-12-06,Mitte,#R3G63J,2022-12-06,18:45:41,Lieferando,Delivery,25.9
+#2UQP1Y - Mitte - 2022-12-06,Mitte,#2UQP1Y,2022-12-06,19:06:54,Lieferando,Delivery,28.6
+#D2N4Q9 - Mitte - 2022-12-06,Mitte,#D2N4Q9,2022-12-06,19:08:25,Lieferando,Delivery,15.3
+#XTHXT3 - Mitte - 2022-12-06,Mitte,#XTHXT3,2022-12-06,19:08:34,Lieferando,Delivery,31.5
+#E4E4HI - Prenzlauer Berg - 2022-12-06,Prenzlauer Berg,#E4E4HI,2022-12-06,19:55:03,Lieferando,Delivery,17.2
+#5OM5QT - Mitte - 2022-12-06,Mitte,#5OM5QT,2022-12-06,20:05:26,Lieferando,Delivery,21.8
+#PDTF16 - Mitte - 2022-12-06,Mitte,#PDTF16,2022-12-06,20:10:18,Lieferando,Delivery,30.8
+#BXJHNU - Mitte - 2022-12-06,Mitte,#BXJHNU,2022-12-06,20:16:32,Lieferando,Delivery,17.2
+#1REJ56 - Mitte - 2022-12-06,Mitte,#1REJ56,2022-12-06,21:21:03,Lieferando,Delivery,30.3
+#KW4UPV - Mitte - 2022-12-06,Mitte,#KW4UPV,2022-12-06,21:30:42,Lieferando,Delivery,18.4
+#RTVAQX - Mitte - 2022-12-07,Mitte,#RTVAQX,2022-12-07,11:50:35,Lieferando,Delivery,18.7
+#6VPP4J - Mitte - 2022-12-07,Mitte,#6VPP4J,2022-12-07,11:51:12,Lieferando,Delivery,18.9
+#L3VCTT - Mitte - 2022-12-07,Mitte,#L3VCTT,2022-12-07,11:59:25,Lieferando,Delivery,13.5
+#YTOII5 - Prenzlauer Berg - 2022-12-07,Prenzlauer Berg,#YTOII5,2022-12-07,13:54:20,Lieferando,Pickup,10.0
+#XFXK2R - Mitte - 2022-12-07,Mitte,#XFXK2R,2022-12-07,14:18:07,Lieferando,Delivery,24.3
+#JJG33N - Prenzlauer Berg - 2022-12-07,Prenzlauer Berg,#JJG33N,2022-12-07,15:12:15,Lieferando,Delivery,17.3
+#FTKGYW - Mitte - 2022-12-07,Mitte,#FTKGYW,2022-12-07,17:48:49,Lieferando,Delivery,32.9
+#A83QCF - Mitte - 2022-12-07,Mitte,#A83QCF,2022-12-07,20:21:04,Lieferando,Delivery,26.0
+#CA9A78 - Prenzlauer Berg - 2022-12-07,Prenzlauer Berg,#CA9A78,2022-12-07,20:21:07,Lieferando,Delivery,26.6
+#WWKKUE - Mitte - 2022-12-07,Mitte,#WWKKUE,2022-12-07,21:27:31,Lieferando,Delivery,22.4
+#VK1WVV - Prenzlauer Berg - 2022-12-08,Prenzlauer Berg,#VK1WVV,2022-12-08,12:17:18,Lieferando,Delivery,16.3
+#P4M2IG - Prenzlauer Berg - 2022-12-08,Prenzlauer Berg,#P4M2IG,2022-12-08,12:51:52,Lieferando,Delivery,17.3
+#8HMLB2 - Mitte - 2022-12-08,Mitte,#8HMLB2,2022-12-08,14:52:20,Lieferando,Delivery,22.7
+#RGWSVG - Prenzlauer Berg - 2022-12-08,Prenzlauer Berg,#RGWSVG,2022-12-08,17:13:19,Lieferando,Delivery,12.9
+#389WT7 - Prenzlauer Berg - 2022-12-08,Prenzlauer Berg,#389WT7,2022-12-08,17:36:20,Lieferando,Delivery,19.6
+#7691I5 - Mitte - 2022-12-08,Mitte,#7691I5,2022-12-08,18:10:09,Lieferando,Delivery,34.5
+#JIRBMS - Mitte - 2022-12-08,Mitte,#JIRBMS,2022-12-08,18:16:58,Lieferando,Delivery,32.0
+#4SPCZB - Mitte - 2022-12-08,Mitte,#4SPCZB,2022-12-08,18:45:27,Lieferando,Delivery,21.6
+#QWWLLI - Mitte - 2022-12-08,Mitte,#QWWLLI,2022-12-08,18:57:34,Lieferando,Delivery,32.5
+#DXSHFQ - Prenzlauer Berg - 2022-12-08,Prenzlauer Berg,#DXSHFQ,2022-12-08,20:04:58,Lieferando,Delivery,12.4
+#F9W2BZ - Mitte - 2022-12-08,Mitte,#F9W2BZ,2022-12-08,20:06:36,Lieferando,Delivery,22.7
+#FODMGP - Mitte - 2022-12-08,Mitte,#FODMGP,2022-12-08,20:09:22,Lieferando,Delivery,35.0
+#RLE7A8 - Mitte - 2022-12-08,Mitte,#RLE7A8,2022-12-08,20:19:52,Lieferando,Delivery,26.6
+#1M44FP - Prenzlauer Berg - 2022-12-08,Prenzlauer Berg,#1M44FP,2022-12-08,20:23:35,Lieferando,Delivery,24.8
+#CLLMVG - Prenzlauer Berg - 2022-12-08,Prenzlauer Berg,#CLLMVG,2022-12-08,20:47:23,Lieferando,Delivery,16.8
+#JELCPO - Prenzlauer Berg - 2022-12-08,Prenzlauer Berg,#JELCPO,2022-12-08,21:25:20,Lieferando,Delivery,13.8
+#YWN1JC - Mitte - 2022-12-09,Mitte,#YWN1JC,2022-12-09,11:21:23,Lieferando,Delivery,21.3
+#GTOFPZ - Mitte - 2022-12-09,Mitte,#GTOFPZ,2022-12-09,11:43:08,Lieferando,Delivery,17.3
+#4R2PLU - Mitte - 2022-12-09,Mitte,#4R2PLU,2022-12-09,12:00:07,Lieferando,Delivery,19.4
+#V4D7JK - Mitte - 2022-12-09,Mitte,#V4D7JK,2022-12-09,14:10:10,Lieferando,Delivery,16.9
+#P8MXQS - Prenzlauer Berg - 2022-12-09,Prenzlauer Berg,#P8MXQS,2022-12-09,16:02:08,Lieferando,Delivery,14.3
+#F77D5B - Mitte - 2022-12-09,Mitte,#F77D5B,2022-12-09,17:52:59,Lieferando,Delivery,35.7
+#3PTAHV - Mitte - 2022-12-09,Mitte,#3PTAHV,2022-12-09,18:02:03,Lieferando,Delivery,36.7
+#W38ZZ9 - Prenzlauer Berg - 2022-12-09,Prenzlauer Berg,#W38ZZ9,2022-12-09,18:45:31,Lieferando,Delivery,15.8
+#XAOSBW - Prenzlauer Berg - 2022-12-09,Prenzlauer Berg,#XAOSBW,2022-12-09,18:50:52,Lieferando,Delivery,24.1
+#TFG6NO - Mitte - 2022-12-09,Mitte,#TFG6NO,2022-12-09,19:23:11,Lieferando,Delivery,21.0
+#EU12XN - Prenzlauer Berg - 2022-12-10,Prenzlauer Berg,#EU12XN,2022-12-10,10:37:08,Lieferando,Delivery,42.6
+#877254 - Prenzlauer Berg - 2022-12-10,Prenzlauer Berg,#877254,2022-12-10,12:03:10,Lieferando,Delivery,23.8
+#OLCE6W - Prenzlauer Berg - 2022-12-10,Prenzlauer Berg,#OLCE6W,2022-12-10,14:35:16,Lieferando,Delivery,15.9
+#AUWZOM - Mitte - 2022-12-10,Mitte,#AUWZOM,2022-12-10,14:40:29,Lieferando,Delivery,25.9
+#8D9UNR - Prenzlauer Berg - 2022-12-10,Prenzlauer Berg,#8D9UNR,2022-12-10,16:52:52,Lieferando,Delivery,14.9
+#E1YOBD - Prenzlauer Berg - 2022-12-10,Prenzlauer Berg,#E1YOBD,2022-12-10,17:09:56,Lieferando,Delivery,27.1
+#MDAEL7 - Mitte - 2022-12-10,Mitte,#MDAEL7,2022-12-10,17:36:22,Lieferando,Delivery,23.1
+#UM9L4Z - Mitte - 2022-12-10,Mitte,#UM9L4Z,2022-12-10,18:01:32,Lieferando,Delivery,20.7
+#WJYBLQ - Mitte - 2022-12-10,Mitte,#WJYBLQ,2022-12-10,19:28:41,Lieferando,Delivery,26.8
+#AFFGVC - Mitte - 2022-12-10,Mitte,#AFFGVC,2022-12-10,20:16:11,Lieferando,Delivery,21.0
+#VO4B4G - Mitte - 2022-12-10,Mitte,#VO4B4G,2022-12-10,21:06:27,Lieferando,Delivery,42.4
+#RB5419 - Mitte - 2022-12-10,Mitte,#RB5419,2022-12-10,21:17:48,Lieferando,Delivery,26.6
+#H9QI1K - Mitte - 2022-12-11,Mitte,#H9QI1K,2022-12-11,09:51:19,Lieferando,Delivery,41.0
+#CGHYRL - Mitte - 2022-12-11,Mitte,#CGHYRL,2022-12-11,12:24:41,Lieferando,Delivery,22.2
+#AXORWZ - Mitte - 2022-12-11,Mitte,#AXORWZ,2022-12-11,12:26:20,Lieferando,Delivery,18.2
+#WSS66N - Prenzlauer Berg - 2022-12-11,Prenzlauer Berg,#WSS66N,2022-12-11,17:10:15,Lieferando,Delivery,31.2
+#ASUFP7 - Mitte - 2022-12-11,Mitte,#ASUFP7,2022-12-11,17:25:18,Lieferando,Delivery,15.9
+#QWFIUJ - Prenzlauer Berg - 2022-12-11,Prenzlauer Berg,#QWFIUJ,2022-12-11,18:32:05,Lieferando,Pickup,27.3
+#OQ2UDB - Mitte - 2022-12-11,Mitte,#OQ2UDB,2022-12-11,18:42:41,Lieferando,Delivery,12.9
+#8EMDWX - Mitte - 2022-12-11,Mitte,#8EMDWX,2022-12-11,18:45:27,Lieferando,Delivery,15.9
+#HIQZ18 - Mitte - 2022-12-11,Mitte,#HIQZ18,2022-12-11,20:03:33,Lieferando,Delivery,16.8
+#7IMXJV - Mitte - 2022-12-11,Mitte,#7IMXJV,2022-12-11,20:30:28,Lieferando,Pickup,28.7
+#A2V6FH - Prenzlauer Berg - 2022-12-12,Prenzlauer Berg,#A2V6FH,2022-12-12,11:39:34,Lieferando,Delivery,11.9
+#QF2AXC - Mitte - 2022-12-12,Mitte,#QF2AXC,2022-12-12,12:11:00,Lieferando,Delivery,16.2
+#MIK5TL - Prenzlauer Berg - 2022-12-12,Prenzlauer Berg,#MIK5TL,2022-12-12,12:23:11,Lieferando,Delivery,18.2
+#4W6SWT - Mitte - 2022-12-12,Mitte,#4W6SWT,2022-12-12,15:19:29,Lieferando,Delivery,10.9
+#M98LFE - Prenzlauer Berg - 2022-12-12,Prenzlauer Berg,#M98LFE,2022-12-12,15:35:49,Lieferando,Delivery,10.9
+#CY1U7V - Prenzlauer Berg - 2022-12-12,Prenzlauer Berg,#CY1U7V,2022-12-12,16:08:32,Lieferando,Delivery,17.2
+#8K3ZMR - Mitte - 2022-12-12,Mitte,#8K3ZMR,2022-12-12,17:30:32,Lieferando,Delivery,22.8
+#19YK2O - Prenzlauer Berg - 2022-12-12,Prenzlauer Berg,#19YK2O,2022-12-12,17:53:45,Lieferando,Delivery,15.9
+#U7J76F - Prenzlauer Berg - 2022-12-12,Prenzlauer Berg,#U7J76F,2022-12-12,18:17:31,Lieferando,Delivery,28.2
+#Z9FHFY - Mitte - 2022-12-12,Mitte,#Z9FHFY,2022-12-12,18:23:13,Lieferando,Delivery,15.9
+#CTOI9G - Prenzlauer Berg - 2022-12-12,Prenzlauer Berg,#CTOI9G,2022-12-12,18:30:12,Lieferando,Delivery,50.9
+#P5166E - Prenzlauer Berg - 2022-12-12,Prenzlauer Berg,#P5166E,2022-12-12,18:50:11,Lieferando,Delivery,30.1
+#9BCCTV - Mitte - 2022-12-12,Mitte,#9BCCTV,2022-12-12,19:27:36,Lieferando,Delivery,14.0
+#RCYV7S - Mitte - 2022-12-12,Mitte,#RCYV7S,2022-12-12,20:06:13,Lieferando,Delivery,14.4
+#YISNXQ - Prenzlauer Berg - 2022-12-13,Prenzlauer Berg,#YISNXQ,2022-12-13,11:32:37,Lieferando,Delivery,25.1
+#Y7WH65 - Prenzlauer Berg - 2022-12-13,Prenzlauer Berg,#Y7WH65,2022-12-13,11:39:23,Lieferando,Delivery,21.2
+#45O8MU - Prenzlauer Berg - 2022-12-13,Prenzlauer Berg,#45O8MU,2022-12-13,12:17:00,Lieferando,Delivery,24.7
+#WDHB55 - Prenzlauer Berg - 2022-12-13,Prenzlauer Berg,#WDHB55,2022-12-13,13:00:14,Lieferando,Delivery,17.3
+#UEXG4H - Prenzlauer Berg - 2022-12-13,Prenzlauer Berg,#UEXG4H,2022-12-13,13:07:03,Lieferando,Delivery,21.3
+#GJTQNZ - Prenzlauer Berg - 2022-12-13,Prenzlauer Berg,#GJTQNZ,2022-12-13,13:59:58,Lieferando,Delivery,11.9
+#JWEX4T - Mitte - 2022-12-13,Mitte,#JWEX4T,2022-12-13,15:05:11,Lieferando,Delivery,17.2
+#RHNIYD - Prenzlauer Berg - 2022-12-13,Prenzlauer Berg,#RHNIYD,2022-12-13,15:39:56,Lieferando,Delivery,17.2
+#MNOPER - Prenzlauer Berg - 2022-12-13,Prenzlauer Berg,#MNOPER,2022-12-13,16:03:00,Lieferando,Delivery,44.4
+#VXNVD8 - Prenzlauer Berg - 2022-12-13,Prenzlauer Berg,#VXNVD8,2022-12-13,16:13:24,Lieferando,Delivery,15.8
+#LHFROR - Prenzlauer Berg - 2022-12-14,Prenzlauer Berg,#LHFROR,2022-12-14,11:37:22,Lieferando,Delivery,26.7
+#QGE9UY - Prenzlauer Berg - 2022-12-14,Prenzlauer Berg,#QGE9UY,2022-12-14,11:41:24,Lieferando,Delivery,36.9
+#1CN1DF - Prenzlauer Berg - 2022-12-14,Prenzlauer Berg,#1CN1DF,2022-12-14,11:51:03,Lieferando,Delivery,20.7
+#FTB6S1 - Prenzlauer Berg - 2022-12-14,Prenzlauer Berg,#FTB6S1,2022-12-14,13:42:38,Lieferando,Delivery,13.4
+#Z2SW8I - Prenzlauer Berg - 2022-12-14,Prenzlauer Berg,#Z2SW8I,2022-12-14,14:33:18,Lieferando,Delivery,18.3
+#LVP7CH - Prenzlauer Berg - 2022-12-14,Prenzlauer Berg,#LVP7CH,2022-12-14,14:50:53,Lieferando,Delivery,16.8
+#5N6DAW - Prenzlauer Berg - 2022-12-14,Prenzlauer Berg,#5N6DAW,2022-12-14,17:19:16,Lieferando,Delivery,18.2
+#2XDOID - Prenzlauer Berg - 2022-12-14,Prenzlauer Berg,#2XDOID,2022-12-14,17:24:02,Lieferando,Delivery,17.3
+#XDPDS2 - Mitte - 2022-12-14,Mitte,#XDPDS2,2022-12-14,19:33:16,Lieferando,Delivery,29.7
+#WWQ5B5 - Prenzlauer Berg - 2022-12-14,Prenzlauer Berg,#WWQ5B5,2022-12-14,19:42:18,Lieferando,Delivery,23.8
+#4PN7TA - Prenzlauer Berg - 2022-12-14,Prenzlauer Berg,#4PN7TA,2022-12-14,19:48:59,Lieferando,Delivery,21.9
+#3FDLNL - Mitte - 2022-12-14,Mitte,#3FDLNL,2022-12-14,19:52:52,Lieferando,Delivery,11.4
+#SG62ZX - Prenzlauer Berg - 2022-12-15,Prenzlauer Berg,#SG62ZX,2022-12-15,12:05:06,Lieferando,Delivery,18.2
+#LJKNG2 - Mitte - 2022-12-15,Mitte,#LJKNG2,2022-12-15,13:59:46,Lieferando,Delivery,17.3
+#ELK4WT - Mitte - 2022-12-15,Mitte,#ELK4WT,2022-12-15,15:52:30,Lieferando,Delivery,18.2
+#X5AOSI - Mitte - 2022-12-15,Mitte,#X5AOSI,2022-12-15,17:16:54,Lieferando,Delivery,20.4
+#1RJGAJ - Prenzlauer Berg - 2022-12-15,Prenzlauer Berg,#1RJGAJ,2022-12-15,17:35:07,Lieferando,Delivery,15.8
+#AO4GQJ - Mitte - 2022-12-15,Mitte,#AO4GQJ,2022-12-15,19:02:36,Lieferando,Delivery,25.7
+#UXMPSU - Prenzlauer Berg - 2022-12-15,Prenzlauer Berg,#UXMPSU,2022-12-15,19:49:25,Lieferando,Delivery,16.8
+#WPYUOY - Prenzlauer Berg - 2022-12-15,Prenzlauer Berg,#WPYUOY,2022-12-15,20:45:56,Lieferando,Delivery,52.1
+#WGZV4G - Mitte - 2022-12-16,Mitte,#WGZV4G,2022-12-16,11:10:24,Lieferando,Delivery,25.2
+#DB4QIF - Prenzlauer Berg - 2022-12-16,Prenzlauer Berg,#DB4QIF,2022-12-16,11:49:44,Lieferando,Delivery,27.4
+#O421D1 - Prenzlauer Berg - 2022-12-16,Prenzlauer Berg,#O421D1,2022-12-16,12:08:11,Lieferando,Delivery,33.3
+#ES78J1 - Mitte - 2022-12-16,Mitte,#ES78J1,2022-12-16,13:28:17,Lieferando,Delivery,14.4
+#VDS9US - Prenzlauer Berg - 2022-12-16,Prenzlauer Berg,#VDS9US,2022-12-16,14:26:02,Lieferando,Delivery,84.8
+#963JT6 - Prenzlauer Berg - 2022-12-16,Prenzlauer Berg,#963JT6,2022-12-16,15:42:19,Lieferando,Delivery,24.5
+#2VMRCX - Mitte - 2022-12-16,Mitte,#2VMRCX,2022-12-16,19:31:59,Lieferando,Delivery,29.1
+#4YJFS1 - Mitte - 2022-12-17,Mitte,#4YJFS1,2022-12-17,12:10:48,Lieferando,Delivery,17.0
+#OD59GI - Mitte - 2022-12-17,Mitte,#OD59GI,2022-12-17,13:03:04,Lieferando,Delivery,46.7
+#OW2WDX - Mitte - 2022-12-17,Mitte,#OW2WDX,2022-12-17,13:49:48,Lieferando,Delivery,10.7
+#PWCVZH - Prenzlauer Berg - 2022-12-17,Prenzlauer Berg,#PWCVZH,2022-12-17,14:39:17,Lieferando,Delivery,16.3
+#K7YCWJ - Prenzlauer Berg - 2022-12-17,Prenzlauer Berg,#K7YCWJ,2022-12-17,14:46:22,Lieferando,Delivery,20.8
+#RHRIMY - Prenzlauer Berg - 2022-12-17,Prenzlauer Berg,#RHRIMY,2022-12-17,15:32:22,Lieferando,Delivery,21.9
+#55RA5F - Prenzlauer Berg - 2022-12-17,Prenzlauer Berg,#55RA5F,2022-12-17,18:56:17,Lieferando,Delivery,11.9
+#AP19YD - Mitte - 2022-12-18,Mitte,#AP19YD,2022-12-18,11:58:31,Lieferando,Delivery,22.0
+#5YXC85 - Mitte - 2022-12-18,Mitte,#5YXC85,2022-12-18,13:53:19,Lieferando,Delivery,25.8
+#BLLYNH - Mitte - 2022-12-18,Mitte,#BLLYNH,2022-12-18,17:41:17,Lieferando,Delivery,31.5
+#2MC96X - Mitte - 2022-12-18,Mitte,#2MC96X,2022-12-18,19:50:58,Lieferando,Delivery,16.9
+#GAKIG2 - Prenzlauer Berg - 2022-12-19,Prenzlauer Berg,#GAKIG2,2022-12-19,16:27:56,Lieferando,Delivery,31.3
+#KCN5H7 - Mitte - 2022-12-19,Mitte,#KCN5H7,2022-12-19,19:56:13,Lieferando,Delivery,22.1
+#CRM2XG - Prenzlauer Berg - 2022-12-20,Prenzlauer Berg,#CRM2XG,2022-12-20,11:51:18,Lieferando,Delivery,20.3
+#MY4SWU - Prenzlauer Berg - 2022-12-20,Prenzlauer Berg,#MY4SWU,2022-12-20,17:07:18,Lieferando,Delivery,17.4
+#3HFWNQ - Mitte - 2022-12-21,Mitte,#3HFWNQ,2022-12-21,17:14:22,Lieferando,Delivery,10.0
+#MJ2PUL - Mitte - 2022-12-22,Mitte,#MJ2PUL,2022-12-22,16:51:44,Lieferando,Delivery,30.2
+#BVS1FU - Prenzlauer Berg - 2022-12-23,Prenzlauer Berg,#BVS1FU,2022-12-23,12:55:25,Lieferando,Delivery,45.1
+#MLTRR7 - Mitte - 2022-12-23,Mitte,#MLTRR7,2022-12-23,13:29:57,Lieferando,Delivery,30.9
+#K8II7D - Prenzlauer Berg - 2022-12-23,Prenzlauer Berg,#K8II7D,2022-12-23,18:09:55,Lieferando,Delivery,25.8
+#XBEZ7X - Mitte - 2022-12-23,Mitte,#XBEZ7X,2022-12-23,21:25:01,Lieferando,Delivery,11.6
+#UUTDTY - Mitte - 2022-12-27,Mitte,#UUTDTY,2022-12-27,14:25:26,Lieferando,Delivery,11.4
+#VS34QP - Prenzlauer Berg - 2022-12-27,Prenzlauer Berg,#VS34QP,2022-12-27,17:39:07,Lieferando,Delivery,25.6
+#X2UQO2 - Mitte - 2022-12-27,Mitte,#X2UQO2,2022-12-27,20:33:32,Lieferando,Delivery,49.2
+#99L7DX - Mitte - 2022-12-28,Mitte,#99L7DX,2022-12-28,14:17:43,Lieferando,Delivery,32.2
+#35WAAD - Mitte - 2022-12-28,Mitte,#35WAAD,2022-12-28,18:49:47,Lieferando,Delivery,30.8
+#HA4U93 - Mitte - 2022-12-28,Mitte,#HA4U93,2022-12-28,19:58:46,Lieferando,Delivery,11.0
+#NSB7E2 - Mitte - 2022-12-28,Mitte,#NSB7E2,2022-12-28,20:41:02,Lieferando,Delivery,47.8
+#ADC3GA - Mitte - 2022-12-28,Mitte,#ADC3GA,2022-12-28,21:45:10,Lieferando,Delivery,13.1
+#XOLJS2 - Mitte - 2022-12-29,Mitte,#XOLJS2,2022-12-29,12:44:55,Lieferando,Delivery,11.4
+#Y999Y9 - Mitte - 2022-12-29,Mitte,#Y999Y9,2022-12-29,13:11:41,Lieferando,Delivery,35.5
+#XQ82G4 - Mitte - 2022-12-29,Mitte,#XQ82G4,2022-12-29,14:09:41,Lieferando,Delivery,17.6
+#AAC9N1 - Friedrichshain - 2022-12-30,Friedrichshain,#AAC9N1,2022-12-30,18:16:05,Lieferando,Delivery,22.6
+#89GOFC - Friedrichshain - 2022-12-30,Friedrichshain,#89GOFC,2022-12-30,18:18:33,Lieferando,Delivery,63.0
+#AYK1AZ - Mitte - 2022-12-30,Mitte,#AYK1AZ,2022-12-30,18:41:30,Lieferando,Pickup,26.2
+#SHJT7W - Mitte - 2023-01-01,Mitte,#SHJT7W,2023-01-01,13:34:23,Lieferando,Delivery,35.8
+#NTVOTN - Mitte - 2023-01-01,Mitte,#NTVOTN,2023-01-01,18:04:57,Lieferando,Delivery,41.8
+#VI513U - Mitte - 2023-01-01,Mitte,#VI513U,2023-01-01,18:17:09,Lieferando,Delivery,95.6
+#SSTXE1 - Mitte - 2023-01-01,Mitte,#SSTXE1,2023-01-01,18:34:47,Lieferando,Delivery,22.0
+#XD9YT6 - Prenzlauer Berg - 2023-01-01,Prenzlauer Berg,#XD9YT6,2023-01-01,19:21:59,Lieferando,Delivery,14.8
+#A6UAV2 - Prenzlauer Berg - 2023-01-01,Prenzlauer Berg,#A6UAV2,2023-01-01,19:55:31,Lieferando,Delivery,31.2
+#88ARFK - Mitte - 2023-01-01,Mitte,#88ARFK,2023-01-01,21:08:16,Lieferando,Delivery,34.3
+#6GTJSH - Friedrichshain - 2023-01-02,Friedrichshain,#6GTJSH,2023-01-02,13:40:42,Lieferando,Delivery,21.1
+#688KA5 - Mitte - 2023-01-02,Mitte,#688KA5,2023-01-02,14:02:08,Lieferando,Delivery,57.8
+#TBKOLV - Friedrichshain - 2023-01-02,Friedrichshain,#TBKOLV,2023-01-02,16:51:55,Lieferando,Delivery,48.2
+#E7AYT6 - Friedrichshain - 2023-01-03,Friedrichshain,#E7AYT6,2023-01-03,11:34:05,Lieferando,Delivery,25.4
+#PIBOCC - Friedrichshain - 2023-01-03,Friedrichshain,#PIBOCC,2023-01-03,12:36:38,Lieferando,Delivery,18.8
+#DOBSZE - Friedrichshain - 2023-01-03,Friedrichshain,#DOBSZE,2023-01-03,13:51:48,Lieferando,Delivery,28.2
+#4RB3AP - Friedrichshain - 2023-01-03,Friedrichshain,#4RB3AP,2023-01-03,14:49:33,Lieferando,Delivery,17.3
+#NXT44T - Friedrichshain - 2023-01-03,Friedrichshain,#NXT44T,2023-01-03,15:19:49,Lieferando,Delivery,30.4
+#VBNGEZ - Prenzlauer Berg - 2023-01-03,Prenzlauer Berg,#VBNGEZ,2023-01-03,17:42:01,Lieferando,Delivery,26.8
+#H674SY - Friedrichshain - 2023-01-04,Friedrichshain,#H674SY,2023-01-04,11:53:01,Lieferando,Delivery,12.0
+#9LMGD5 - Mitte - 2023-01-04,Mitte,#9LMGD5,2023-01-04,13:27:13,Lieferando,Delivery,13.5
+#X1BLHD - Prenzlauer Berg - 2023-01-04,Prenzlauer Berg,#X1BLHD,2023-01-04,13:44:51,Lieferando,Delivery,17.7
+#DSNFCI - Friedrichshain - 2023-01-04,Friedrichshain,#DSNFCI,2023-01-04,15:41:22,Lieferando,Delivery,17.8
+#WQ2XIV - Friedrichshain - 2023-01-04,Friedrichshain,#WQ2XIV,2023-01-04,16:33:09,Lieferando,Delivery,16.8
+#563U8P - Mitte - 2023-01-04,Mitte,#563U8P,2023-01-04,16:35:55,Lieferando,Delivery,13.8
+#RIZI4Y - Friedrichshain - 2023-01-04,Friedrichshain,#RIZI4Y,2023-01-04,18:09:45,Lieferando,Delivery,22.8
+#8OVG8T - Friedrichshain - 2023-01-05,Friedrichshain,#8OVG8T,2023-01-05,11:31:10,Lieferando,Delivery,18.2
+#6V1PUW - Prenzlauer Berg - 2023-01-05,Prenzlauer Berg,#6V1PUW,2023-01-05,11:58:37,Lieferando,Delivery,20.5
+#WT9GMU - Prenzlauer Berg - 2023-01-05,Prenzlauer Berg,#WT9GMU,2023-01-05,14:49:17,Lieferando,Delivery,18.7
+#UC2RE5 - Mitte - 2023-01-05,Mitte,#UC2RE5,2023-01-05,15:49:43,Lieferando,Delivery,15.8
+#4VN96I - Prenzlauer Berg - 2023-01-05,Prenzlauer Berg,#4VN96I,2023-01-05,18:24:27,Lieferando,Delivery,34.1
+#8TLOHH - Friedrichshain - 2023-01-05,Friedrichshain,#8TLOHH,2023-01-05,18:28:29,Lieferando,Delivery,20.7
+#JGCW5R - Friedrichshain - 2023-01-06,Friedrichshain,#JGCW5R,2023-01-06,12:10:31,Lieferando,Delivery,10.7
+#XSO2OG - Prenzlauer Berg - 2023-01-06,Prenzlauer Berg,#XSO2OG,2023-01-06,17:20:35,Lieferando,Delivery,22.3
+#A4V5ZU - Mitte - 2023-01-06,Mitte,#A4V5ZU,2023-01-06,17:26:32,Lieferando,Delivery,32.7
+#MA3E9C - Prenzlauer Berg - 2023-01-06,Prenzlauer Berg,#MA3E9C,2023-01-06,18:09:30,Lieferando,Delivery,48.4
+#BOEBQH - Friedrichshain - 2023-01-06,Friedrichshain,#BOEBQH,2023-01-06,18:39:33,Lieferando,Delivery,16.3
+#53ZB2I - Prenzlauer Berg - 2023-01-07,Prenzlauer Berg,#53ZB2I,2023-01-07,12:41:54,Lieferando,Delivery,21.1
+#8NV6WD - Friedrichshain - 2023-01-07,Friedrichshain,#8NV6WD,2023-01-07,13:19:55,Lieferando,Delivery,17.3
+#XSSX3X - Prenzlauer Berg - 2023-01-07,Prenzlauer Berg,#XSSX3X,2023-01-07,19:15:25,Lieferando,Delivery,13.4
+#5KVU8J - Mitte - 2023-01-08,Mitte,#5KVU8J,2023-01-08,14:05:22,Lieferando,Delivery,23.9
+#BYXGJR - Prenzlauer Berg - 2023-01-08,Prenzlauer Berg,#BYXGJR,2023-01-08,16:02:07,Lieferando,Delivery,42.1
+#TM3NOH - Friedrichshain - 2023-01-08,Friedrichshain,#TM3NOH,2023-01-08,17:52:48,Lieferando,Delivery,23.8
+#9SZEO8 - Friedrichshain - 2023-01-09,Friedrichshain,#9SZEO8,2023-01-09,18:57:29,Lieferando,Delivery,15.4
+#TGF8WP - Friedrichshain - 2023-01-09,Friedrichshain,#TGF8WP,2023-01-09,20:43:16,Lieferando,Delivery,18.2
+#V7HA9E - Friedrichshain - 2023-01-10,Friedrichshain,#V7HA9E,2023-01-10,12:25:29,Lieferando,Delivery,11.4
+#FNL2FE - Friedrichshain - 2023-01-10,Friedrichshain,#FNL2FE,2023-01-10,16:01:38,Lieferando,Delivery,32.9
+#VSSIQY - Prenzlauer Berg - 2023-01-10,Prenzlauer Berg,#VSSIQY,2023-01-10,16:10:51,Lieferando,Delivery,24.3
+#RW6J2C - Friedrichshain - 2023-01-10,Friedrichshain,#RW6J2C,2023-01-10,17:12:13,Lieferando,Delivery,22.8
+#47JX4B - Prenzlauer Berg - 2023-01-10,Prenzlauer Berg,#47JX4B,2023-01-10,18:58:00,Lieferando,Delivery,17.8
+#OFP3BR - Friedrichshain - 2023-01-10,Friedrichshain,#OFP3BR,2023-01-10,20:13:47,Lieferando,Delivery,22.4
+#7LV5QM - Mitte - 2023-01-10,Mitte,#7LV5QM,2023-01-10,20:34:24,Lieferando,Delivery,11.0
+#M47WYO - Friedrichshain - 2023-01-11,Friedrichshain,#M47WYO,2023-01-11,08:52:16,Lieferando,Delivery,15.4
+#PP8FDW - Friedrichshain - 2023-01-11,Friedrichshain,#PP8FDW,2023-01-11,12:45:57,Lieferando,Delivery,27.5
+#L5VLJ8 - Friedrichshain - 2023-01-11,Friedrichshain,#L5VLJ8,2023-01-11,12:49:52,Lieferando,Delivery,18.6
+#C5XPTD - Friedrichshain - 2023-01-11,Friedrichshain,#C5XPTD,2023-01-11,12:58:05,Lieferando,Delivery,17.3
+#5G1LYC - Prenzlauer Berg - 2023-01-11,Prenzlauer Berg,#5G1LYC,2023-01-11,13:39:06,Lieferando,Delivery,16.9
+#CSNSFN - Friedrichshain - 2023-01-11,Friedrichshain,#CSNSFN,2023-01-11,15:32:53,Lieferando,Delivery,17.2
+#MR9V87 - Friedrichshain - 2023-01-11,Friedrichshain,#MR9V87,2023-01-11,15:32:54,Lieferando,Delivery,31.2
+#Z3UBQZ - Friedrichshain - 2023-01-11,Friedrichshain,#Z3UBQZ,2023-01-11,15:34:10,Lieferando,Delivery,26.7
+#DKUOIF - Mitte - 2023-01-11,Mitte,#DKUOIF,2023-01-11,15:39:09,Lieferando,Delivery,12.9
+#BI797F - Friedrichshain - 2023-01-11,Friedrichshain,#BI797F,2023-01-11,16:05:27,Lieferando,Delivery,28.8
+#7SE435 - Friedrichshain - 2023-01-11,Friedrichshain,#7SE435,2023-01-11,16:07:38,Lieferando,Delivery,31.1
+#2SXR4H - Friedrichshain - 2023-01-11,Friedrichshain,#2SXR4H,2023-01-11,16:18:34,Lieferando,Delivery,21.7
+#8R4Y2E - Friedrichshain - 2023-01-11,Friedrichshain,#8R4Y2E,2023-01-11,18:00:15,Lieferando,Delivery,13.4
+#SOS7JQ - Friedrichshain - 2023-01-11,Friedrichshain,#SOS7JQ,2023-01-11,18:08:06,Lieferando,Delivery,21.3
+#1PVZHB - Friedrichshain - 2023-01-11,Friedrichshain,#1PVZHB,2023-01-11,18:32:02,Lieferando,Delivery,17.8
+#Y1CQM5 - Friedrichshain - 2023-01-11,Friedrichshain,#Y1CQM5,2023-01-11,19:43:39,Lieferando,Delivery,18.4
+#TNO3OK - Friedrichshain - 2023-01-12,Friedrichshain,#TNO3OK,2023-01-12,10:01:54,Lieferando,Delivery,31.0
+#48C9T7 - Friedrichshain - 2023-01-12,Friedrichshain,#48C9T7,2023-01-12,12:41:01,Lieferando,Delivery,25.8
+#7UP4X5 - Friedrichshain - 2023-01-12,Friedrichshain,#7UP4X5,2023-01-12,14:08:06,Lieferando,Delivery,14.9
+#PUI9MU - Friedrichshain - 2023-01-12,Friedrichshain,#PUI9MU,2023-01-12,16:39:19,Lieferando,Delivery,41.4
+#7SA3HS - Mitte - 2023-01-12,Mitte,#7SA3HS,2023-01-12,17:00:46,Lieferando,Delivery,10.3
+#1LLZWM - Friedrichshain - 2023-01-12,Friedrichshain,#1LLZWM,2023-01-12,18:22:16,Lieferando,Delivery,12.9
+#AA6SER - Friedrichshain - 2023-01-12,Friedrichshain,#AA6SER,2023-01-12,18:48:33,Lieferando,Delivery,20.3
+#NZCTMI - Friedrichshain - 2023-01-12,Friedrichshain,#NZCTMI,2023-01-12,18:50:35,Lieferando,Delivery,26.3
+#8UDA47 - Mitte - 2023-01-13,Mitte,#8UDA47,2023-01-13,10:26:26,Lieferando,Pickup,17.7
+#C4TGC1 - Friedrichshain - 2023-01-13,Friedrichshain,#C4TGC1,2023-01-13,16:44:23,Lieferando,Delivery,15.8
+#JSN9YC - Friedrichshain - 2023-01-13,Friedrichshain,#JSN9YC,2023-01-13,18:00:32,Lieferando,Delivery,18.7
+#7ON2W6 - Prenzlauer Berg - 2023-01-13,Prenzlauer Berg,#7ON2W6,2023-01-13,19:04:14,Lieferando,Delivery,27.3
+#EVI9P3 - Friedrichshain - 2023-01-14,Friedrichshain,#EVI9P3,2023-01-14,11:23:30,Lieferando,Delivery,11.9
+#3K1KK7 - Friedrichshain - 2023-01-14,Friedrichshain,#3K1KK7,2023-01-14,12:59:31,Lieferando,Delivery,14.8
+#DDLU2L - Friedrichshain - 2023-01-14,Friedrichshain,#DDLU2L,2023-01-14,13:55:26,Lieferando,Delivery,42.7
+#TL6B9M - Friedrichshain - 2023-01-14,Friedrichshain,#TL6B9M,2023-01-14,14:58:39,Lieferando,Delivery,27.5
+#JXNXT6 - Mitte - 2023-01-15,Mitte,#JXNXT6,2023-01-15,13:47:49,Lieferando,Delivery,13.2
+#WWNEFG - Prenzlauer Berg - 2023-01-15,Prenzlauer Berg,#WWNEFG,2023-01-15,14:09:01,Lieferando,Delivery,126.5
+#XST8Z1 - Prenzlauer Berg - 2023-01-15,Prenzlauer Berg,#XST8Z1,2023-01-15,14:14:57,Lieferando,Delivery,17.8
+#2R376S - Prenzlauer Berg - 2023-01-15,Prenzlauer Berg,#2R376S,2023-01-15,15:35:55,Lieferando,Delivery,44.4
+#WSN6DD - Mitte - 2023-01-15,Mitte,#WSN6DD,2023-01-15,16:31:07,Lieferando,Delivery,13.0
+#DPXBGX - Mitte - 2023-01-15,Mitte,#DPXBGX,2023-01-15,19:27:20,Lieferando,Delivery,17.8
+#4P2SH7 - Prenzlauer Berg - 2023-01-17,Prenzlauer Berg,#4P2SH7,2023-01-17,18:01:47,Lieferando,Delivery,50.8
+#VLFCEW - Prenzlauer Berg - 2023-01-17,Prenzlauer Berg,#VLFCEW,2023-01-17,18:59:40,Lieferando,Delivery,15.8
+#1EATN8 - Prenzlauer Berg - 2023-01-18,Prenzlauer Berg,#1EATN8,2023-01-18,19:29:23,Lieferando,Delivery,30.1
+#X4Z8V4 - Prenzlauer Berg - 2023-01-19,Prenzlauer Berg,#X4Z8V4,2023-01-19,12:49:15,Lieferando,Delivery,34.4
+#FDFLY1 - Prenzlauer Berg - 2023-01-20,Prenzlauer Berg,#FDFLY1,2023-01-20,21:04:14,Lieferando,Delivery,22.0
+#RN8J98 - Mitte - 2023-01-21,Mitte,#RN8J98,2023-01-21,18:26:37,Lieferando,Delivery,17.3
+#1U2J2D - Prenzlauer Berg - 2023-01-21,Prenzlauer Berg,#1U2J2D,2023-01-21,19:15:48,Lieferando,Delivery,36.4
+#9SPZ1X - Prenzlauer Berg - 2023-01-22,Prenzlauer Berg,#9SPZ1X,2023-01-22,12:50:33,Lieferando,Delivery,16.9
+#7NZ62K - Mitte - 2023-01-22,Mitte,#7NZ62K,2023-01-22,13:45:46,Lieferando,Delivery,35.0
+#XCWP8C - Prenzlauer Berg - 2023-01-22,Prenzlauer Berg,#XCWP8C,2023-01-22,14:42:28,Lieferando,Delivery,45.4
+#PLJY96 - Mitte - 2023-01-22,Mitte,#PLJY96,2023-01-22,15:56:39,Lieferando,Delivery,42.6
+#D7GNDF - Prenzlauer Berg - 2023-01-22,Prenzlauer Berg,#D7GNDF,2023-01-22,16:43:07,Lieferando,Delivery,35.2
+#64Z4VC - Prenzlauer Berg - 2023-01-23,Prenzlauer Berg,#64Z4VC,2023-01-23,13:05:00,Lieferando,Delivery,76.0
+#L9XQBD - Mitte - 2023-01-24,Mitte,#L9XQBD,2023-01-24,17:46:52,Lieferando,Delivery,79.6
+#DWS92C - Mitte - 2023-01-26,Mitte,#DWS92C,2023-01-26,18:56:29,Lieferando,Delivery,22.6
+#AZCNOA - Mitte - 2023-01-27,Mitte,#AZCNOA,2023-01-27,17:36:42,Lieferando,Delivery,30.7
+#F2UJZM - Mitte - 2023-01-27,Mitte,#F2UJZM,2023-01-27,18:59:59,Lieferando,Delivery,21.6
+#I33JRL - Prenzlauer Berg - 2023-01-28,Prenzlauer Berg,#I33JRL,2023-01-28,19:45:24,Lieferando,Delivery,22.7
+#TD5CBQ - Mitte - 2023-01-29,Mitte,#TD5CBQ,2023-01-29,12:32:22,Lieferando,Delivery,26.2
+#LATHHS - Mitte - 2023-01-29,Mitte,#LATHHS,2023-01-29,13:25:13,Lieferando,Delivery,44.5
+#ZFMAFU - Mitte - 2023-01-29,Mitte,#ZFMAFU,2023-01-29,17:19:53,Lieferando,Delivery,22.3
+#FL5C9N - Mitte - 2023-03-03,Mitte,#FL5C9N,2023-03-03,19:35:41,Lieferando,Delivery,11.4
+#9WW114 - Mitte - 2023-03-04,Mitte,#9WW114,2023-03-04,17:23:41,Lieferando,Delivery,19.7
+#S1A2FT - Mitte - 2023-03-05,Mitte,#S1A2FT,2023-03-05,11:00:39,Lieferando,Delivery,17.2
+#1GFUY4 - Mitte - 2023-03-05,Mitte,#1GFUY4,2023-03-05,15:20:24,Lieferando,Delivery,29.0
+#73MGTQ - Mitte - 2023-03-05,Mitte,#73MGTQ,2023-03-05,21:29:01,Lieferando,Delivery,10.4
+#387QIS - Mitte - 2023-03-07,Mitte,#387QIS,2023-03-07,18:13:31,Lieferando,Delivery,17.7
+#DBF9YC - Mitte - 2023-03-08,Mitte,#DBF9YC,2023-03-08,13:41:57,Lieferando,Delivery,11.8
+#TYX8IE - Mitte - 2023-03-08,Mitte,#TYX8IE,2023-03-08,14:21:21,Lieferando,Delivery,16.2
+#AVUECE - Mitte - 2023-03-08,Mitte,#AVUECE,2023-03-08,16:17:25,Lieferando,Delivery,16.3
+#8H5WB1 - Mitte - 2023-03-11,Mitte,#8H5WB1,2023-03-11,18:13:28,Lieferando,Delivery,11.8
+#3SDY1T - Mitte - 2023-03-12,Mitte,#3SDY1T,2023-03-12,11:29:22,Lieferando,Delivery,10.9
+#SYSIDO - Mitte - 2023-03-12,Mitte,#SYSIDO,2023-03-12,20:56:46,Lieferando,Delivery,17.7
+#VRLRPZ - Charlottenburg - 2023-03-17,Charlottenburg,#VRLRPZ,2023-03-17,13:42:34,Lieferando,Delivery,15.3
+#A1G1A8 - Charlottenburg - 2023-03-17,Charlottenburg,#A1G1A8,2023-03-17,15:32:13,Lieferando,Delivery,24.6
+#XUFPVB - Mitte - 2023-03-18,Mitte,#XUFPVB,2023-03-18,16:24:37,Lieferando,Delivery,14.8
+#1582MU - Mitte - 2023-03-19,Mitte,#1582MU,2023-03-19,14:33:27,Lieferando,Delivery,20.7
+#XZI85S - Mitte - 2023-03-19,Mitte,#XZI85S,2023-03-19,15:18:37,Lieferando,Delivery,21.2
+#RWRYHH - Mitte - 2023-03-19,Mitte,#RWRYHH,2023-03-19,15:24:53,Lieferando,Delivery,16.2
+#A9J3NW - Mitte - 2023-03-19,Mitte,#A9J3NW,2023-03-19,18:17:33,Lieferando,Delivery,34.2
+#NC1ADC - Mitte - 2023-03-19,Mitte,#NC1ADC,2023-03-19,20:06:40,Lieferando,Delivery,30.3
+#5DBR26 - Charlottenburg - 2023-03-20,Charlottenburg,#5DBR26,2023-03-20,12:00:56,Lieferando,Delivery,35.4
+#C2S1WN - Charlottenburg - 2023-03-20,Charlottenburg,#C2S1WN,2023-03-20,20:53:42,Lieferando,Pickup,26.1
+#VYYDHO - Charlottenburg - 2023-03-20,Charlottenburg,#VYYDHO,2023-03-20,21:26:52,Lieferando,Delivery,31.0
+#8CGUJT - Mitte - 2023-03-21,Mitte,#8CGUJT,2023-03-21,14:18:45,Lieferando,Delivery,14.8
+#KKWFUE - Charlottenburg - 2023-03-21,Charlottenburg,#KKWFUE,2023-03-21,18:16:08,Lieferando,Delivery,28.4
+#3OJGN5 - Charlottenburg - 2023-03-22,Charlottenburg,#3OJGN5,2023-03-22,12:27:49,Lieferando,Delivery,16.7
+#SE21KP - Mitte - 2023-03-22,Mitte,#SE21KP,2023-03-22,15:54:44,Lieferando,Delivery,12.7
+#CL3GFK - Charlottenburg - 2023-03-22,Charlottenburg,#CL3GFK,2023-03-22,16:27:20,Lieferando,Delivery,10.3
+#E1FYO1 - Mitte - 2023-03-22,Mitte,#E1FYO1,2023-03-22,17:50:17,Lieferando,Delivery,39.1
+#FNQKRC - Charlottenburg - 2023-03-22,Charlottenburg,#FNQKRC,2023-03-22,18:40:07,Lieferando,Delivery,24.5
+#1BLVA8 - Bergmannkiez - 2023-03-24,Bergmannkiez,#1BLVA8,2023-03-24,16:31:12,Lieferando,Pickup,3.9
+#7C1PMI - Charlottenburg - 2023-03-24,Charlottenburg,#7C1PMI,2023-03-24,17:01:45,Lieferando,Delivery,23.3
+#4KRBES - Charlottenburg - 2023-03-24,Charlottenburg,#4KRBES,2023-03-24,20:43:51,Lieferando,Delivery,20.2
+#RL9ZSZ - Charlottenburg - 2023-03-24,Charlottenburg,#RL9ZSZ,2023-03-24,21:04:19,Lieferando,Delivery,40.3
+#Q1SH1U - Charlottenburg - 2023-03-25,Charlottenburg,#Q1SH1U,2023-03-25,14:28:49,Lieferando,Delivery,20.2
+#6GRCR8 - Mitte - 2023-03-25,Mitte,#6GRCR8,2023-03-25,18:05:24,Lieferando,Delivery,26.3
+#H3WP58 - Charlottenburg - 2023-03-25,Charlottenburg,#H3WP58,2023-03-25,20:10:18,Lieferando,Delivery,15.2
+#JXOKYB - Charlottenburg - 2023-03-26,Charlottenburg,#JXOKYB,2023-03-26,13:41:14,Lieferando,Delivery,14.8
+#IBYJMC - Mitte - 2023-03-26,Mitte,#IBYJMC,2023-03-26,13:56:53,Lieferando,Delivery,18.7
+#ISR2Z4 - Charlottenburg - 2023-03-26,Charlottenburg,#ISR2Z4,2023-03-26,13:57:15,Lieferando,Delivery,25.5
+#U7WDI5 - Charlottenburg - 2023-03-26,Charlottenburg,#U7WDI5,2023-03-26,15:46:40,Lieferando,Delivery,13.3
+#C8MOWC - Charlottenburg - 2023-03-26,Charlottenburg,#C8MOWC,2023-03-26,16:35:14,Lieferando,Delivery,34.9
+#PVO1UO - Mitte - 2023-03-26,Mitte,#PVO1UO,2023-03-26,18:35:45,Lieferando,Delivery,19.6
+#V8MXHN - Charlottenburg - 2023-03-27,Charlottenburg,#V8MXHN,2023-03-27,11:34:49,Lieferando,Delivery,25.1
+#URQ3NT - Charlottenburg - 2023-03-27,Charlottenburg,#URQ3NT,2023-03-27,12:51:58,Lieferando,Delivery,15.7
+#B1T6U5 - Mitte - 2023-03-27,Mitte,#B1T6U5,2023-03-27,18:39:45,Lieferando,Delivery,46.0
+#TCSNQW - Charlottenburg - 2023-03-28,Charlottenburg,#TCSNQW,2023-03-28,13:06:20,Lieferando,Delivery,20.1
+#2GS8XE - Charlottenburg - 2023-03-28,Charlottenburg,#2GS8XE,2023-03-28,16:46:56,Lieferando,Delivery,19.3
+#ISHZEH - Mitte - 2023-03-30,Mitte,#ISHZEH,2023-03-30,15:10:12,Lieferando,Delivery,20.6
+#F2ZDI4 - Charlottenburg - 2023-03-31,Charlottenburg,#F2ZDI4,2023-03-31,11:49:38,Lieferando,Delivery,27.2
+#FOPZAG - Charlottenburg - 2023-03-31,Charlottenburg,#FOPZAG,2023-03-31,12:02:41,Lieferando,Delivery,30.0
+#LN5GJJ - Charlottenburg - 2023-03-31,Charlottenburg,#LN5GJJ,2023-03-31,16:25:46,Lieferando,Delivery,15.3
+#1SWMFR - Charlottenburg - 2023-03-31,Charlottenburg,#1SWMFR,2023-03-31,20:19:12,Lieferando,Delivery,19.6
+#J8WCZ1 - Mitte - 2023-04-01,Mitte,#J8WCZ1,2023-04-01,13:00:30,Lieferando,Delivery,10.3
+#KWE6LW - Mitte - 2023-04-02,Mitte,#KWE6LW,2023-04-02,11:57:04,Lieferando,Delivery,15.2
+#UGJZIF - Mitte - 2023-04-02,Mitte,#UGJZIF,2023-04-02,12:14:42,Lieferando,Delivery,30.4
+#DPORBV - Charlottenburg - 2023-04-02,Charlottenburg,#DPORBV,2023-04-02,14:03:31,Lieferando,Delivery,15.7
+#6XZBFX - Charlottenburg - 2023-04-02,Charlottenburg,#6XZBFX,2023-04-02,18:15:17,Lieferando,Delivery,19.1
+#PEMLBE - Mitte - 2023-04-02,Mitte,#PEMLBE,2023-04-02,19:25:17,Lieferando,Delivery,20.0
+#LG2HFF - Bergmannkiez - 2023-04-03,Bergmannkiez,#LG2HFF,2023-04-03,13:26:51,Lieferando,Delivery,21.6
+#WMWP5M - Bergmannkiez - 2023-04-03,Bergmannkiez,#WMWP5M,2023-04-03,15:00:18,Lieferando,Delivery,10.3
+#ACD2MU - Charlottenburg - 2023-04-03,Charlottenburg,#ACD2MU,2023-04-03,18:22:25,Lieferando,Delivery,24.6
+#I4OAW1 - Charlottenburg - 2023-04-03,Charlottenburg,#I4OAW1,2023-04-03,21:16:55,Lieferando,Delivery,21.2
+#34E3ZU - Friedrichshain - 2023-04-04,Friedrichshain,#34E3ZU,2023-04-04,11:41:59,Lieferando,Delivery,31.0
+#VR6NS2 - Charlottenburg - 2023-04-04,Charlottenburg,#VR6NS2,2023-04-04,12:23:47,Lieferando,Delivery,16.7
+#OPTIQ5 - Charlottenburg - 2023-04-05,Charlottenburg,#OPTIQ5,2023-04-05,14:40:26,Lieferando,Delivery,32.7
+#QIPQRZ - Bergmannkiez - 2023-04-05,Bergmannkiez,#QIPQRZ,2023-04-05,18:00:50,Lieferando,Delivery,26.1
+#Y4KEC6 - Charlottenburg - 2023-04-05,Charlottenburg,#Y4KEC6,2023-04-05,19:13:16,Lieferando,Delivery,14.8
+#IW8IX4 - Friedrichshain - 2023-04-06,Friedrichshain,#IW8IX4,2023-04-06,13:48:48,Lieferando,Delivery,16.1
+#CRK51Y - Bergmannkiez - 2023-04-07,Bergmannkiez,#CRK51Y,2023-04-07,15:11:48,Lieferando,Delivery,21.2
+#9QYNNL - Mitte - 2023-04-07,Mitte,#9QYNNL,2023-04-07,16:47:17,Lieferando,Delivery,22.5
+#6KAO6Z - Friedrichshain - 2023-04-07,Friedrichshain,#6KAO6Z,2023-04-07,18:33:24,Lieferando,Delivery,25.8
+#TK2UNK - Bergmannkiez - 2023-04-08,Bergmannkiez,#TK2UNK,2023-04-08,11:41:19,Lieferando,Delivery,15.7
+#6ECUS7 - Bergmannkiez - 2023-04-08,Bergmannkiez,#6ECUS7,2023-04-08,12:57:57,Lieferando,Delivery,30.1
+#8PTOJ7 - Charlottenburg - 2023-04-08,Charlottenburg,#8PTOJ7,2023-04-08,16:08:59,Lieferando,Delivery,32.4
+#34EV5I - Charlottenburg - 2023-04-08,Charlottenburg,#34EV5I,2023-04-08,16:39:01,Lieferando,Delivery,29.9
+#65X3Y6 - Charlottenburg - 2023-04-08,Charlottenburg,#65X3Y6,2023-04-08,17:37:04,Lieferando,Delivery,16.7
+#THD9KF - Charlottenburg - 2023-04-08,Charlottenburg,#THD9KF,2023-04-08,19:58:17,Lieferando,Delivery,31.3
+#LTD27C - Friedrichshain - 2023-04-09,Friedrichshain,#LTD27C,2023-04-09,10:11:51,Lieferando,Delivery,23.1
+#RCIN63 - Bergmannkiez - 2023-04-09,Bergmannkiez,#RCIN63,2023-04-09,12:59:06,Lieferando,Delivery,31.9
+#8C5PUS - Bergmannkiez - 2023-04-09,Bergmannkiez,#8C5PUS,2023-04-09,19:10:38,Lieferando,Delivery,26.9
+#2VL8RU - Mitte - 2023-04-09,Mitte,#2VL8RU,2023-04-09,20:14:42,Lieferando,Delivery,17.6
+#IBLKY6 - Charlottenburg - 2023-04-09,Charlottenburg,#IBLKY6,2023-04-09,21:15:24,Lieferando,Delivery,19.6
+#NBC371 - Friedrichshain - 2023-04-09,Friedrichshain,#NBC371,2023-04-09,21:49:44,Lieferando,Delivery,31.4
+#CR1FTA - Bergmannkiez - 2023-04-10,Bergmannkiez,#CR1FTA,2023-04-10,12:31:08,Lieferando,Delivery,23.5
+#RFVJBB - Bergmannkiez - 2023-04-10,Bergmannkiez,#RFVJBB,2023-04-10,16:29:21,Lieferando,Delivery,10.3
+#67C84Y - Charlottenburg - 2023-04-10,Charlottenburg,#67C84Y,2023-04-10,16:32:08,Lieferando,Delivery,21.6
+#K8WKDU - Charlottenburg - 2023-04-10,Charlottenburg,#K8WKDU,2023-04-10,17:16:22,Lieferando,Delivery,23.6
+#TLYYEV - Friedrichshain - 2023-04-10,Friedrichshain,#TLYYEV,2023-04-10,17:51:36,Lieferando,Delivery,15.7
+#JWF56H - Mitte - 2023-04-10,Mitte,#JWF56H,2023-04-10,18:49:47,Lieferando,Delivery,31.8
+#Y3GLBC - Mitte - 2023-04-10,Mitte,#Y3GLBC,2023-04-10,19:00:04,Lieferando,Delivery,14.3
+#X4Q8AX - Bergmannkiez - 2023-04-11,Bergmannkiez,#X4Q8AX,2023-04-11,15:10:35,Lieferando,Delivery,10.3
+#G2FA98 - Mitte - 2023-04-11,Mitte,#G2FA98,2023-04-11,16:40:14,Lieferando,Delivery,17.2
+#C6FO7K - Charlottenburg - 2023-04-11,Charlottenburg,#C6FO7K,2023-04-11,16:46:12,Lieferando,Delivery,44.7
+#JTA4QM - Charlottenburg - 2023-04-11,Charlottenburg,#JTA4QM,2023-04-11,17:49:14,Lieferando,Delivery,31.5
+#ZKYP2C - Bergmannkiez - 2023-04-11,Bergmannkiez,#ZKYP2C,2023-04-11,18:28:26,Lieferando,Delivery,16.2
+#TD3749 - Charlottenburg - 2023-04-11,Charlottenburg,#TD3749,2023-04-11,20:48:28,Lieferando,Delivery,21.7
+#XWS3KD - Charlottenburg - 2023-04-12,Charlottenburg,#XWS3KD,2023-04-12,12:02:27,Lieferando,Delivery,19.7
+#KP2HEL - Friedrichshain - 2023-04-12,Friedrichshain,#KP2HEL,2023-04-12,13:19:14,Lieferando,Delivery,10.3
+#AXKNDD - Bergmannkiez - 2023-04-12,Bergmannkiez,#AXKNDD,2023-04-12,18:22:01,Lieferando,Delivery,10.3
+#SZNQQ1 - Bergmannkiez - 2023-04-12,Bergmannkiez,#SZNQQ1,2023-04-12,19:10:31,Lieferando,Delivery,12.8
+#RIN9XT - Bergmannkiez - 2023-04-13,Bergmannkiez,#RIN9XT,2023-04-13,19:53:16,Lieferando,Delivery,19.7
+#BJBQT3 - Bergmannkiez - 2023-04-13,Bergmannkiez,#BJBQT3,2023-04-13,22:51:33,Lieferando,Delivery,15.7
+#LYDI8I - Friedrichshain - 2023-04-14,Friedrichshain,#LYDI8I,2023-04-14,11:41:51,Lieferando,Delivery,10.7
+#73RHYX - Bergmannkiez - 2023-04-14,Bergmannkiez,#73RHYX,2023-04-14,18:22:07,Lieferando,Delivery,22.8
+#TKPMNH - Bergmannkiez - 2023-04-14,Bergmannkiez,#TKPMNH,2023-04-14,18:50:24,Lieferando,Delivery,12.8
+#7ZGJUL - Charlottenburg - 2023-04-14,Charlottenburg,#7ZGJUL,2023-04-14,19:09:04,Lieferando,Delivery,25.5
+#C2YH3L - Bergmannkiez - 2023-04-14,Bergmannkiez,#C2YH3L,2023-04-14,21:14:50,Lieferando,Delivery,10.9
+#LLG65Z - Mitte - 2023-04-14,Mitte,#LLG65Z,2023-04-14,21:17:59,Lieferando,Delivery,29.9
+#TYA6CZ - Charlottenburg - 2023-04-15,Charlottenburg,#TYA6CZ,2023-04-15,13:19:18,Lieferando,Delivery,23.8
+#M5UB3V - Friedrichshain - 2023-04-15,Friedrichshain,#M5UB3V,2023-04-15,17:04:40,Lieferando,Delivery,21.6
+#GVFYXM - Charlottenburg - 2023-04-15,Charlottenburg,#GVFYXM,2023-04-15,20:09:50,Lieferando,Delivery,33.2
+#MO4IH6 - Charlottenburg - 2023-04-15,Charlottenburg,#MO4IH6,2023-04-15,21:11:55,Lieferando,Delivery,23.1
+#9IYQ8M - Bergmannkiez - 2023-04-15,Bergmannkiez,#9IYQ8M,2023-04-15,22:26:41,Lieferando,Delivery,65.7
+#S3P39Q - Charlottenburg - 2023-04-16,Charlottenburg,#S3P39Q,2023-04-16,13:46:15,Lieferando,Delivery,15.2
+#KFIP27 - Mitte - 2023-04-16,Mitte,#KFIP27,2023-04-16,14:57:06,Lieferando,Delivery,18.3
+#NH13TY - Friedrichshain - 2023-04-16,Friedrichshain,#NH13TY,2023-04-16,15:03:36,Lieferando,Delivery,17.7
+#8T4A1C - Mitte - 2023-04-16,Mitte,#8T4A1C,2023-04-16,17:15:13,Lieferando,Delivery,50.1
+#GRM2KG - Bergmannkiez - 2023-04-18,Bergmannkiez,#GRM2KG,2023-04-18,17:34:34,Lieferando,Delivery,10.3
+#R15UZS - Bergmannkiez - 2023-04-18,Bergmannkiez,#R15UZS,2023-04-18,18:01:20,Lieferando,Delivery,54.6
+#H3Y6C9 - Friedrichshain - 2023-04-18,Friedrichshain,#H3Y6C9,2023-04-18,18:40:17,Lieferando,Delivery,19.2
+#V7UCPQ - Charlottenburg - 2023-04-19,Charlottenburg,#V7UCPQ,2023-04-19,20:23:23,Lieferando,Delivery,44.7
+#N3IXED - Bergmannkiez - 2023-04-19,Bergmannkiez,#N3IXED,2023-04-19,22:53:06,Lieferando,Delivery,41.8
+#A94433 - Bergmannkiez - 2023-04-20,Bergmannkiez,#A94433,2023-04-20,13:19:43,Lieferando,Delivery,19.7
+#CE2VID - Bergmannkiez - 2023-04-20,Bergmannkiez,#CE2VID,2023-04-20,15:51:58,Lieferando,Delivery,11.8
+#L53A8X - Mitte - 2023-04-20,Mitte,#L53A8X,2023-04-20,19:28:29,Lieferando,Delivery,24.6
+#NRFWH4 - Mitte - 2023-04-22,Mitte,#NRFWH4,2023-04-22,19:31:23,Lieferando,Delivery,35.7
+#F8ZHOB - Charlottenburg - 2023-04-23,Charlottenburg,#F8ZHOB,2023-04-23,13:50:59,Lieferando,Delivery,25.1
+#A1GWJB - Mitte - 2023-04-23,Mitte,#A1GWJB,2023-04-23,14:26:36,Lieferando,Delivery,30.8
+#BVFWBX - Mitte - 2023-04-23,Mitte,#BVFWBX,2023-04-23,14:31:19,Lieferando,Delivery,13.7
+#DUQKRJ - Charlottenburg - 2023-04-23,Charlottenburg,#DUQKRJ,2023-04-23,14:48:43,Lieferando,Delivery,62.9
+#5QFO15 - Mitte - 2023-04-23,Mitte,#5QFO15,2023-04-23,16:56:37,Lieferando,Delivery,29.5
+#7VOBIZ - Mitte - 2023-04-23,Mitte,#7VOBIZ,2023-04-23,17:45:51,Lieferando,Delivery,16.3
+#TBJASF - Mitte - 2023-04-23,Mitte,#TBJASF,2023-04-23,18:34:54,Lieferando,Delivery,13.2
+#OWS8LA - Mitte - 2023-04-23,Mitte,#OWS8LA,2023-04-23,19:28:32,Lieferando,Delivery,16.7
+#9B46LR - Friedrichshain - 2023-04-24,Friedrichshain,#9B46LR,2023-04-24,11:47:41,Lieferando,Delivery,13.3
+#IIN4ND - Friedrichshain - 2023-04-24,Friedrichshain,#IIN4ND,2023-04-24,11:51:39,Lieferando,Delivery,13.3
+#CURLGP - Bergmannkiez - 2023-04-24,Bergmannkiez,#CURLGP,2023-04-24,17:24:06,Lieferando,Delivery,12.8
+#CVF66P - Bergmannkiez - 2023-04-24,Bergmannkiez,#CVF66P,2023-04-24,17:36:23,Lieferando,Delivery,28.1
+#86XNHW - Charlottenburg - 2023-04-24,Charlottenburg,#86XNHW,2023-04-24,21:28:30,Lieferando,Delivery,16.3
+#VVKLXG - Friedrichshain - 2023-04-25,Friedrichshain,#VVKLXG,2023-04-25,11:24:48,Lieferando,Delivery,13.3
+#2WI1RZ - Charlottenburg - 2023-04-25,Charlottenburg,#2WI1RZ,2023-04-25,17:04:18,Lieferando,Delivery,31.5
+#5I6795 - Charlottenburg - 2023-04-25,Charlottenburg,#5I6795,2023-04-25,18:08:47,Lieferando,Delivery,18.2
+#C74PNP - Friedrichshain - 2023-04-25,Friedrichshain,#C74PNP,2023-04-25,20:00:20,Lieferando,Delivery,25.8
+#44BL1O - Bergmannkiez - 2023-04-26,Bergmannkiez,#44BL1O,2023-04-26,17:22:37,Lieferando,Delivery,10.6
+#JXSMTO - Friedrichshain - 2023-04-26,Friedrichshain,#JXSMTO,2023-04-26,18:45:42,Lieferando,Delivery,24.3
+#7277FD - Bergmannkiez - 2023-04-27,Bergmannkiez,#7277FD,2023-04-27,14:49:45,Lieferando,Delivery,28.5
+#7HY7ZT - Bergmannkiez - 2023-04-27,Bergmannkiez,#7HY7ZT,2023-04-27,18:55:46,Lieferando,Delivery,10.9
+#P7OWVC - Bergmannkiez - 2023-04-28,Bergmannkiez,#P7OWVC,2023-04-28,18:40:12,Lieferando,Delivery,12.8
+#211XMC - Bergmannkiez - 2023-04-28,Bergmannkiez,#211XMC,2023-04-28,19:30:56,Lieferando,Delivery,11.7
+#UWOUB2 - Bergmannkiez - 2023-04-28,Bergmannkiez,#UWOUB2,2023-04-28,22:36:32,Lieferando,Delivery,12.9
+#AFZ8W3 - Mitte - 2023-04-29,Mitte,#AFZ8W3,2023-04-29,10:47:40,Lieferando,Delivery,31.8
+#FAF96T - Charlottenburg - 2023-04-29,Charlottenburg,#FAF96T,2023-04-29,11:47:24,Lieferando,Delivery,19.2
+#U1GPE4 - Bergmannkiez - 2023-04-29,Bergmannkiez,#U1GPE4,2023-04-29,17:43:07,Lieferando,Delivery,15.7
+#KXYZHL - Charlottenburg - 2023-04-29,Charlottenburg,#KXYZHL,2023-04-29,18:32:01,Lieferando,Delivery,15.2
+#XDEE5P - Bergmannkiez - 2023-04-29,Bergmannkiez,#XDEE5P,2023-04-29,18:51:05,Lieferando,Delivery,10.3
+#RXHAQG - Charlottenburg - 2023-04-29,Charlottenburg,#RXHAQG,2023-04-29,19:44:26,Lieferando,Delivery,20.2
+#VFTM7N - Mitte - 2023-04-30,Mitte,#VFTM7N,2023-04-30,12:00:10,Lieferando,Delivery,14.2
+#PEYGHO - Charlottenburg - 2023-04-30,Charlottenburg,#PEYGHO,2023-04-30,17:48:14,Lieferando,Delivery,25.4
+#9V7LND - Mitte - 2023-04-30,Mitte,#9V7LND,2023-04-30,18:39:41,Lieferando,Delivery,20.1
+#XBZYGC - Mitte - 2023-04-30,Mitte,#XBZYGC,2023-04-30,18:47:45,Lieferando,Delivery,30.3
+#2LDEM2 - Mitte - 2023-05-01,Mitte,#2LDEM2,2023-05-01,12:29:41,Lieferando,Delivery,31.8
+#W8NLTW - Charlottenburg - 2023-05-01,Charlottenburg,#W8NLTW,2023-05-01,14:56:05,Lieferando,Delivery,16.7
+#FLSS2J - Friedrichshain - 2023-05-01,Friedrichshain,#FLSS2J,2023-05-01,15:26:59,Lieferando,Delivery,16.1
+#FKXCBP - Charlottenburg - 2023-05-01,Charlottenburg,#FKXCBP,2023-05-01,17:51:27,Lieferando,Delivery,15.7
+#5V22J2 - Friedrichshain - 2023-05-02,Friedrichshain,#5V22J2,2023-05-02,17:44:39,Lieferando,Delivery,34.6
+#WAGHC1 - Charlottenburg - 2023-05-03,Charlottenburg,#WAGHC1,2023-05-03,18:24:38,Lieferando,Delivery,12.8
+#HTE6S4 - Friedrichshain - 2023-05-05,Friedrichshain,#HTE6S4,2023-05-05,18:37:54,Lieferando,Delivery,49.7
+#TL2YMQ - Mitte - 2023-05-06,Mitte,#TL2YMQ,2023-05-06,14:19:29,Lieferando,Delivery,31.8
+#WDJ46B - Mitte - 2023-05-07,Mitte,#WDJ46B,2023-05-07,11:36:06,Lieferando,Delivery,15.6
+#RNRUBM - Mitte - 2023-05-07,Mitte,#RNRUBM,2023-05-07,11:45:17,Lieferando,Delivery,16.3
+#ELD42P - Mitte - 2023-05-07,Mitte,#ELD42P,2023-05-07,12:37:02,Lieferando,Delivery,31.8
+#ILIGVS - Mitte - 2023-05-07,Mitte,#ILIGVS,2023-05-07,14:09:53,Lieferando,Delivery,11.0
+#B99891 - Friedrichshain - 2023-05-07,Friedrichshain,#B99891,2023-05-07,15:02:58,Lieferando,Delivery,14.7
+#6HJSUQ - Charlottenburg - 2023-05-07,Charlottenburg,#6HJSUQ,2023-05-07,15:54:01,Lieferando,Delivery,30.0
+#1IZKJL - Charlottenburg - 2023-05-07,Charlottenburg,#1IZKJL,2023-05-07,17:17:05,Lieferando,Delivery,24.1
+#DLET8L - Mitte - 2023-05-07,Mitte,#DLET8L,2023-05-07,17:30:47,Lieferando,Delivery,16.6
+#ZPYOZ9 - Charlottenburg - 2023-05-07,Charlottenburg,#ZPYOZ9,2023-05-07,18:14:29,Lieferando,Delivery,52.0
+#1YBF46 - Bergmannkiez - 2023-05-07,Bergmannkiez,#1YBF46,2023-05-07,18:23:27,Lieferando,Delivery,10.3
+#UKFFAV - Friedrichshain - 2023-05-07,Friedrichshain,#UKFFAV,2023-05-07,18:35:15,Lieferando,Delivery,18.6
+#8RI8JF - Mitte - 2023-05-07,Mitte,#8RI8JF,2023-05-07,18:47:45,Lieferando,Delivery,18.5
+#SIIMXU - Mitte - 2023-05-07,Mitte,#SIIMXU,2023-05-07,18:52:49,Lieferando,Pickup,16.7
+#KANHXP - Friedrichshain - 2023-05-08,Friedrichshain,#KANHXP,2023-05-08,18:51:43,Lieferando,Delivery,24.3
+#8OYVSX - Bergmannkiez - 2023-05-09,Bergmannkiez,#8OYVSX,2023-05-09,15:09:12,Lieferando,Delivery,10.3
+#CZS1KJ - Friedrichshain - 2023-05-09,Friedrichshain,#CZS1KJ,2023-05-09,17:29:35,Lieferando,Delivery,18.9
+#PBQOHC - Charlottenburg - 2023-05-09,Charlottenburg,#PBQOHC,2023-05-09,19:48:20,Lieferando,Delivery,28.5
+#DT3NL7 - Friedrichshain - 2023-05-11,Friedrichshain,#DT3NL7,2023-05-11,11:42:23,Lieferando,Delivery,13.7
+#I9SRWR - Friedrichshain - 2023-05-11,Friedrichshain,#I9SRWR,2023-05-11,13:41:02,Lieferando,Delivery,11.9
+#G2SORF - Mitte - 2023-05-11,Mitte,#G2SORF,2023-05-11,18:10:31,Lieferando,Delivery,23.5
+#4TF87R - Charlottenburg - 2023-05-12,Charlottenburg,#4TF87R,2023-05-12,13:11:51,Lieferando,Delivery,15.3
+#KEP2W6 - Bergmannkiez - 2023-05-12,Bergmannkiez,#KEP2W6,2023-05-12,18:57:51,Lieferando,Delivery,10.3
+#S3VNLG - Bergmannkiez - 2023-05-12,Bergmannkiez,#S3VNLG,2023-05-12,20:15:27,Lieferando,Delivery,51.3
+#PZ9H6G - Mitte - 2023-05-13,Mitte,#PZ9H6G,2023-05-13,10:22:18,Lieferando,Delivery,18.6
+#89ILI7 - Mitte - 2023-05-13,Mitte,#89ILI7,2023-05-13,11:54:51,Lieferando,Delivery,38.0
+#CT6A5F - Charlottenburg - 2023-05-13,Charlottenburg,#CT6A5F,2023-05-13,16:10:07,Lieferando,Delivery,19.7
+#NDBK34 - Charlottenburg - 2023-05-14,Charlottenburg,#NDBK34,2023-05-14,11:19:07,Lieferando,Delivery,31.4
+#FGTVWA - Charlottenburg - 2023-05-14,Charlottenburg,#FGTVWA,2023-05-14,14:59:59,Lieferando,Delivery,25.6
+#362LA6 - Mitte - 2023-05-14,Mitte,#362LA6,2023-05-14,16:10:46,Lieferando,Delivery,17.8
+#HC836F - Charlottenburg - 2023-05-14,Charlottenburg,#HC836F,2023-05-14,18:04:23,Lieferando,Delivery,26.1
+#YMN9UZ - Charlottenburg - 2023-05-14,Charlottenburg,#YMN9UZ,2023-05-14,18:15:44,Lieferando,Delivery,23.7
+#H7MHNC - Charlottenburg - 2023-05-14,Charlottenburg,#H7MHNC,2023-05-14,18:17:01,Lieferando,Delivery,23.0
+#5GPY54 - Charlottenburg - 2023-05-14,Charlottenburg,#5GPY54,2023-05-14,18:18:32,Lieferando,Delivery,15.2
+#EKRPTC - Mitte - 2023-05-14,Mitte,#EKRPTC,2023-05-14,19:25:54,Lieferando,Delivery,42.8
+#7O6PQB - Friedrichshain - 2023-05-15,Friedrichshain,#7O6PQB,2023-05-15,17:43:33,Lieferando,Delivery,22.7
+#KV2Q9D - Friedrichshain - 2023-05-17,Friedrichshain,#KV2Q9D,2023-05-17,14:20:16,Lieferando,Delivery,19.6
+#JN38SB - Mitte - 2023-06-01,Mitte,#JN38SB,2023-06-01,11:52:34,Lieferando,Delivery,14.7
+#LE2JD9 - Friedrichshain - 2023-06-01,Friedrichshain,#LE2JD9,2023-06-01,12:56:58,Lieferando,Delivery,22.7
+#Y4621T - Samariterkiez - 2023-06-01,Samariterkiez,#Y4621T,2023-06-01,13:03:27,Lieferando,Delivery,13.3
+#R8XCM4 - Mitte - 2023-06-01,Mitte,#R8XCM4,2023-06-01,13:59:36,Lieferando,Delivery,13.3
+#UD9WF1 - Friedrichshain - 2023-06-01,Friedrichshain,#UD9WF1,2023-06-01,17:29:14,Lieferando,Delivery,19.6
+#YRYOTT - Bergmannkiez - 2023-06-01,Bergmannkiez,#YRYOTT,2023-06-01,17:47:13,Lieferando,Delivery,13.3
+#PTF6JZ - Friedrichshain - 2023-06-01,Friedrichshain,#PTF6JZ,2023-06-01,18:00:52,Lieferando,Delivery,25.1
+#83NV52 - Bergmannkiez - 2023-06-01,Bergmannkiez,#83NV52,2023-06-01,18:34:57,Lieferando,Delivery,49.0
+#1ORPRG - Samariterkiez - 2023-06-01,Samariterkiez,#1ORPRG,2023-06-01,18:46:23,Lieferando,Delivery,19.3
+#789CCF - Friedrichshain - 2023-06-01,Friedrichshain,#789CCF,2023-06-01,18:53:12,Lieferando,Delivery,20.8
+#JKS8SK - Friedrichshain - 2023-06-01,Friedrichshain,#JKS8SK,2023-06-01,19:01:17,Lieferando,Delivery,21.8
+#PLAU47 - Mitte - 2023-06-01,Mitte,#PLAU47,2023-06-01,19:48:38,Lieferando,Delivery,24.5
+#WPULGU - Samariterkiez - 2023-06-01,Samariterkiez,#WPULGU,2023-06-01,20:05:18,Lieferando,Delivery,13.3
+#EIKZQR - Friedrichshain - 2023-06-02,Friedrichshain,#EIKZQR,2023-06-02,12:23:19,Lieferando,Delivery,14.3
+#E3TH2C - Bergmannkiez - 2023-06-02,Bergmannkiez,#E3TH2C,2023-06-02,12:24:59,Lieferando,Delivery,19.6
+#LGG7U2 - Friedrichshain - 2023-06-02,Friedrichshain,#LGG7U2,2023-06-02,13:23:14,Lieferando,Delivery,13.3
+#ET7K5B - Friedrichshain - 2023-06-02,Friedrichshain,#ET7K5B,2023-06-02,17:22:32,Lieferando,Delivery,29.8
+#7H93CJ - Bergmannkiez - 2023-06-02,Bergmannkiez,#7H93CJ,2023-06-02,17:23:23,Lieferando,Delivery,39.6
+#CWL8HE - Friedrichshain - 2023-06-02,Friedrichshain,#CWL8HE,2023-06-02,17:41:29,Lieferando,Delivery,13.7
+#RXAA5P - Mitte - 2023-06-02,Mitte,#RXAA5P,2023-06-02,18:10:42,Lieferando,Delivery,17.8
+#VA92LY - Bergmannkiez - 2023-06-02,Bergmannkiez,#VA92LY,2023-06-02,18:31:00,Lieferando,Delivery,29.5
+#HKADBI - Samariterkiez - 2023-06-02,Samariterkiez,#HKADBI,2023-06-02,19:03:42,Lieferando,Delivery,42.8
+#GXOQ2B - Mitte - 2023-06-02,Mitte,#GXOQ2B,2023-06-02,19:11:49,Lieferando,Delivery,25.7
+#N794G5 - Samariterkiez - 2023-06-02,Samariterkiez,#N794G5,2023-06-02,20:57:02,Lieferando,Delivery,16.7
+#G25IZ8 - Friedrichshain - 2023-06-02,Friedrichshain,#G25IZ8,2023-06-02,21:39:59,Lieferando,Delivery,15.5
+#PRG9H1 - Friedrichshain - 2023-06-02,Friedrichshain,#PRG9H1,2023-06-02,22:00:40,Lieferando,Delivery,11.6
+#TIUJ8E - Friedrichshain - 2023-06-02,Friedrichshain,#TIUJ8E,2023-06-02,22:11:47,Lieferando,Delivery,18.2
+#OXF8HG - Friedrichshain - 2023-06-02,Friedrichshain,#OXF8HG,2023-06-02,22:45:46,Lieferando,Delivery,19.3
+#OM8A4P - Samariterkiez - 2023-06-03,Samariterkiez,#OM8A4P,2023-06-03,14:29:02,Lieferando,Delivery,14.7
+#2MN99J - Samariterkiez - 2023-06-03,Samariterkiez,#2MN99J,2023-06-03,15:57:44,Lieferando,Delivery,13.8
+#UFOUPT - Samariterkiez - 2023-06-03,Samariterkiez,#UFOUPT,2023-06-03,17:49:19,Lieferando,Delivery,14.4
+#T1DKT3 - Mitte - 2023-06-03,Mitte,#T1DKT3,2023-06-03,18:16:14,Lieferando,Delivery,27.9
+#DQAEM8 - Charlottenburg - 2023-06-03,Charlottenburg,#DQAEM8,2023-06-03,20:17:22,Lieferando,Delivery,35.1
+#Z3GQQF - Samariterkiez - 2023-06-03,Samariterkiez,#Z3GQQF,2023-06-03,21:36:36,Lieferando,Delivery,13.3
+#AI327C - Samariterkiez - 2023-06-03,Samariterkiez,#AI327C,2023-06-03,22:45:44,Lieferando,Delivery,19.6
+#78IBRI - Charlottenburg - 2023-06-04,Charlottenburg,#78IBRI,2023-06-04,12:25:18,Lieferando,Delivery,21.8
+#32WLW2 - Charlottenburg - 2023-06-04,Charlottenburg,#32WLW2,2023-06-04,13:15:37,Lieferando,Delivery,17.8
+#72DPBX - Charlottenburg - 2023-06-04,Charlottenburg,#72DPBX,2023-06-04,17:18:48,Lieferando,Delivery,26.6
+#PKHPE7 - Charlottenburg - 2023-06-04,Charlottenburg,#PKHPE7,2023-06-04,19:08:45,Lieferando,Delivery,24.2
+#OY8J59 - Mitte - 2023-06-04,Mitte,#OY8J59,2023-06-04,19:17:49,Lieferando,Delivery,19.2
+#4GGTFR - Charlottenburg - 2023-06-04,Charlottenburg,#4GGTFR,2023-06-04,19:30:57,Lieferando,Delivery,41.6
+#6WMOP7 - Mitte - 2023-06-04,Mitte,#6WMOP7,2023-06-04,19:38:02,Lieferando,Delivery,31.8
+#SW2RMN - Samariterkiez - 2023-06-04,Samariterkiez,#SW2RMN,2023-06-04,19:44:23,Lieferando,Delivery,18.6
+#NGPC2D - Samariterkiez - 2023-06-04,Samariterkiez,#NGPC2D,2023-06-04,19:56:22,Lieferando,Delivery,16.2
+#S2RQXH - Samariterkiez - 2023-06-04,Samariterkiez,#S2RQXH,2023-06-04,20:02:09,Lieferando,Delivery,60.0
+#EAGFTV - Mitte - 2023-06-04,Mitte,#EAGFTV,2023-06-04,20:40:58,Lieferando,Delivery,19.2
+#FEK21N - Samariterkiez - 2023-06-04,Samariterkiez,#FEK21N,2023-06-04,22:41:27,Lieferando,Delivery,14.3
+#WRPAET - Charlottenburg - 2023-06-05,Charlottenburg,#WRPAET,2023-06-05,13:29:08,Lieferando,Delivery,19.6
+#U959A1 - Mitte - 2023-06-05,Mitte,#U959A1,2023-06-05,14:30:20,Lieferando,Delivery,10.8
+#4WFJB9 - Bergmannkiez - 2023-06-05,Bergmannkiez,#4WFJB9,2023-06-05,14:52:41,Lieferando,Delivery,34.9
+#ODLHB4 - Mitte - 2023-06-05,Mitte,#ODLHB4,2023-06-05,14:56:30,Lieferando,Delivery,11.4
+#LSP1PJ - Mitte - 2023-06-05,Mitte,#LSP1PJ,2023-06-05,15:31:56,Lieferando,Delivery,11.8
+#LRTZG6 - Samariterkiez - 2023-06-05,Samariterkiez,#LRTZG6,2023-06-05,20:44:28,Lieferando,Delivery,15.2
+#LYHEAF - Bergmannkiez - 2023-06-05,Bergmannkiez,#LYHEAF,2023-06-05,20:56:31,Lieferando,Delivery,51.3
+#HU6ZDQ - Bergmannkiez - 2023-06-05,Bergmannkiez,#HU6ZDQ,2023-06-05,22:13:52,Lieferando,Delivery,20.8
+#ULUCW2 - Leipzig Mitte - 2023-06-06,Leipzig Mitte,#ULUCW2,2023-06-06,09:26:27,Lieferando,Delivery,19.3
+#TJ9RPM - Leipzig Mitte - 2023-06-06,Leipzig Mitte,#TJ9RPM,2023-06-06,11:07:04,Lieferando,Delivery,14.6
+#QWXQXQ - Leipzig Mitte - 2023-06-06,Leipzig Mitte,#QWXQXQ,2023-06-06,13:56:37,Lieferando,Delivery,28.8
+#36ECTK - Leipzig Mitte - 2023-06-06,Leipzig Mitte,#36ECTK,2023-06-06,14:10:24,Lieferando,Delivery,27.9
+#61QHC8 - Mitte - 2023-06-06,Mitte,#61QHC8,2023-06-06,15:05:25,Lieferando,Delivery,32.9
+#T9FMQW - Mitte - 2023-06-06,Mitte,#T9FMQW,2023-06-06,15:58:41,Lieferando,Delivery,16.2
+#8IXRP1 - Charlottenburg - 2023-06-06,Charlottenburg,#8IXRP1,2023-06-06,16:13:15,Lieferando,Delivery,22.4
+#UVFKAT - Leipzig Mitte - 2023-06-06,Leipzig Mitte,#UVFKAT,2023-06-06,17:05:29,Lieferando,Delivery,25.1
+#T2CYGV - Leipzig Mitte - 2023-06-06,Leipzig Mitte,#T2CYGV,2023-06-06,17:09:58,Lieferando,Delivery,17.0
+#LEEC6T - Leipzig Mitte - 2023-06-06,Leipzig Mitte,#LEEC6T,2023-06-06,18:15:40,Lieferando,Delivery,25.2
+#179V3L - Mitte - 2023-06-06,Mitte,#179V3L,2023-06-06,18:29:12,Lieferando,Delivery,17.3
+#2CVVOP - Charlottenburg - 2023-06-06,Charlottenburg,#2CVVOP,2023-06-06,18:46:07,Lieferando,Delivery,25.0
+#R6FG3Z - Leipzig Mitte - 2023-06-06,Leipzig Mitte,#R6FG3Z,2023-06-06,19:10:57,Lieferando,Delivery,17.9
+#DRUD46 - Leipzig Mitte - 2023-06-06,Leipzig Mitte,#DRUD46,2023-06-06,19:30:49,Lieferando,Delivery,13.3
+#DCULTQ - Leipzig Mitte - 2023-06-06,Leipzig Mitte,#DCULTQ,2023-06-06,20:07:27,Lieferando,Delivery,23.2
+#A6A9Z4 - Samariterkiez - 2023-06-06,Samariterkiez,#A6A9Z4,2023-06-06,20:22:44,Lieferando,Delivery,26.2
+#DTWYGJ - Samariterkiez - 2023-06-06,Samariterkiez,#DTWYGJ,2023-06-06,20:50:28,Lieferando,Delivery,14.3
+#8G5QHV - Samariterkiez - 2023-06-07,Samariterkiez,#8G5QHV,2023-06-07,10:55:57,Lieferando,Delivery,14.3
+#VQE5XZ - Leipzig Mitte - 2023-06-07,Leipzig Mitte,#VQE5XZ,2023-06-07,12:48:47,Lieferando,Delivery,24.1
+#BLGI3M - Prenzlauer Berg - 2023-06-07,Prenzlauer Berg,#BLGI3M,2023-06-07,14:12:28,Lieferando,Delivery,24.3
+#63TL5N - Leipzig Mitte - 2023-06-07,Leipzig Mitte,#63TL5N,2023-06-07,14:34:53,Lieferando,Delivery,10.7
+#4GJ7DU - Charlottenburg - 2023-06-07,Charlottenburg,#4GJ7DU,2023-06-07,15:36:17,Lieferando,Delivery,15.2
+#6F3RG9 - Charlottenburg - 2023-06-07,Charlottenburg,#6F3RG9,2023-06-07,17:41:11,Lieferando,Delivery,44.1
+#A74L4M - Leipzig Mitte - 2023-06-07,Leipzig Mitte,#A74L4M,2023-06-07,18:22:02,Lieferando,Delivery,23.1
+#F7LCAB - Leipzig Mitte - 2023-06-07,Leipzig Mitte,#F7LCAB,2023-06-07,18:22:43,Lieferando,Delivery,14.4
+#3CN8A1 - Samariterkiez - 2023-06-07,Samariterkiez,#3CN8A1,2023-06-07,19:09:26,Lieferando,Delivery,44.3
+#HWR9NL - Leipzig Mitte - 2023-06-08,Leipzig Mitte,#HWR9NL,2023-06-08,13:48:59,Lieferando,Delivery,18.9
+#IPX8AX - Leipzig Mitte - 2023-06-08,Leipzig Mitte,#IPX8AX,2023-06-08,14:00:27,Lieferando,Delivery,24.7
+#3R2WWV - Leipzig Mitte - 2023-06-08,Leipzig Mitte,#3R2WWV,2023-06-08,15:27:40,Lieferando,Delivery,30.2
+#C8L1I4 - Leipzig Mitte - 2023-06-08,Leipzig Mitte,#C8L1I4,2023-06-08,15:53:21,Lieferando,Delivery,17.2
+#49CGW8 - Samariterkiez - 2023-06-08,Samariterkiez,#49CGW8,2023-06-08,16:38:11,Lieferando,Delivery,26.1
+#6NAGA5 - Leipzig Mitte - 2023-06-08,Leipzig Mitte,#6NAGA5,2023-06-08,17:45:36,Lieferando,Delivery,30.0
+#PRMSIV - Leipzig Mitte - 2023-06-08,Leipzig Mitte,#PRMSIV,2023-06-08,18:12:22,Lieferando,Delivery,23.1
+#Z5UCYY - Leipzig Mitte - 2023-06-08,Leipzig Mitte,#Z5UCYY,2023-06-08,18:25:25,Lieferando,Delivery,18.5
+#ZAWDU2 - Samariterkiez - 2023-06-08,Samariterkiez,#ZAWDU2,2023-06-08,21:14:11,Lieferando,Delivery,9.5
+#U6NTJ4 - Samariterkiez - 2023-06-08,Samariterkiez,#U6NTJ4,2023-06-08,22:00:35,Lieferando,Delivery,13.9
+#Z5EONN - Samariterkiez - 2023-06-08,Samariterkiez,#Z5EONN,2023-06-08,22:04:31,Lieferando,Delivery,24.2
+#QJNRX3 - Leipzig Mitte - 2023-06-09,Leipzig Mitte,#QJNRX3,2023-06-09,13:13:24,Lieferando,Delivery,25.7
+#IO8JP4 - Mitte - 2023-06-09,Mitte,#IO8JP4,2023-06-09,13:51:54,Lieferando,Delivery,15.9
+#DM9RKE - Leipzig Mitte - 2023-06-09,Leipzig Mitte,#DM9RKE,2023-06-09,13:52:08,Lieferando,Delivery,18.2
+#2X3NTZ - Samariterkiez - 2023-06-09,Samariterkiez,#2X3NTZ,2023-06-09,14:09:31,Lieferando,Delivery,18.6
+#6GUROR - Charlottenburg - 2023-06-09,Charlottenburg,#6GUROR,2023-06-09,14:24:45,Lieferando,Delivery,20.8
+#9DA44Z - Mitte - 2023-06-09,Mitte,#9DA44Z,2023-06-09,16:41:50,Lieferando,Delivery,11.7
+#DT3559 - Leipzig Mitte - 2023-06-09,Leipzig Mitte,#DT3559,2023-06-09,16:47:26,Lieferando,Delivery,17.6
+#XIWHO1 - Leipzig Mitte - 2023-06-09,Leipzig Mitte,#XIWHO1,2023-06-09,17:34:35,Lieferando,Delivery,38.5
+#FICV5X - Charlottenburg - 2023-06-09,Charlottenburg,#FICV5X,2023-06-09,18:03:09,Lieferando,Delivery,17.1
+#5PY34Y - Mitte - 2023-06-09,Mitte,#5PY34Y,2023-06-09,18:52:01,Lieferando,Delivery,23.1
+#FZI9G8 - Leipzig Mitte - 2023-06-09,Leipzig Mitte,#FZI9G8,2023-06-09,19:43:59,Lieferando,Delivery,19.3
+#ITTXTP - Charlottenburg - 2023-06-09,Charlottenburg,#ITTXTP,2023-06-09,19:57:21,Lieferando,Delivery,16.2
+#R5DQEA - Charlottenburg - 2023-06-10,Charlottenburg,#R5DQEA,2023-06-10,11:17:29,Lieferando,Delivery,27.2
+#BVUQ3C - Charlottenburg - 2023-06-10,Charlottenburg,#BVUQ3C,2023-06-10,13:25:21,Lieferando,Delivery,40.4
+#LHYOWE - Leipzig Mitte - 2023-06-10,Leipzig Mitte,#LHYOWE,2023-06-10,14:24:35,Lieferando,Delivery,17.6
+#S4SRP2 - Leipzig Mitte - 2023-06-10,Leipzig Mitte,#S4SRP2,2023-06-10,16:20:43,Lieferando,Delivery,15.3
+#6K5ZJ6 - Leipzig Mitte - 2023-06-10,Leipzig Mitte,#6K5ZJ6,2023-06-10,16:35:29,Lieferando,Delivery,13.3
+#HSSO18 - Samariterkiez - 2023-06-10,Samariterkiez,#HSSO18,2023-06-10,17:07:39,Lieferando,Delivery,29.1
+#2B8SM3 - Mitte - 2023-06-10,Mitte,#2B8SM3,2023-06-10,18:06:06,Lieferando,Delivery,17.9
+#WQZVMI - Leipzig Mitte - 2023-06-10,Leipzig Mitte,#WQZVMI,2023-06-10,18:31:05,Lieferando,Delivery,28.0
+#Z7GVWH - Leipzig Mitte - 2023-06-10,Leipzig Mitte,#Z7GVWH,2023-06-10,19:10:13,Lieferando,Delivery,11.4
+#KNSMUT - Leipzig Mitte - 2023-06-10,Leipzig Mitte,#KNSMUT,2023-06-10,19:41:51,Lieferando,Delivery,33.5
+#FD9W8U - Mitte - 2023-06-10,Mitte,#FD9W8U,2023-06-10,19:48:46,Lieferando,Delivery,17.3
+#3XMPSN - Leipzig Mitte - 2023-06-10,Leipzig Mitte,#3XMPSN,2023-06-10,19:57:20,Lieferando,Delivery,19.0
+#VRAWU2 - Leipzig Mitte - 2023-06-11,Leipzig Mitte,#VRAWU2,2023-06-11,13:24:00,Lieferando,Delivery,31.5
+#HB36W3 - Leipzig Mitte - 2023-06-11,Leipzig Mitte,#HB36W3,2023-06-11,13:51:04,Lieferando,Delivery,19.6
+#VPAQZ7 - Prenzlauer Berg - 2023-06-11,Prenzlauer Berg,#VPAQZ7,2023-06-11,14:52:40,Lieferando,Delivery,19.2
+#TK66XP - Charlottenburg - 2023-06-11,Charlottenburg,#TK66XP,2023-06-11,15:21:29,Lieferando,Delivery,24.6
+#XDJSUQ - Mitte - 2023-06-11,Mitte,#XDJSUQ,2023-06-11,15:43:12,Lieferando,Delivery,42.6
+#DWI122 - Charlottenburg - 2023-06-11,Charlottenburg,#DWI122,2023-06-11,15:46:05,Lieferando,Delivery,27.1
+#6GWXTA - Leipzig Mitte - 2023-06-11,Leipzig Mitte,#6GWXTA,2023-06-11,15:47:20,Lieferando,Delivery,36.5
+#IQS99J - Leipzig Mitte - 2023-06-11,Leipzig Mitte,#IQS99J,2023-06-11,15:56:56,Lieferando,Delivery,21.2
+#BE9UTX - Leipzig Mitte - 2023-06-11,Leipzig Mitte,#BE9UTX,2023-06-11,16:13:28,Lieferando,Delivery,25.1
+#DUJG1K - Leipzig Mitte - 2023-06-11,Leipzig Mitte,#DUJG1K,2023-06-11,16:55:19,Lieferando,Delivery,21.2
+#1XDQ4P - Leipzig Mitte - 2023-06-11,Leipzig Mitte,#1XDQ4P,2023-06-11,17:37:22,Lieferando,Delivery,19.3
+#UYUATJ - Prenzlauer Berg - 2023-06-11,Prenzlauer Berg,#UYUATJ,2023-06-11,17:40:11,Lieferando,Delivery,16.4
+#7DBW74 - Prenzlauer Berg - 2023-06-11,Prenzlauer Berg,#7DBW74,2023-06-11,18:13:41,Lieferando,Delivery,18.3
+#1FZHDF - Leipzig Mitte - 2023-06-11,Leipzig Mitte,#1FZHDF,2023-06-11,18:31:02,Lieferando,Delivery,13.7
+#INKZT8 - Prenzlauer Berg - 2023-06-11,Prenzlauer Berg,#INKZT8,2023-06-11,19:26:07,Lieferando,Delivery,10.4
+#O8XRF3 - Mitte - 2023-06-11,Mitte,#O8XRF3,2023-06-11,19:31:24,Lieferando,Delivery,20.3
+#S7QT6J - Leipzig Mitte - 2023-06-11,Leipzig Mitte,#S7QT6J,2023-06-11,19:43:25,Lieferando,Delivery,21.2
+#2H3N3N - Mitte - 2023-06-11,Mitte,#2H3N3N,2023-06-11,19:43:41,Lieferando,Delivery,15.0
+#GY73DA - Leipzig Mitte - 2023-06-11,Leipzig Mitte,#GY73DA,2023-06-11,20:05:57,Lieferando,Delivery,21.2
+#GCB366 - Leipzig Mitte - 2023-06-11,Leipzig Mitte,#GCB366,2023-06-11,20:16:15,Lieferando,Delivery,31.9
+#7G4OBG - Charlottenburg - 2023-06-11,Charlottenburg,#7G4OBG,2023-06-11,20:30:28,Lieferando,Delivery,39.1
+#CUFV5Z - Samariterkiez - 2023-06-11,Samariterkiez,#CUFV5Z,2023-06-11,20:54:29,Lieferando,Delivery,17.3
+#BE1CBZ - Samariterkiez - 2023-06-12,Samariterkiez,#BE1CBZ,2023-06-12,18:57:17,Lieferando,Delivery,34.4
+#P1LPLX - Prenzlauer Berg - 2023-06-12,Prenzlauer Berg,#P1LPLX,2023-06-12,19:22:52,Lieferando,Delivery,11.7
+#YJMROI - Samariterkiez - 2023-06-12,Samariterkiez,#YJMROI,2023-06-12,19:45:31,Lieferando,Delivery,24.7
+#2MEVQF - Leipzig Mitte - 2023-06-13,Leipzig Mitte,#2MEVQF,2023-06-13,15:55:03,Lieferando,Delivery,20.1
+#34T8X4 - Prenzlauer Berg - 2023-06-13,Prenzlauer Berg,#34T8X4,2023-06-13,16:09:32,Lieferando,Delivery,17.3
+#M9EUWM - Leipzig Mitte - 2023-06-13,Leipzig Mitte,#M9EUWM,2023-06-13,16:10:10,Lieferando,Delivery,34.5
+#IGEA3E - Leipzig Mitte - 2023-06-13,Leipzig Mitte,#IGEA3E,2023-06-13,17:40:45,Lieferando,Delivery,38.5
+#PRW9KJ - Samariterkiez - 2023-06-13,Samariterkiez,#PRW9KJ,2023-06-13,18:08:41,Lieferando,Delivery,17.7
+#8UBEIB - Prenzlauer Berg - 2023-06-13,Prenzlauer Berg,#8UBEIB,2023-06-13,18:11:41,Lieferando,Delivery,23.4
+#DPPNC1 - Leipzig Mitte - 2023-06-13,Leipzig Mitte,#DPPNC1,2023-06-13,19:13:29,Lieferando,Delivery,9.8
+#V3IBO2 - Samariterkiez - 2023-06-13,Samariterkiez,#V3IBO2,2023-06-13,19:16:57,Lieferando,Delivery,21.1
+#ONOALA - Leipzig Mitte - 2023-06-13,Leipzig Mitte,#ONOALA,2023-06-13,19:46:25,Lieferando,Delivery,11.4
+#RUZ9LZ - Leipzig Mitte - 2023-06-13,Leipzig Mitte,#RUZ9LZ,2023-06-13,20:06:47,Lieferando,Delivery,23.1
+#UHCSCS - Samariterkiez - 2023-06-13,Samariterkiez,#UHCSCS,2023-06-13,20:51:06,Lieferando,Delivery,23.5
+#QEYBZM - Leipzig Mitte - 2023-06-14,Leipzig Mitte,#QEYBZM,2023-06-14,14:50:09,Lieferando,Delivery,16.7
+#3NC2P5 - Leipzig Mitte - 2023-06-14,Leipzig Mitte,#3NC2P5,2023-06-14,15:06:15,Lieferando,Delivery,29.5
+#MC8RLO - Leipzig Mitte - 2023-06-14,Leipzig Mitte,#MC8RLO,2023-06-14,17:07:23,Lieferando,Delivery,40.3
+#9FYTZS - Mitte - 2023-06-14,Mitte,#9FYTZS,2023-06-14,17:58:49,Lieferando,Delivery,20.8
+#4X8CD6 - Leipzig Mitte - 2023-06-14,Leipzig Mitte,#4X8CD6,2023-06-14,18:17:15,Lieferando,Delivery,20.8
+#9B384E - Leipzig Mitte - 2023-06-14,Leipzig Mitte,#9B384E,2023-06-14,18:38:32,Lieferando,Delivery,43.5
+#ZNGTSO - Leipzig Mitte - 2023-06-14,Leipzig Mitte,#ZNGTSO,2023-06-14,18:41:10,Lieferando,Delivery,26.5
+#FRJ57F - Leipzig Mitte - 2023-06-14,Leipzig Mitte,#FRJ57F,2023-06-14,19:05:36,Lieferando,Delivery,13.3
+#7RRF2A - Charlottenburg - 2023-06-14,Charlottenburg,#7RRF2A,2023-06-14,19:08:24,Lieferando,Delivery,23.5
+#VACWLT - Leipzig Mitte - 2023-06-14,Leipzig Mitte,#VACWLT,2023-06-14,19:42:28,Lieferando,Delivery,18.6
+#LUP3GI - Leipzig Mitte - 2023-06-14,Leipzig Mitte,#LUP3GI,2023-06-14,20:09:12,Lieferando,Delivery,27.8
+#P4RQ28 - Leipzig Mitte - 2023-06-15,Leipzig Mitte,#P4RQ28,2023-06-15,13:14:22,Lieferando,Delivery,21.5
+#KHXPQD - Samariterkiez - 2023-06-15,Samariterkiez,#KHXPQD,2023-06-15,13:52:07,Lieferando,Delivery,18.5
+#2SVER7 - Leipzig Mitte - 2023-06-15,Leipzig Mitte,#2SVER7,2023-06-15,15:55:28,Lieferando,Delivery,19.6
+#OUDLLC - Leipzig Mitte - 2023-06-15,Leipzig Mitte,#OUDLLC,2023-06-15,16:37:20,Lieferando,Delivery,21.5
+#RMPFKL - Mitte - 2023-06-15,Mitte,#RMPFKL,2023-06-15,16:49:03,Lieferando,Delivery,21.1
+#3Z1IF5 - Leipzig Mitte - 2023-06-15,Leipzig Mitte,#3Z1IF5,2023-06-15,17:11:44,Lieferando,Delivery,9.8
+#YF84XM - Leipzig Mitte - 2023-06-15,Leipzig Mitte,#YF84XM,2023-06-15,18:16:01,Lieferando,Delivery,24.4
+#ZWMP9Z - Mitte - 2023-06-15,Mitte,#ZWMP9Z,2023-06-15,18:41:33,Lieferando,Delivery,37.3
+#RIUPTI - Leipzig Mitte - 2023-06-15,Leipzig Mitte,#RIUPTI,2023-06-15,18:50:20,Lieferando,Delivery,30.3
+#TOQRC5 - Samariterkiez - 2023-06-15,Samariterkiez,#TOQRC5,2023-06-15,18:54:14,Lieferando,Delivery,24.2
+#Q2AQSU - Samariterkiez - 2023-06-15,Samariterkiez,#Q2AQSU,2023-06-15,19:13:02,Lieferando,Delivery,21.3
+#A3VR7N - Leipzig Mitte - 2023-06-15,Leipzig Mitte,#A3VR7N,2023-06-15,19:18:03,Lieferando,Delivery,33.2
+#8VY3I6 - Prenzlauer Berg - 2023-06-15,Prenzlauer Berg,#8VY3I6,2023-06-15,19:28:18,Lieferando,Delivery,16.8
+#G1IDQB - Samariterkiez - 2023-06-15,Samariterkiez,#G1IDQB,2023-06-15,21:15:41,Lieferando,Delivery,23.3
+#9P2KTA - Leipzig Mitte - 2023-06-16,Leipzig Mitte,#9P2KTA,2023-06-16,11:45:09,Lieferando,Delivery,23.5
+#L3JFDW - Leipzig Mitte - 2023-06-16,Leipzig Mitte,#L3JFDW,2023-06-16,12:05:22,Lieferando,Delivery,33.3
+#Y3FF8L - Leipzig Mitte - 2023-06-16,Leipzig Mitte,#Y3FF8L,2023-06-16,12:20:46,Lieferando,Delivery,9.8
+#75U2JK - Prenzlauer Berg - 2023-06-16,Prenzlauer Berg,#75U2JK,2023-06-16,14:41:54,Lieferando,Delivery,19.2
+#CHJE5S - Leipzig Mitte - 2023-06-16,Leipzig Mitte,#CHJE5S,2023-06-16,15:06:48,Lieferando,Delivery,18.2
+#HOCVL3 - Leipzig Mitte - 2023-06-16,Leipzig Mitte,#HOCVL3,2023-06-16,15:07:45,Lieferando,Delivery,18.3
+#Z9ECZ2 - Leipzig Mitte - 2023-06-16,Leipzig Mitte,#Z9ECZ2,2023-06-16,15:45:29,Lieferando,Delivery,63.1
+#KLKQDQ - Samariterkiez - 2023-06-16,Samariterkiez,#KLKQDQ,2023-06-16,16:37:39,Lieferando,Delivery,36.5
+#HQJ9JO - Leipzig Mitte - 2023-06-16,Leipzig Mitte,#HQJ9JO,2023-06-16,17:03:06,Lieferando,Delivery,28.2
+#9ZH5AH - Samariterkiez - 2023-06-16,Samariterkiez,#9ZH5AH,2023-06-16,17:26:15,Lieferando,Delivery,13.3
+#VQBBCN - Mitte - 2023-06-16,Mitte,#VQBBCN,2023-06-16,18:12:04,Lieferando,Delivery,37.7
+#D3SDMW - Leipzig Mitte - 2023-06-16,Leipzig Mitte,#D3SDMW,2023-06-16,18:18:20,Lieferando,Delivery,19.6
+#D4ZGUS - Leipzig Mitte - 2023-06-16,Leipzig Mitte,#D4ZGUS,2023-06-16,18:28:24,Lieferando,Delivery,52.7
+#QF89YG - Charlottenburg - 2023-06-16,Charlottenburg,#QF89YG,2023-06-16,18:41:10,Lieferando,Delivery,31.6
+#NPVQ8B - Charlottenburg - 2023-06-16,Charlottenburg,#NPVQ8B,2023-06-16,19:13:09,Lieferando,Delivery,15.0
+#DYN291 - Leipzig Mitte - 2023-06-16,Leipzig Mitte,#DYN291,2023-06-16,19:38:48,Lieferando,Delivery,26.0
+#5T2KHG - Mitte - 2023-06-16,Mitte,#5T2KHG,2023-06-16,19:41:26,Lieferando,Delivery,20.2
+#SVVEMU - Leipzig Mitte - 2023-06-16,Leipzig Mitte,#SVVEMU,2023-06-16,19:45:40,Lieferando,Delivery,19.6
+#JL2WXG - Leipzig Mitte - 2023-06-16,Leipzig Mitte,#JL2WXG,2023-06-16,20:02:12,Lieferando,Delivery,37.9
+#KMY3SS - Leipzig Mitte - 2023-06-16,Leipzig Mitte,#KMY3SS,2023-06-16,20:08:10,Lieferando,Delivery,19.6
+#DAERB2 - Leipzig Mitte - 2023-06-16,Leipzig Mitte,#DAERB2,2023-06-16,20:11:44,Lieferando,Delivery,44.7
+#KM8JCW - Leipzig Mitte - 2023-06-16,Leipzig Mitte,#KM8JCW,2023-06-16,20:17:46,Lieferando,Delivery,17.3
+#PFT1X8 - Leipzig Mitte - 2023-06-16,Leipzig Mitte,#PFT1X8,2023-06-16,20:25:37,Lieferando,Delivery,23.1
+#33GIC2 - Leipzig Mitte - 2023-06-17,Leipzig Mitte,#33GIC2,2023-06-17,12:27:55,Lieferando,Delivery,25.1
+#ON2R2E - Leipzig Mitte - 2023-06-17,Leipzig Mitte,#ON2R2E,2023-06-17,12:35:49,Lieferando,Delivery,14.4
+#2OAH8F - Samariterkiez - 2023-06-17,Samariterkiez,#2OAH8F,2023-06-17,12:59:38,Lieferando,Delivery,20.1
+#1AJPMO - Samariterkiez - 2023-06-17,Samariterkiez,#1AJPMO,2023-06-17,16:41:29,Lieferando,Delivery,16.3
+#PWDA3N - Samariterkiez - 2023-06-18,Samariterkiez,#PWDA3N,2023-06-18,12:00:54,Lieferando,Delivery,17.3
+#PH6RB4 - Leipzig Mitte - 2023-06-18,Leipzig Mitte,#PH6RB4,2023-06-18,12:23:37,Lieferando,Delivery,20.4
+#W3HBLW - Prenzlauer Berg - 2023-06-18,Prenzlauer Berg,#W3HBLW,2023-06-18,12:42:03,Lieferando,Delivery,18.2
+#7VC1MO - Prenzlauer Berg - 2023-06-18,Prenzlauer Berg,#7VC1MO,2023-06-18,16:41:43,Lieferando,Delivery,18.2
+#WHUJ7Z - Mitte - 2023-06-18,Mitte,#WHUJ7Z,2023-06-18,18:01:19,Lieferando,Delivery,23.2
+#AQWIDV - Leipzig Mitte - 2023-06-18,Leipzig Mitte,#AQWIDV,2023-06-18,18:51:47,Lieferando,Delivery,19.9
+#ZZGANL - Samariterkiez - 2023-06-18,Samariterkiez,#ZZGANL,2023-06-18,19:01:56,Lieferando,Delivery,19.6
+#WO4AC7 - Prenzlauer Berg - 2023-06-18,Prenzlauer Berg,#WO4AC7,2023-06-18,19:14:40,Lieferando,Delivery,26.2
+#RI5TMG - Charlottenburg - 2023-06-18,Charlottenburg,#RI5TMG,2023-06-18,19:16:04,Lieferando,Delivery,16.7
+#WES1QV - Samariterkiez - 2023-06-19,Samariterkiez,#WES1QV,2023-06-19,16:48:37,Lieferando,Delivery,19.3
+#2TTVHM - Samariterkiez - 2023-06-19,Samariterkiez,#2TTVHM,2023-06-19,17:03:23,Lieferando,Delivery,13.3
+#8IS6FO - Samariterkiez - 2023-06-19,Samariterkiez,#8IS6FO,2023-06-19,19:15:59,Lieferando,Delivery,21.1
+#2Y3JCV - Samariterkiez - 2023-06-19,Samariterkiez,#2Y3JCV,2023-06-19,21:33:36,Lieferando,Delivery,20.2
+#1C54IP - Samariterkiez - 2023-06-19,Samariterkiez,#1C54IP,2023-06-19,22:09:40,Lieferando,Delivery,15.2

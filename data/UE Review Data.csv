@@ -1,0 +1,876 @@
+Location,OrderID,OrderUUID,OrderDate,RatingType,RatingScore,PrimaryKey
+Prenzlauer Berg,#9CCD6,3e4f4942-cd24-5d7a-ae88-3d0623a5f22d,2023-03-31,Consumer To Merchant,3,#9CCD6 - Prenzlauer Berg - 2023-03-31
+Mitte,#5CDD7,f4a4d760-8d15-5fd2-9b0a-d38c4092cffe,2023-03-31,Consumer To Merchant,5,#5CDD7 - Mitte - 2023-03-31
+Prenzlauer Berg,#EC001,352150a8-ab6c-5103-a656-ca1b8c8a97dc,2023-03-30,Consumer To Merchant,5,#EC001 - Prenzlauer Berg - 2023-03-30
+Mitte,#D5859,cab8908d-7306-5fa1-9449-5b96c055b57d,2023-03-27,Consumer To Merchant,5,#D5859 - Mitte - 2023-03-27
+Prenzlauer Berg,#B83E3,0767fa5a-1bc9-529e-9d71-94e7771b3d13,2023-03-29,Consumer To Merchant,5,#B83E3 - Prenzlauer Berg - 2023-03-29
+Friedrichshain,#65FA3,a4a12065-0ff8-5b90-9777-9f439b1555b1,2023-03-26,Consumer To Merchant,3,#65FA3 - Friedrichshain - 2023-03-26
+Friedrichshain,#4E4D8,a829c4f7-8ff4-570d-bf29-970639ba2356,2023-03-30,Consumer To Merchant,5,#4E4D8 - Friedrichshain - 2023-03-30
+Bergmannkiez,#92CDC,afb67140-5dd6-545d-bf09-847886ea65f3,2023-03-30,Consumer To Merchant,4,#92CDC - Bergmannkiez - 2023-03-30
+Charlottenburg,#1F09A,117fe6b8-e88b-5df4-ac90-af052eaf5036,2023-03-31,Consumer To Merchant,5,#1F09A - Charlottenburg - 2023-03-31
+Prenzlauer Berg,#2B33B,ee08eb4c-c9c4-5996-9642-5855120b5040,2023-03-29,Consumer To Merchant,5,#2B33B - Prenzlauer Berg - 2023-03-29
+Charlottenburg,#6F04C,1b34c426-bf00-51a4-ba1d-b16aa80ec170,2023-03-31,Consumer To Merchant,1,#6F04C - Charlottenburg - 2023-03-31
+Friedrichshain,#D6269,e7e06bd1-f4c9-5672-8b22-39818e4605dd,2023-03-30,Consumer To Merchant,5,#D6269 - Friedrichshain - 2023-03-30
+Charlottenburg,#B1B6C,b3d4cbb6-2a35-57a4-aa0a-0ce88e81cad6,2023-03-31,Consumer To Merchant,3,#B1B6C - Charlottenburg - 2023-03-31
+Friedrichshain,#F0577,fad0d4c0-a0fb-5318-83a9-11a95766aad9,2023-03-27,Consumer To Merchant,5,#F0577 - Friedrichshain - 2023-03-27
+Charlottenburg,#DA217,ce9de74c-663c-5bc1-ad53-7a811ddb6673,2023-03-20,Consumer To Merchant,4,#DA217 - Charlottenburg - 2023-03-20
+Bergmannkiez,#9A24B,7ac92785-7e36-5a80-95c3-a0e1dcd40f6b,2023-03-25,Consumer To Merchant,5,#9A24B - Bergmannkiez - 2023-03-25
+Friedrichshain,#1B0CF,3dc11360-7c29-59fe-a86c-d427ed73cc91,2023-03-24,Consumer To Merchant,5,#1B0CF - Friedrichshain - 2023-03-24
+Prenzlauer Berg,#5B2DF,ad4999e4-572b-5cd4-a75f-ed75a5280fc2,2023-03-24,Consumer To Merchant,5,#5B2DF - Prenzlauer Berg - 2023-03-24
+Bergmannkiez,#DA52A,eb8a2e7b-1216-5cde-b3ec-24ca238c2d57,2023-03-25,Consumer To Merchant,5,#DA52A - Bergmannkiez - 2023-03-25
+Prenzlauer Berg,#2239B,473006cb-8a20-5388-8a5e-dd07e1bf348f,2023-03-20,Consumer To Merchant,5,#2239B - Prenzlauer Berg - 2023-03-20
+Prenzlauer Berg,#18727,141f25c7-e7b2-5bdf-bf9f-7b3f24e2205c,2023-03-30,Consumer To Merchant,5,#18727 - Prenzlauer Berg - 2023-03-30
+Kreuzberg,#26430,81bfce09-6789-562b-955c-42531df5d48c,2023-03-27,Consumer To Merchant,5,#26430 - Kreuzberg - 2023-03-27
+Bergmannkiez,#828A7,f5d8c298-fe03-5c9b-b949-73e791281859,2023-03-28,Consumer To Merchant,5,#828A7 - Bergmannkiez - 2023-03-28
+Friedrichshain,#E96B2,b37b40d9-87e6-5ecb-a3da-abfe72f31e78,2023-03-26,Consumer To Merchant,5,#E96B2 - Friedrichshain - 2023-03-26
+Kreuzberg,#9AA69,4fb6a31f-da88-5833-9103-a3e40ea2500e,2023-03-26,Consumer To Merchant,4,#9AA69 - Kreuzberg - 2023-03-26
+Kreuzberg,#9D9A8,2cbe5a63-d4a8-5067-8e79-e4260dbd668b,2023-03-28,Consumer To Merchant,5,#9D9A8 - Kreuzberg - 2023-03-28
+Charlottenburg,#083B7,d9d148c7-67c7-5ce8-a0c7-dfc807f30d37,2023-03-27,Consumer To Merchant,5,#083B7 - Charlottenburg - 2023-03-27
+Friedrichshain,#158BB,ef0d31c6-1485-58b4-9ec4-dcf2f8e7d95c,2023-03-24,Consumer To Merchant,5,#158BB - Friedrichshain - 2023-03-24
+Prenzlauer Berg,#4E573,e6073d69-c700-5105-a8f4-7aaea44a2708,2023-03-26,Consumer To Merchant,5,#4E573 - Prenzlauer Berg - 2023-03-26
+Prenzlauer Berg,#91789,1a8b4a3a-01fd-5693-b2d5-a50b0da1ae67,2023-03-22,Consumer To Merchant,5,#91789 - Prenzlauer Berg - 2023-03-22
+Prenzlauer Berg,#90C01,9dc90367-9d14-5783-a72a-5e49ead03d6b,2023-03-22,Consumer To Merchant,5,#90C01 - Prenzlauer Berg - 2023-03-22
+Bergmannkiez,#DA7DE,4395d566-e455-5246-8b1d-d34bc6fe4c5a,2023-03-24,Consumer To Merchant,3,#DA7DE - Bergmannkiez - 2023-03-24
+Friedrichshain,#777A7,4ea64ea8-578e-5f70-9467-4028f647449f,2023-03-23,Consumer To Merchant,5,#777A7 - Friedrichshain - 2023-03-23
+Kreuzberg,#5E282,27231dba-7577-5774-941c-00aa3a09a3c2,2023-03-26,Consumer To Merchant,1,#5E282 - Kreuzberg - 2023-03-26
+Prenzlauer Berg,#70258,bebba14d-3686-5d03-8e40-56423fd3116c,2023-03-26,Consumer To Merchant,5,#70258 - Prenzlauer Berg - 2023-03-26
+Kreuzberg,#C943D,70db9f7c-6c1b-5aec-9d72-8f5fd6b35b65,2023-03-26,Consumer To Merchant,4,#C943D - Kreuzberg - 2023-03-26
+Bergmannkiez,#1E6D2,3bdda03b-b328-5dbf-a602-55ba051f3007,2023-03-25,Consumer To Merchant,4,#1E6D2 - Bergmannkiez - 2023-03-25
+Friedrichshain,#CBE47,5ecfed6b-283f-538d-b78e-1e9eebb80031,2023-03-24,Consumer To Merchant,5,#CBE47 - Friedrichshain - 2023-03-24
+Mitte,#E2E58,fec024fb-4198-593b-9739-7bf8679ad93a,2023-03-22,Consumer To Merchant,5,#E2E58 - Mitte - 2023-03-22
+Mitte,#2BC9A,a11bea06-e105-522f-8b74-a6338f56887f,2023-03-25,Consumer To Merchant,5,#2BC9A - Mitte - 2023-03-25
+Friedrichshain,#6F0A6,221e9fe7-0e20-5c52-afaf-2f90683e61df,2023-03-28,Consumer To Merchant,5,#6F0A6 - Friedrichshain - 2023-03-28
+Prenzlauer Berg,#20F01,15a1e69c-9c7d-5afe-a8a6-071895de69e7,2023-03-20,Consumer To Merchant,5,#20F01 - Prenzlauer Berg - 2023-03-20
+Charlottenburg,#3E25A,46c4c648-d1f8-55c1-aa5f-a4c6b724a6e5,2023-03-21,Consumer To Merchant,5,#3E25A - Charlottenburg - 2023-03-21
+Friedrichshain,#E5D55,8926f3d0-986c-5673-87e1-7013306ac18d,2023-03-20,Consumer To Merchant,5,#E5D55 - Friedrichshain - 2023-03-20
+Charlottenburg,#E9CEE,99be3d73-0df4-582c-b3ce-e56ef23ebb2b,2023-03-18,Consumer To Merchant,5,#E9CEE - Charlottenburg - 2023-03-18
+Prenzlauer Berg,#ED486,76cd6861-823f-54b0-aa0f-7828e97822d5,2023-03-20,Consumer To Merchant,5,#ED486 - Prenzlauer Berg - 2023-03-20
+Mitte,#90F45,97411503-d410-51d6-ba08-6c9daadbd405,2023-03-24,Consumer To Merchant,5,#90F45 - Mitte - 2023-03-24
+Friedrichshain,#429FC,ca2061c2-4a44-536a-b720-1a0a8e281603,2023-03-13,Consumer To Merchant,1,#429FC - Friedrichshain - 2023-03-13
+Mitte,#510E3,b7348469-6f7b-5776-8bf9-dfd5e5bad529,2023-03-21,Consumer To Merchant,5,#510E3 - Mitte - 2023-03-21
+Prenzlauer Berg,#5CEF4,d30ee33c-f09f-5ba6-a636-c109d08d5664,2023-03-18,Consumer To Merchant,5,#5CEF4 - Prenzlauer Berg - 2023-03-18
+Prenzlauer Berg,#21026,d221505f-4f1a-5710-94aa-cb6b3614772a,2023-03-16,Consumer To Merchant,5,#21026 - Prenzlauer Berg - 2023-03-16
+Prenzlauer Berg,#7319D,cbefeec0-06f4-53c7-937b-c4ccb54b4bd0,2023-03-16,Consumer To Merchant,2,#7319D - Prenzlauer Berg - 2023-03-16
+Prenzlauer Berg,#E0921,8a427308-6a59-53c8-bb19-77c9806ff8d2,2023-03-16,Consumer To Merchant,3,#E0921 - Prenzlauer Berg - 2023-03-16
+Friedrichshain,#E19A6,7a3c1d55-0b08-561e-a928-cb9c300a4c8c,2023-03-17,Consumer To Merchant,3,#E19A6 - Friedrichshain - 2023-03-17
+Bergmannkiez,#E1103,af2e79a6-d45f-5f2e-bb9f-466c9acd2a38,2023-03-19,Consumer To Merchant,4,#E1103 - Bergmannkiez - 2023-03-19
+Kreuzberg,#EFDFF,3fdc6dd0-c4ac-5a80-95f0-3a0506408f12,2023-03-18,Consumer To Merchant,2,#EFDFF - Kreuzberg - 2023-03-18
+Bergmannkiez,#B9B5A,51c22d32-4018-540b-99d1-f3207e35a9b3,2023-03-26,Consumer To Merchant,1,#B9B5A - Bergmannkiez - 2023-03-26
+Friedrichshain,#2A176,cde913fe-560d-582d-8ddf-6140e63ba512,2023-03-24,Consumer To Merchant,2,#2A176 - Friedrichshain - 2023-03-24
+Charlottenburg,#5041A,cb5badbb-5d91-5e24-9032-896d80440eaf,2023-03-13,Consumer To Merchant,5,#5041A - Charlottenburg - 2023-03-13
+Bergmannkiez,#614D3,5b82c950-b955-507c-abf4-60804e57d08a,2023-03-18,Consumer To Merchant,4,#614D3 - Bergmannkiez - 2023-03-18
+Bergmannkiez,#50E5D,5e26d5ad-9bd3-561a-8e8c-903ea427f8b2,2023-03-15,Consumer To Merchant,5,#50E5D - Bergmannkiez - 2023-03-15
+Mitte,#B1537,32be38a0-0dd1-59b8-ba81-d1137e1d8c4c,2023-03-25,Consumer To Merchant,5,#B1537 - Mitte - 2023-03-25
+Bergmannkiez,#5F864,5d5d261b-9451-50d1-8bea-c8c4a9987f12,2023-03-13,Consumer To Merchant,5,#5F864 - Bergmannkiez - 2023-03-13
+Charlottenburg,#9C1BA,adc9394c-29bf-5712-bb51-0e51cc350f0c,2023-03-21,Consumer To Merchant,5,#9C1BA - Charlottenburg - 2023-03-21
+Charlottenburg,#67E5B,ff954ad5-d378-5229-8922-a763b8003413,2023-03-19,Consumer To Merchant,5,#67E5B - Charlottenburg - 2023-03-19
+Bergmannkiez,#89011,c1274001-4378-5908-99a0-3f065b6768a1,2023-03-18,Consumer To Merchant,4,#89011 - Bergmannkiez - 2023-03-18
+Mitte,#CA166,25c22dec-f328-522b-b456-0cb544c2e63a,2023-03-16,Consumer To Merchant,5,#CA166 - Mitte - 2023-03-16
+Friedrichshain,#36F90,550608bb-9922-5088-9ec1-2c8c610c07c2,2023-03-16,Consumer To Merchant,5,#36F90 - Friedrichshain - 2023-03-16
+Bergmannkiez,#1F2D1,ecb5b9a9-2c73-5f85-a8a0-124b0bd643c8,2023-03-22,Consumer To Merchant,3,#1F2D1 - Bergmannkiez - 2023-03-22
+Prenzlauer Berg,#56828,f84e30fa-a461-58bd-9607-2264d8641540,2023-03-28,Consumer To Merchant,5,#56828 - Prenzlauer Berg - 2023-03-28
+Bergmannkiez,#E8122,cf3259d6-4f4a-52b8-9eb7-5928946322e0,2023-03-28,Consumer To Merchant,5,#E8122 - Bergmannkiez - 2023-03-28
+Charlottenburg,#59C34,ad66e6af-3790-5b20-b9a0-d7a090112978,2023-03-20,Consumer To Merchant,5,#59C34 - Charlottenburg - 2023-03-20
+Charlottenburg,#0B2C5,4302d629-87a7-53e7-9e70-557869cf653b,2023-03-13,Consumer To Merchant,5,#0B2C5 - Charlottenburg - 2023-03-13
+Mitte,#65A8B,5cecd2e0-0c10-5e34-a6ff-85db3f97b9ee,2023-03-17,Consumer To Merchant,5,#65A8B - Mitte - 2023-03-17
+Prenzlauer Berg,#F6C8A,db38cb16-838a-5b24-afd4-61c77fd39a6c,2023-03-20,Consumer To Merchant,5,#F6C8A - Prenzlauer Berg - 2023-03-20
+Prenzlauer Berg,#91125,d90213f1-37a4-5f32-862e-bac71919f01e,2023-03-18,Consumer To Merchant,3,#91125 - Prenzlauer Berg - 2023-03-18
+Friedrichshain,#A652E,3722375a-70de-588b-8fd4-5b0b4a11ba5f,2023-03-15,Consumer To Merchant,3,#A652E - Friedrichshain - 2023-03-15
+Charlottenburg,#978E6,b4cc82e9-2c0a-54a7-9d2d-f20123eff441,2023-03-15,Consumer To Merchant,5,#978E6 - Charlottenburg - 2023-03-15
+Prenzlauer Berg,#279AD,3b86775b-0f5e-5b4d-95fe-39eef3210acc,2023-03-15,Consumer To Merchant,3,#279AD - Prenzlauer Berg - 2023-03-15
+Friedrichshain,#13D9F,e7603103-1e06-5ff7-bad9-2d8df1d4a3bd,2023-03-15,Consumer To Merchant,5,#13D9F - Friedrichshain - 2023-03-15
+Friedrichshain,#8B44A,73ac2052-833c-52b3-9749-9fa18f154cd9,2023-03-13,Consumer To Merchant,4,#8B44A - Friedrichshain - 2023-03-13
+Prenzlauer Berg,#6480D,97af6192-7138-53c7-9fe6-c7c8ed2c69ac,2023-03-13,Consumer To Merchant,5,#6480D - Prenzlauer Berg - 2023-03-13
+Prenzlauer Berg,#3EAC5,b40629af-9d00-59be-89e0-95cfd7e40278,2023-03-15,Consumer To Merchant,5,#3EAC5 - Prenzlauer Berg - 2023-03-15
+Prenzlauer Berg,#1F5AE,61c749b5-cdec-5778-b358-f0b95d37202f,2023-03-15,Consumer To Merchant,5,#1F5AE - Prenzlauer Berg - 2023-03-15
+Bergmannkiez,#93643,41dbc4be-f453-5953-8165-b8b1c7cd9053,2023-03-19,Consumer To Merchant,3,#93643 - Bergmannkiez - 2023-03-19
+Bergmannkiez,#E34C4,36c11768-7f2f-57d5-b282-0ea614bf9234,2023-03-12,Consumer To Merchant,1,#E34C4 - Bergmannkiez - 2023-03-12
+Charlottenburg,#AC0BF,31094b6e-fad6-56ad-be36-8d188f1031ce,2023-03-21,Consumer To Merchant,5,#AC0BF - Charlottenburg - 2023-03-21
+Prenzlauer Berg,#F9ED9,1208b8a9-b7cb-57f2-8866-bc0ea3ff04fa,2023-03-16,Consumer To Merchant,5,#F9ED9 - Prenzlauer Berg - 2023-03-16
+Friedrichshain,#32A77,7c2b11e1-0dd6-554a-ae51-045da9240fd1,2023-03-10,Consumer To Merchant,1,#32A77 - Friedrichshain - 2023-03-10
+Kreuzberg,#6301F,76826762-e959-5e9b-8272-8b4a6f0e2a70,2023-03-13,Consumer To Merchant,5,#6301F - Kreuzberg - 2023-03-13
+Prenzlauer Berg,#E2DFA,faac5e22-fc0c-523b-868e-1a5fb4f340ad,2023-03-14,Consumer To Merchant,4,#E2DFA - Prenzlauer Berg - 2023-03-14
+Kreuzberg,#87D47,295b343c-d4dc-5a09-b030-f88e67b8f5be,2023-03-10,Consumer To Merchant,5,#87D47 - Kreuzberg - 2023-03-10
+Prenzlauer Berg,#1761C,bbbdfe0c-3beb-57b6-95c6-438cf35f449f,2023-03-18,Consumer To Merchant,1,#1761C - Prenzlauer Berg - 2023-03-18
+Prenzlauer Berg,#F2A97,1fd30e4f-3976-57f8-9707-b8b1409f6c40,2023-03-15,Consumer To Merchant,3,#F2A97 - Prenzlauer Berg - 2023-03-15
+Prenzlauer Berg,#D9A1F,5d772159-d683-5a6e-9c6d-d2cc0bcf1abb,2023-03-14,Consumer To Merchant,5,#D9A1F - Prenzlauer Berg - 2023-03-14
+Bergmannkiez,#D8A8E,598222bd-d657-500a-a40e-bfb53f885628,2023-03-14,Consumer To Merchant,5,#D8A8E - Bergmannkiez - 2023-03-14
+Prenzlauer Berg,#FF970,e8691719-ca21-5ca5-85db-e7d6e6b9b5dd,2023-03-13,Consumer To Merchant,5,#FF970 - Prenzlauer Berg - 2023-03-13
+Bergmannkiez,#180AA,b1712378-4ddf-5025-bf0b-b4401d0345ce,2023-03-10,Consumer To Merchant,1,#180AA - Bergmannkiez - 2023-03-10
+Friedrichshain,#25E91,a4e29a77-78e0-52a3-b2b3-fd6971705555,2023-03-13,Consumer To Merchant,5,#25E91 - Friedrichshain - 2023-03-13
+Friedrichshain,#BDEF9,9acd46b2-6759-5f2b-92e5-19cca42bb8e4,2023-03-19,Consumer To Merchant,5,#BDEF9 - Friedrichshain - 2023-03-19
+Charlottenburg,#EC8AF,b8aa7775-b882-567f-b526-97c5a48daef0,2023-03-19,Consumer To Merchant,5,#EC8AF - Charlottenburg - 2023-03-19
+Bergmannkiez,#38F46,3e4d4204-cb79-555c-9c9a-27b449d358f5,2023-03-06,Consumer To Merchant,5,#38F46 - Bergmannkiez - 2023-03-06
+Friedrichshain,#F0A78,1fc678b0-e9c7-5c26-a431-c22bc8be29a4,2023-03-06,Consumer To Merchant,1,#F0A78 - Friedrichshain - 2023-03-06
+Friedrichshain,#CAFD8,4c275c29-4cea-5511-80e1-3ac2d3a63d75,2023-03-06,Consumer To Merchant,5,#CAFD8 - Friedrichshain - 2023-03-06
+Kreuzberg,#A1D60,49d5d043-e456-56d7-acd1-861d0cdaba64,2023-03-19,Consumer To Merchant,3,#A1D60 - Kreuzberg - 2023-03-19
+Mitte,#E1308,8a7216d5-d0ce-518a-95ce-d6e6cd4452f7,2023-03-20,Consumer To Merchant,5,#E1308 - Mitte - 2023-03-20
+Charlottenburg,#0BD26,9188b59a-e603-552d-97ae-90193001ddd1,2023-03-06,Consumer To Merchant,5,#0BD26 - Charlottenburg - 2023-03-06
+Mitte,#5CBD5,37531097-2cb0-50f4-96b1-7dbff169089a,2023-03-19,Consumer To Merchant,3,#5CBD5 - Mitte - 2023-03-19
+Prenzlauer Berg,#5927D,6af4ef34-eecd-5236-a32c-7999dba8d325,2023-03-19,Consumer To Merchant,5,#5927D - Prenzlauer Berg - 2023-03-19
+Friedrichshain,#B34FA,dd89e70e-f721-5379-82b2-3c3a37684a90,2023-03-11,Consumer To Merchant,1,#B34FA - Friedrichshain - 2023-03-11
+Mitte,#6F27B,db059af1-2b40-5168-8a20-f4bdc65ef1ea,2023-03-13,Consumer To Merchant,5,#6F27B - Mitte - 2023-03-13
+Prenzlauer Berg,#01CFF,94fdb539-d8b8-5414-a398-ebcf968f1b1c,2023-03-10,Consumer To Merchant,5,#01CFF - Prenzlauer Berg - 2023-03-10
+Prenzlauer Berg,#98FF0,88f41e7a-c389-55b0-b281-5536feb7e703,2023-03-14,Consumer To Merchant,5,#98FF0 - Prenzlauer Berg - 2023-03-14
+Mitte,#853EB,89bf5723-4d8b-5032-9ce7-514da6a79105,2023-03-14,Consumer To Merchant,2,#853EB - Mitte - 2023-03-14
+Charlottenburg,#E40D2,07aa0244-1a49-53b8-afe1-80ff1cefe211,2023-03-06,Consumer To Merchant,5,#E40D2 - Charlottenburg - 2023-03-06
+Bergmannkiez,#A802E,6e5d8d81-1d41-595e-8664-d34f6a323953,2023-03-11,Consumer To Merchant,5,#A802E - Bergmannkiez - 2023-03-11
+Bergmannkiez,#B071E,ccac1f81-bdf0-5334-b9e8-201979abd45e,2023-03-14,Consumer To Merchant,1,#B071E - Bergmannkiez - 2023-03-14
+Mitte,#3C9F0,f8eb5f47-e897-5204-a3b3-7d00d6a322aa,2023-03-11,Consumer To Merchant,4,#3C9F0 - Mitte - 2023-03-11
+Mitte,#C69AB,39387bf5-8933-5d48-824e-15346c3f7940,2023-03-11,Consumer To Merchant,5,#C69AB - Mitte - 2023-03-11
+Bergmannkiez,#EEC21,e35e7789-5186-5694-960c-ed933ce77d36,2023-03-06,Consumer To Merchant,4,#EEC21 - Bergmannkiez - 2023-03-06
+Friedrichshain,#6F4B0,9b76a565-cc74-5338-9fa9-1858c55995b7,2023-03-12,Consumer To Merchant,5,#6F4B0 - Friedrichshain - 2023-03-12
+Charlottenburg,#83A93,fef8f3a9-8480-5fd6-808d-5dd2d82d221a,2023-03-15,Consumer To Merchant,5,#83A93 - Charlottenburg - 2023-03-15
+Bergmannkiez,#5B26C,f6532414-671d-5143-9901-93770a71b15f,2023-03-11,Consumer To Merchant,5,#5B26C - Bergmannkiez - 2023-03-11
+Bergmannkiez,#39CFA,907b509b-8936-5625-9363-ff8e520feba7,2023-03-05,Consumer To Merchant,2,#39CFA - Bergmannkiez - 2023-03-05
+Prenzlauer Berg,#031E2,ab97311f-dbc5-5ba3-8296-771b59d5fdcd,2023-03-04,Consumer To Merchant,1,#031E2 - Prenzlauer Berg - 2023-03-04
+Prenzlauer Berg,#85C97,f5528da2-7cad-5050-a2b2-4204457b8040,2023-03-07,Consumer To Merchant,4,#85C97 - Prenzlauer Berg - 2023-03-07
+Mitte,#82495,77cd9d13-a3fb-54b9-8e3e-2f00ea4daf91,2023-03-07,Consumer To Merchant,5,#82495 - Mitte - 2023-03-07
+Bergmannkiez,#4861F,cf20ff07-a4ce-57f5-94f1-618eb4254bc2,2023-03-10,Consumer To Merchant,5,#4861F - Bergmannkiez - 2023-03-10
+Mitte,#E316E,a2f15206-595c-58df-b25f-586359986f97,2023-03-12,Consumer To Merchant,5,#E316E - Mitte - 2023-03-12
+Bergmannkiez,#F62B9,e02d1e82-dea2-5332-a8e1-2fc0b40c2dce,2023-03-09,Consumer To Merchant,5,#F62B9 - Bergmannkiez - 2023-03-09
+Kreuzberg,#BCF0A,a058433d-10bc-57ba-accf-ffb27946b489,2023-03-11,Consumer To Merchant,4,#BCF0A - Kreuzberg - 2023-03-11
+Kreuzberg,#632D7,64f73c7f-17b2-53e7-b93f-e1c224a275ad,2023-03-26,Consumer To Merchant,5,#632D7 - Kreuzberg - 2023-03-26
+Prenzlauer Berg,#F1950,75191abe-0aaa-5e97-b22a-9504c98fbfaa,2023-03-08,Consumer To Merchant,5,#F1950 - Prenzlauer Berg - 2023-03-08
+Kreuzberg,#EEF3A,10260968-56e2-5e32-a6c9-3a1b826f4707,2023-03-11,Consumer To Merchant,5,#EEF3A - Kreuzberg - 2023-03-11
+Mitte,#66BB0,52d28150-b968-57f6-a9bc-2c6a6bfd5cf9,2023-03-06,Consumer To Merchant,5,#66BB0 - Mitte - 2023-03-06
+Charlottenburg,#56E12,6c9c1895-6504-5b3a-85b4-960a2543e97b,2023-03-10,Consumer To Merchant,5,#56E12 - Charlottenburg - 2023-03-10
+Bergmannkiez,#F9C18,a943ad01-3c43-5ec5-8074-e871ce60c5d9,2023-03-14,Consumer To Merchant,4,#F9C18 - Bergmannkiez - 2023-03-14
+Prenzlauer Berg,#95611,584ff6f1-aa18-5c64-b2c3-143dfe48e7d3,2023-03-14,Consumer To Merchant,5,#95611 - Prenzlauer Berg - 2023-03-14
+Bergmannkiez,#7C652,3e77a8ca-2a23-5160-a94e-19748db37bb2,2023-03-14,Consumer To Merchant,5,#7C652 - Bergmannkiez - 2023-03-14
+Prenzlauer Berg,#7F1EC,f59d7d4e-71d9-51eb-8a3a-4501cf313e7d,2023-03-06,Consumer To Merchant,5,#7F1EC - Prenzlauer Berg - 2023-03-06
+Prenzlauer Berg,#9AAA7,22ffbc1c-6e0b-5657-a4cf-bc38b772ecf8,2023-03-06,Consumer To Merchant,5,#9AAA7 - Prenzlauer Berg - 2023-03-06
+Charlottenburg,#8E48F,f3a6171f-9018-5a29-8596-66d423bbfaf9,2023-03-14,Consumer To Merchant,5,#8E48F - Charlottenburg - 2023-03-14
+Bergmannkiez,#97F9A,fc4e2c1c-895a-5cad-b552-736d2ba1a966,2023-03-11,Consumer To Merchant,5,#97F9A - Bergmannkiez - 2023-03-11
+Bergmannkiez,#0E0BB,59e359ba-aa09-5d2b-803d-e2f0b141a77b,2023-03-09,Consumer To Merchant,5,#0E0BB - Bergmannkiez - 2023-03-09
+Prenzlauer Berg,#8BBED,92255e28-9d75-51c7-a800-fbf2041f7bd0,2023-03-06,Consumer To Merchant,5,#8BBED - Prenzlauer Berg - 2023-03-06
+Bergmannkiez,#2D77D,a62dea30-6627-51c8-8857-c7cd8b3aa235,2023-03-14,Consumer To Merchant,1,#2D77D - Bergmannkiez - 2023-03-14
+Friedrichshain,#DDBA1,cb544dd9-51ca-5c11-99a5-dbc62de51f6a,2023-03-12,Consumer To Merchant,5,#DDBA1 - Friedrichshain - 2023-03-12
+Bergmannkiez,#55FF8,9249318f-e1f1-58c2-a782-eadb05caedf0,2023-03-12,Consumer To Merchant,5,#55FF8 - Bergmannkiez - 2023-03-12
+Friedrichshain,#3A030,b3ee9a24-9482-5d1c-9d7e-eeda6b90023e,2023-03-04,Consumer To Merchant,4,#3A030 - Friedrichshain - 2023-03-04
+Prenzlauer Berg,#8DDCF,c2f200b4-8f73-5d97-8820-861b0484b694,2023-03-09,Consumer To Merchant,5,#8DDCF - Prenzlauer Berg - 2023-03-09
+Friedrichshain,#6B9B7,ef940a38-fa58-5f4d-a402-f669bcb97039,2023-03-12,Consumer To Merchant,2,#6B9B7 - Friedrichshain - 2023-03-12
+Friedrichshain,#E7106,ba6399b3-d31a-5484-b4a5-d50fd688e165,2023-03-12,Consumer To Merchant,5,#E7106 - Friedrichshain - 2023-03-12
+Mitte,#57B77,81e12208-93fa-55a6-8351-ac1164796658,2023-03-10,Consumer To Merchant,4,#57B77 - Mitte - 2023-03-10
+Prenzlauer Berg,#D9124,e4417f75-fe97-5b6e-a39c-a880fcdb78ea,2023-03-08,Consumer To Merchant,4,#D9124 - Prenzlauer Berg - 2023-03-08
+Prenzlauer Berg,#82D39,7dd1876b-7c88-5550-8b5d-71315e429f60,2023-03-05,Consumer To Merchant,3,#82D39 - Prenzlauer Berg - 2023-03-05
+Mitte,#8339B,3b8f6cba-c96a-5edd-8f03-b738631b8fa1,2023-03-07,Consumer To Merchant,5,#8339B - Mitte - 2023-03-07
+Charlottenburg,#6DD1C,8f1bf21a-09ea-5a29-9b37-172e6ddac174,2023-03-07,Consumer To Merchant,5,#6DD1C - Charlottenburg - 2023-03-07
+Mitte,#E0485,274c7de1-97d1-516a-9bd2-17981fcbc9e4,2023-03-07,Consumer To Merchant,5,#E0485 - Mitte - 2023-03-07
+Bergmannkiez,#E83EC,69556688-7011-5344-860b-0f3937ad9642,2023-03-06,Consumer To Merchant,4,#E83EC - Bergmannkiez - 2023-03-06
+Friedrichshain,#6B70D,cf7b4226-813f-5fa0-902f-e714593d8286,2023-03-07,Consumer To Merchant,5,#6B70D - Friedrichshain - 2023-03-07
+Bergmannkiez,#B74E9,e6ac5123-27d9-58a0-9e35-1b5958c4e9f0,2023-03-06,Consumer To Merchant,5,#B74E9 - Bergmannkiez - 2023-03-06
+Prenzlauer Berg,#57AB6,23b0e586-e32c-59eb-83ab-972516f8047c,2023-03-05,Consumer To Merchant,5,#57AB6 - Prenzlauer Berg - 2023-03-05
+Charlottenburg,#34D2A,f78d75aa-e88d-5f85-92a7-5273bb015600,2023-03-04,Consumer To Merchant,5,#34D2A - Charlottenburg - 2023-03-04
+Charlottenburg,#0F847,1cba9c1e-7d43-523b-abb6-2afeb156fb24,2023-03-04,Consumer To Merchant,4,#0F847 - Charlottenburg - 2023-03-04
+Bergmannkiez,#E432E,25276a3c-2d55-5a97-a9c8-224d7ee94f4c,2023-03-06,Consumer To Merchant,4,#E432E - Bergmannkiez - 2023-03-06
+Charlottenburg,#5EAB2,dda50645-e554-5158-b65b-f168d7431a45,2023-03-14,Consumer To Merchant,4,#5EAB2 - Charlottenburg - 2023-03-14
+Kreuzberg,#46500,8ad23798-6bc1-5b7c-a74a-1c9e6a727dff,2023-03-14,Consumer To Merchant,3,#46500 - Kreuzberg - 2023-03-14
+Mitte,#E2C52,5c34012d-18d0-514c-a5c8-3e81dfb1369d,2023-03-14,Consumer To Merchant,5,#E2C52 - Mitte - 2023-03-14
+Mitte,#790AB,a4fc07f7-1798-5f49-b725-ba1110eda524,2023-03-05,Consumer To Merchant,5,#790AB - Mitte - 2023-03-05
+Bergmannkiez,#67449,3d2a8b2e-ba85-5217-8d18-e541405112cc,2023-03-02,Consumer To Merchant,4,#67449 - Bergmannkiez - 2023-03-02
+Mitte,#C5D22,655ea435-1a6b-53e4-a877-0cf6f5f2de7d,2023-03-05,Consumer To Merchant,5,#C5D22 - Mitte - 2023-03-05
+Bergmannkiez,#44B92,4bcc86f8-1b90-5098-ac21-55509209c134,2023-03-04,Consumer To Merchant,5,#44B92 - Bergmannkiez - 2023-03-04
+Bergmannkiez,#F6C40,3d4f492f-cc24-55de-a512-2051bfa5cf18,2023-03-07,Consumer To Merchant,5,#F6C40 - Bergmannkiez - 2023-03-07
+Friedrichshain,#73611,da5a11d9-ef5b-5e13-baed-91c0b0f5d92d,2023-03-01,Consumer To Merchant,5,#73611 - Friedrichshain - 2023-03-01
+Friedrichshain,#D33DB,f6bc64bf-ae3e-5d50-b6b8-0c5a4dc1e1ce,2023-03-11,Consumer To Merchant,5,#D33DB - Friedrichshain - 2023-03-11
+Bergmannkiez,#35244,be52eb6a-909e-55ae-bcab-f90c0af82124,2023-03-01,Consumer To Merchant,4,#35244 - Bergmannkiez - 2023-03-01
+Friedrichshain,#0C24A,a91a8bdd-9204-5023-a565-d6a4f133f46e,2023-03-01,Consumer To Merchant,5,#0C24A - Friedrichshain - 2023-03-01
+Bergmannkiez,#AD32D,c6d302e1-cd47-53dd-83a5-984abe987a02,2023-03-10,Consumer To Merchant,2,#AD32D - Bergmannkiez - 2023-03-10
+Prenzlauer Berg,#99386,5a3deed7-2bad-585a-a320-299bf9e95be6,2023-03-04,Consumer To Merchant,5,#99386 - Prenzlauer Berg - 2023-03-04
+Mitte,#8B6FF,f27142a4-5427-5c0c-92ee-f7f75085e155,2023-03-01,Consumer To Merchant,5,#8B6FF - Mitte - 2023-03-01
+Bergmannkiez,#6F187,33ebf5f9-db91-5d48-a7f7-f594951a8daf,2023-03-06,Consumer To Merchant,5,#6F187 - Bergmannkiez - 2023-03-06
+Bergmannkiez,#A46C3,a76fa08f-e37f-5e3c-90a2-8dd2f043f381,2023-03-12,Consumer To Merchant,5,#A46C3 - Bergmannkiez - 2023-03-12
+Prenzlauer Berg,#BF7A5,dfcf711c-94d4-5aee-a36a-42c55a0eb9a8,2023-03-04,Consumer To Merchant,5,#BF7A5 - Prenzlauer Berg - 2023-03-04
+Charlottenburg,#67094,ac7996a0-dfd7-513c-a5d1-088995cfafb5,2023-03-03,Consumer To Merchant,5,#67094 - Charlottenburg - 2023-03-03
+Bergmannkiez,#CE966,420897d8-4cf2-50b9-8ed1-bf9c7421e76d,2023-03-02,Consumer To Merchant,4,#CE966 - Bergmannkiez - 2023-03-02
+Friedrichshain,#2F035,316f3023-6d3b-5c00-8d7d-87509728192f,2023-03-12,Consumer To Merchant,1,#2F035 - Friedrichshain - 2023-03-12
+Mitte,#97763,a84f46dd-9e9f-5bc1-86ee-0e834684ec16,2023-03-12,Consumer To Merchant,3,#97763 - Mitte - 2023-03-12
+Friedrichshain,#01EC0,6763f3f4-6f5a-5bf4-a2af-c4cbbc11f94a,2023-03-03,Consumer To Merchant,5,#01EC0 - Friedrichshain - 2023-03-03
+Bergmannkiez,#735F6,4381b307-d71a-5dba-aff3-ad7fb1b0c010,2023-03-02,Consumer To Merchant,5,#735F6 - Bergmannkiez - 2023-03-02
+Prenzlauer Berg,#2D229,c0b74403-18da-51da-8845-2a83332b24f8,2023-03-07,Consumer To Merchant,5,#2D229 - Prenzlauer Berg - 2023-03-07
+Prenzlauer Berg,#5C475,0b515a81-f432-5d9e-9844-03973a9515b9,2023-03-01,Consumer To Merchant,4,#5C475 - Prenzlauer Berg - 2023-03-01
+Bergmannkiez,#7AD77,353e00f3-8ef0-537a-9495-9791f42066da,2023-03-12,Consumer To Merchant,3,#7AD77 - Bergmannkiez - 2023-03-12
+Prenzlauer Berg,#6FC0A,f46b18f4-eae3-5ee1-b11d-e59cd81ee1e6,2023-03-03,Consumer To Merchant,2,#6FC0A - Prenzlauer Berg - 2023-03-03
+Mitte,#F9969,b3661d08-caef-519c-8400-b83f49502a22,2023-03-06,Consumer To Merchant,5,#F9969 - Mitte - 2023-03-06
+Friedrichshain,#0133A,8c08a146-4c87-5bfd-b011-ecfd90effa19,2023-03-02,Consumer To Merchant,5,#0133A - Friedrichshain - 2023-03-02
+Friedrichshain,#6E436,29b7c704-2353-54a7-b403-42929353ccb2,2023-03-02,Consumer To Merchant,5,#6E436 - Friedrichshain - 2023-03-02
+Bergmannkiez,#3AA1F,f7bca294-f36d-56a6-bbd1-d12e3c94056d,2023-03-12,Consumer To Merchant,5,#3AA1F - Bergmannkiez - 2023-03-12
+Prenzlauer Berg,#B0122,b3322626-72f0-5859-abc4-2966b05a46a0,2023-03-02,Consumer To Merchant,5,#B0122 - Prenzlauer Berg - 2023-03-02
+Bergmannkiez,#C3D68,f31a0000-0234-56ee-8336-6f150c2d2551,2023-03-02,Consumer To Merchant,1,#C3D68 - Bergmannkiez - 2023-03-02
+Prenzlauer Berg,#6F92F,b73851fc-1bac-5308-9f5c-4c9d8a820a1d,2023-03-03,Consumer To Merchant,5,#6F92F - Prenzlauer Berg - 2023-03-03
+Prenzlauer Berg,#80890,4d3e007b-eee3-56ee-96f8-1ad4212ea99f,2023-03-03,Consumer To Merchant,5,#80890 - Prenzlauer Berg - 2023-03-03
+Bergmannkiez,#0F529,8803f129-a40f-5142-a92f-c676e3b9c022,2023-03-03,Consumer To Merchant,5,#0F529 - Bergmannkiez - 2023-03-03
+Mitte,#D2C0C,be323704-323c-5c58-8d58-5334bf8844bc,2023-03-02,Consumer To Merchant,5,#D2C0C - Mitte - 2023-03-02
+Charlottenburg,#136DB,dc407a3f-39f4-5bad-a610-44c306cff0fd,2023-03-01,Consumer To Merchant,1,#136DB - Charlottenburg - 2023-03-01
+Bergmannkiez,#4FE34,b9dcc301-bbfc-5b58-b01d-f37c54464a65,2023-03-01,Consumer To Merchant,5,#4FE34 - Bergmannkiez - 2023-03-01
+Mitte,#7CF53,d6c05655-f4e3-58d9-9325-29cfecace805,2023-03-04,Consumer To Merchant,5,#7CF53 - Mitte - 2023-03-04
+Prenzlauer Berg,#FF1D6,e5eee2d0-7ce8-5ec2-97cb-dbc004fa457e,2023-03-08,Consumer To Merchant,5,#FF1D6 - Prenzlauer Berg - 2023-03-08
+Samariterkiez,#A2D90,c8324d61-84f7-5d93-8e05-aecf31391d84,2023-04-30,Consumer To Merchant,5,#A2D90 - Samariterkiez - 2023-04-30
+Prenzlauer Berg,#C3D68,bf38ebfc-f445-5915-b778-6aae37dd5b27,2023-04-28,Consumer To Merchant,5,#C3D68 - Prenzlauer Berg - 2023-04-28
+Mitte,#B6B98,6a61cd07-7cc9-58b5-a02a-f96452889b8d,2023-04-28,Consumer To Merchant,5,#B6B98 - Mitte - 2023-04-28
+Prenzlauer Berg,#74241,e9e3ca42-3e6a-554c-a496-a2916b308bd7,2023-04-28,Consumer To Merchant,5,#74241 - Prenzlauer Berg - 2023-04-28
+Charlottenburg,#E5CE2,37d81e6f-6fac-5af9-9ad8-bdea32724609,2023-04-26,Consumer To Merchant,5,#E5CE2 - Charlottenburg - 2023-04-26
+Charlottenburg,#8DF3B,63bdbb87-73bb-56e1-bf50-f764b664cd32,2023-04-26,Consumer To Merchant,5,#8DF3B - Charlottenburg - 2023-04-26
+Samariterkiez,#C7499,de8844c2-4c6d-57c6-86bc-68e2ef4fb41f,2023-04-25,Consumer To Merchant,1,#C7499 - Samariterkiez - 2023-04-25
+Prenzlauer Berg,#3DBA6,f08df34b-2842-5842-a7d0-b007551d8533,2023-04-30,Consumer To Merchant,5,#3DBA6 - Prenzlauer Berg - 2023-04-30
+Samariterkiez,#5048F,f9cea173-1231-51fc-8eea-44b0db788456,2023-04-28,Consumer To Merchant,5,#5048F - Samariterkiez - 2023-04-28
+Prenzlauer Berg,#EF0F0,53208ada-a3ac-56ad-9663-a051f3a33b04,2023-04-30,Consumer To Merchant,5,#EF0F0 - Prenzlauer Berg - 2023-04-30
+Prenzlauer Berg,#EBCC7,20420d01-8542-5439-9fda-4b08df9d7f78,2023-04-28,Consumer To Merchant,5,#EBCC7 - Prenzlauer Berg - 2023-04-28
+Bergmannkiez,#0315F,31db6d6f-09ac-533f-b02c-be009d5e5b18,2023-04-30,Consumer To Merchant,5,#0315F - Bergmannkiez - 2023-04-30
+Friedrichshain,#C9725,66d4ccb6-e730-5ae4-a85a-39b6ee341675,2023-04-28,Consumer To Merchant,5,#C9725 - Friedrichshain - 2023-04-28
+Samariterkiez,#E7605,1a4844ab-0a44-5e2e-bdbf-4eb10a4b47fd,2023-04-26,Consumer To Merchant,5,#E7605 - Samariterkiez - 2023-04-26
+Samariterkiez,#C31CA,c7324798-baf1-5c76-884a-791b8f9c1891,2023-04-25,Consumer To Merchant,1,#C31CA - Samariterkiez - 2023-04-25
+Prenzlauer Berg,#D83BC,d48f02a7-bbf1-50a2-a87e-0d4a67aee7d9,2023-04-30,Consumer To Merchant,5,#D83BC - Prenzlauer Berg - 2023-04-30
+Charlottenburg,#539FD,ee3b786d-845e-57b2-b546-9b7999c5dfd7,2023-04-17,Consumer To Merchant,5,#539FD - Charlottenburg - 2023-04-17
+Friedrichshain,#37175,85f70fca-be30-5f4a-bcb5-553b175df1ca,2023-04-22,Consumer To Merchant,4,#37175 - Friedrichshain - 2023-04-22
+Prenzlauer Berg,#3FE2E,a622363e-bbba-550c-baee-6e09c432d8b7,2023-04-21,Consumer To Merchant,5,#3FE2E - Prenzlauer Berg - 2023-04-21
+Prenzlauer Berg,#6732C,4b7f1a77-605a-5eac-b615-f7c7710e781b,2023-04-21,Consumer To Merchant,4,#6732C - Prenzlauer Berg - 2023-04-21
+Samariterkiez,#FE18A,1f467896-56e6-5e40-9bf4-225a37719225,2023-04-30,Consumer To Merchant,2,#FE18A - Samariterkiez - 2023-04-30
+Friedrichshain,#AA28D,ac34181a-4a76-568f-8554-0d5203eabaf7,2023-04-30,Consumer To Merchant,5,#AA28D - Friedrichshain - 2023-04-30
+Friedrichshain,#E7794,e3fa03fa-7638-5ca2-acaa-f561ea118d51,2023-04-29,Consumer To Merchant,4,#E7794 - Friedrichshain - 2023-04-29
+Samariterkiez,#3C4FF,60dd73e7-1b8b-53a9-9e9a-e137eb1566c8,2023-04-27,Consumer To Merchant,5,#3C4FF - Samariterkiez - 2023-04-27
+Friedrichshain,#F2F03,c156038f-c5f7-56b1-b14b-eedb1ddb04e4,2023-04-30,Consumer To Merchant,5,#F2F03 - Friedrichshain - 2023-04-30
+Prenzlauer Berg,#1A6A2,97d02fd9-ae02-51d3-895b-3f5d7f76ff89,2023-04-24,Consumer To Merchant,5,#1A6A2 - Prenzlauer Berg - 2023-04-24
+Kreuzberg,#79437,9f9011fc-2706-543c-ad0a-664524d0aaf5,2023-04-22,Consumer To Merchant,4,#79437 - Kreuzberg - 2023-04-22
+Prenzlauer Berg,#3EF93,5d3dc772-dab1-592f-9304-297979c1dcb4,2023-04-21,Consumer To Merchant,5,#3EF93 - Prenzlauer Berg - 2023-04-21
+Prenzlauer Berg,#8A1F1,de44779f-e0ac-5112-9f7c-6ef454d547f7,2023-04-25,Consumer To Merchant,5,#8A1F1 - Prenzlauer Berg - 2023-04-25
+Samariterkiez,#7E8B4,1f73c7f0-5d50-5219-8c6f-35eaa68027bc,2023-04-24,Consumer To Merchant,5,#7E8B4 - Samariterkiez - 2023-04-24
+Prenzlauer Berg,#2F3DC,5a407956-9668-5ace-97c7-8565b36011d9,2023-04-14,Consumer To Merchant,5,#2F3DC - Prenzlauer Berg - 2023-04-14
+Mitte,#C1820,440fcddf-631a-59da-8b9a-ee060ba5676d,2023-04-19,Consumer To Merchant,4,#C1820 - Mitte - 2023-04-19
+Mitte,#BFC9F,4a53ecc1-f63d-5fe2-9737-0f464a5c6fbe,2023-04-13,Consumer To Merchant,5,#BFC9F - Mitte - 2023-04-13
+Prenzlauer Berg,#12B8F,72af6adc-1c3b-546c-b701-7488ba95dcaf,2023-04-25,Consumer To Merchant,5,#12B8F - Prenzlauer Berg - 2023-04-25
+Prenzlauer Berg,#9F6CD,076f3cfc-be3e-563a-bc66-12c7273016b9,2023-04-27,Consumer To Merchant,5,#9F6CD - Prenzlauer Berg - 2023-04-27
+Samariterkiez,#17F0B,0b15698a-bf11-5adb-8fd7-17dfa1628291,2023-04-27,Consumer To Merchant,5,#17F0B - Samariterkiez - 2023-04-27
+Prenzlauer Berg,#BBA66,15ccbc9c-10b9-5442-821f-687ef9a75e51,2023-04-25,Consumer To Merchant,5,#BBA66 - Prenzlauer Berg - 2023-04-25
+Bergmannkiez,#A36D7,72249333-0009-517d-bb4e-4c3c464bd55c,2023-04-18,Consumer To Merchant,5,#A36D7 - Bergmannkiez - 2023-04-18
+Samariterkiez,#01FF1,d441cb25-aed1-50d7-9f08-112415dfd533,2023-04-24,Consumer To Merchant,5,#01FF1 - Samariterkiez - 2023-04-24
+Friedrichshain,#E9559,ec627b7d-61fd-5d90-b869-7cafc694cae2,2023-04-24,Consumer To Merchant,5,#E9559 - Friedrichshain - 2023-04-24
+Samariterkiez,#E449B,6303e7f5-2edb-5b94-984a-40e6e6b91601,2023-04-26,Consumer To Merchant,3,#E449B - Samariterkiez - 2023-04-26
+Prenzlauer Berg,#7D898,35562c25-bfa3-5512-b32a-1b796425991a,2023-04-29,Consumer To Merchant,5,#7D898 - Prenzlauer Berg - 2023-04-29
+Charlottenburg,#9FC96,dd4252e3-9166-5429-af4d-359b93142b72,2023-04-29,Consumer To Merchant,5,#9FC96 - Charlottenburg - 2023-04-29
+Prenzlauer Berg,#8EBDB,23cadd67-6cbb-5add-be6a-1438c33c5332,2023-04-28,Consumer To Merchant,5,#8EBDB - Prenzlauer Berg - 2023-04-28
+Prenzlauer Berg,#879CC,71a995fb-30ad-5bd4-89fb-d7f7c4a14b18,2023-04-22,Consumer To Merchant,5,#879CC - Prenzlauer Berg - 2023-04-22
+Charlottenburg,#965E2,e142a395-4550-58fb-8af0-1d5262673b75,2023-04-14,Consumer To Merchant,1,#965E2 - Charlottenburg - 2023-04-14
+Bergmannkiez,#DED9A,3ebc3e7e-8d15-57b7-801e-d8db63009a62,2023-04-21,Consumer To Merchant,4,#DED9A - Bergmannkiez - 2023-04-21
+Friedrichshain,#03CE3,1acd4189-604b-5e7e-b5e5-05401e247dba,2023-04-14,Consumer To Merchant,5,#03CE3 - Friedrichshain - 2023-04-14
+Samariterkiez,#B9900,07fea5ab-89c3-5754-8da2-e33b51219efb,2023-04-24,Consumer To Merchant,5,#B9900 - Samariterkiez - 2023-04-24
+Kreuzberg,#85D51,a6f2c296-52f1-52b7-b0ec-e386eac31571,2023-04-22,Consumer To Merchant,5,#85D51 - Kreuzberg - 2023-04-22
+Bergmannkiez,#EE011,9abe7920-ce72-56db-aaaf-c79648bd588b,2023-04-17,Consumer To Merchant,5,#EE011 - Bergmannkiez - 2023-04-17
+Kreuzberg,#29A32,2ca79349-2a0d-5667-a44c-13a1f97fe261,2023-04-14,Consumer To Merchant,3,#29A32 - Kreuzberg - 2023-04-14
+Prenzlauer Berg,#00616,be5b150d-5415-5121-a944-b6770632580f,2023-04-19,Consumer To Merchant,5,#00616 - Prenzlauer Berg - 2023-04-19
+Mitte,#FB651,9c15747c-2982-5267-b8af-06b1fc46d4b2,2023-04-23,Consumer To Merchant,2,#FB651 - Mitte - 2023-04-23
+Prenzlauer Berg,#9B106,37087ab7-e553-5164-8342-7a000ef98ea1,2023-04-25,Consumer To Merchant,5,#9B106 - Prenzlauer Berg - 2023-04-25
+Charlottenburg,#41C22,8cf2f585-9acd-5328-a3be-cdf87f7c2498,2023-04-22,Consumer To Merchant,4,#41C22 - Charlottenburg - 2023-04-22
+Samariterkiez,#2CC6F,6bf6c959-31ac-5596-b797-87bc33fd54be,2023-04-27,Consumer To Merchant,5,#2CC6F - Samariterkiez - 2023-04-27
+Prenzlauer Berg,#4A353,26b7f629-9a6a-5ce6-a572-2c3889443aad,2023-04-15,Consumer To Merchant,4,#4A353 - Prenzlauer Berg - 2023-04-15
+Friedrichshain,#E62A1,43860540-4077-5d13-aa3d-3bb0bf9d6459,2023-04-30,Consumer To Merchant,5,#E62A1 - Friedrichshain - 2023-04-30
+Prenzlauer Berg,#89E1C,8867e4de-252b-5f3a-bd17-bbcc95ee5279,2023-04-19,Consumer To Merchant,5,#89E1C - Prenzlauer Berg - 2023-04-19
+Prenzlauer Berg,#9436D,15e8f1fe-9295-5102-9505-fa1f1cba3609,2023-04-15,Consumer To Merchant,4,#9436D - Prenzlauer Berg - 2023-04-15
+Prenzlauer Berg,#709A0,11dab41f-ff54-5627-b0b4-bf408c804fcb,2023-04-26,Consumer To Merchant,5,#709A0 - Prenzlauer Berg - 2023-04-26
+Prenzlauer Berg,#9E3FA,e7d4aa97-d749-5d06-bdeb-f804624945f3,2023-04-18,Consumer To Merchant,5,#9E3FA - Prenzlauer Berg - 2023-04-18
+Charlottenburg,#B0F4A,212e1da4-b0ef-5899-8498-4b047c12db6f,2023-04-24,Consumer To Merchant,5,#B0F4A - Charlottenburg - 2023-04-24
+Charlottenburg,#1E6E5,d10bbf2c-0eb4-5129-8433-f66ff64b42bf,2023-04-21,Consumer To Merchant,4,#1E6E5 - Charlottenburg - 2023-04-21
+Prenzlauer Berg,#53601,91591446-b211-5306-ac40-23dd492b3ec9,2023-04-06,Consumer To Merchant,5,#53601 - Prenzlauer Berg - 2023-04-06
+Bergmannkiez,#49FBB,5e05cb1b-cb1a-56ae-b9b2-42a3be790734,2023-04-09,Consumer To Merchant,5,#49FBB - Bergmannkiez - 2023-04-09
+Bergmannkiez,#A7962,f9a2cf3f-d691-53d8-92ee-dd4b601810cd,2023-04-08,Consumer To Merchant,2,#A7962 - Bergmannkiez - 2023-04-08
+Friedrichshain,#95571,ef746734-89cd-5275-b03e-ce9d962a6347,2023-04-26,Consumer To Merchant,5,#95571 - Friedrichshain - 2023-04-26
+Prenzlauer Berg,#E3D14,ec6eb3db-d005-5a4c-b743-57426d362990,2023-04-12,Consumer To Merchant,5,#E3D14 - Prenzlauer Berg - 2023-04-12
+Prenzlauer Berg,#BF256,05216825-8732-5c7f-b52b-451bf42f5f65,2023-04-10,Consumer To Merchant,4,#BF256 - Prenzlauer Berg - 2023-04-10
+Bergmannkiez,#1D993,22eb6dde-dcbf-5f8b-9862-afcfc3225aa9,2023-04-09,Consumer To Merchant,5,#1D993 - Bergmannkiez - 2023-04-09
+Prenzlauer Berg,#7D4D2,d2aa1900-f6de-5f43-bd1a-0c8a819d8c22,2023-04-11,Consumer To Merchant,5,#7D4D2 - Prenzlauer Berg - 2023-04-11
+Prenzlauer Berg,#2C018,e919c683-b5bf-5f0a-84e4-d91020cb6ba2,2023-04-09,Consumer To Merchant,5,#2C018 - Prenzlauer Berg - 2023-04-09
+Prenzlauer Berg,#32B75,06540af7-954c-5ea4-8d4a-c595df7e0773,2023-04-18,Consumer To Merchant,5,#32B75 - Prenzlauer Berg - 2023-04-18
+Friedrichshain,#F24D8,6aec41f9-13b3-5278-a0ab-cec816a07fa6,2023-04-19,Consumer To Merchant,5,#F24D8 - Friedrichshain - 2023-04-19
+Friedrichshain,#CB417,eb15ef6f-f0d0-5589-a7f5-4da23a053adc,2023-04-21,Consumer To Merchant,5,#CB417 - Friedrichshain - 2023-04-21
+Prenzlauer Berg,#910DC,a2f46935-f0bf-5687-bf08-dbda72589dc0,2023-04-14,Consumer To Merchant,5,#910DC - Prenzlauer Berg - 2023-04-14
+Bergmannkiez,#8FD53,11cee386-714e-58ec-abe6-37670dabe420,2023-04-29,Consumer To Merchant,5,#8FD53 - Bergmannkiez - 2023-04-29
+Prenzlauer Berg,#9161F,c1fe25cf-a1af-56d2-9220-1a0a743a2c0a,2023-04-16,Consumer To Merchant,5,#9161F - Prenzlauer Berg - 2023-04-16
+Friedrichshain,#3DDC3,60a5f59c-0b8d-5d73-b5bd-a7770f7a9b1e,2023-04-16,Consumer To Merchant,5,#3DDC3 - Friedrichshain - 2023-04-16
+Samariterkiez,#A3CC7,4f779bc8-38f6-5e0d-8b4c-89ef158b1cd2,2023-04-25,Consumer To Merchant,5,#A3CC7 - Samariterkiez - 2023-04-25
+Bergmannkiez,#16F82,1fbe90c9-1aec-5001-bbc1-abe41cb4c40d,2023-04-10,Consumer To Merchant,5,#16F82 - Bergmannkiez - 2023-04-10
+Prenzlauer Berg,#5065B,96b45d3f-0be2-5f19-8782-9e56628e8627,2023-04-24,Consumer To Merchant,4,#5065B - Prenzlauer Berg - 2023-04-24
+Prenzlauer Berg,#01446,f6030c61-192a-5f4f-aefc-ca58326896f2,2023-04-09,Consumer To Merchant,5,#01446 - Prenzlauer Berg - 2023-04-09
+Prenzlauer Berg,#34E38,37603b66-ab56-5230-9205-e45c453fa150,2023-04-08,Consumer To Merchant,5,#34E38 - Prenzlauer Berg - 2023-04-08
+Friedrichshain,#993AF,5e624d04-0334-5857-98c1-f1b09d9c08ea,2023-04-21,Consumer To Merchant,5,#993AF - Friedrichshain - 2023-04-21
+Prenzlauer Berg,#DB9AE,9790664d-3061-54ce-a834-685366d04537,2023-04-14,Consumer To Merchant,4,#DB9AE - Prenzlauer Berg - 2023-04-14
+Prenzlauer Berg,#08FE7,50cbc19b-5e5a-591a-82a4-82010281ab63,2023-04-15,Consumer To Merchant,5,#08FE7 - Prenzlauer Berg - 2023-04-15
+Charlottenburg,#6B026,12af5e78-9185-574e-88ad-13e656972896,2023-04-15,Consumer To Merchant,5,#6B026 - Charlottenburg - 2023-04-15
+Friedrichshain,#4B768,185d139c-4b17-5701-a74c-529ae85f1cd2,2023-04-23,Consumer To Merchant,5,#4B768 - Friedrichshain - 2023-04-23
+Prenzlauer Berg,#2D3BE,1e8d1b92-626c-5d60-a3bd-61eef0e39d7a,2023-04-07,Consumer To Merchant,5,#2D3BE - Prenzlauer Berg - 2023-04-07
+Prenzlauer Berg,#30A52,550c251a-f3e3-5057-b989-38f32ea4e600,2023-04-10,Consumer To Merchant,5,#30A52 - Prenzlauer Berg - 2023-04-10
+Prenzlauer Berg,#3F80C,ebd8d9b1-0e21-5ecd-bfb5-d6debbb29bd1,2023-04-08,Consumer To Merchant,5,#3F80C - Prenzlauer Berg - 2023-04-08
+Prenzlauer Berg,#3728F,38f23030-34bb-5fdf-8dff-c2e0d77f0cd2,2023-04-23,Consumer To Merchant,4,#3728F - Prenzlauer Berg - 2023-04-23
+Prenzlauer Berg,#928F4,cc3110b5-ef5d-53e3-a278-dd42d94e1f4b,2023-04-29,Consumer To Merchant,5,#928F4 - Prenzlauer Berg - 2023-04-29
+Samariterkiez,#9BC94,be827066-8519-57d8-8b16-918ae6dfe5f6,2023-04-29,Consumer To Merchant,1,#9BC94 - Samariterkiez - 2023-04-29
+Friedrichshain,#D9875,5bf4b00f-5bac-5c9d-b128-85044e40affc,2023-04-08,Consumer To Merchant,5,#D9875 - Friedrichshain - 2023-04-08
+Mitte,#36529,795504df-03df-5d0a-a28b-64e95d8a1cf4,2023-04-16,Consumer To Merchant,4,#36529 - Mitte - 2023-04-16
+Prenzlauer Berg,#91D82,069353b7-cd37-55ec-bdd1-fb96aeb28208,2023-04-11,Consumer To Merchant,5,#91D82 - Prenzlauer Berg - 2023-04-11
+Friedrichshain,#6C902,321c4303-f54b-524a-be61-36414f4487cd,2023-04-23,Consumer To Merchant,5,#6C902 - Friedrichshain - 2023-04-23
+Charlottenburg,#E3213,e342b80e-267b-5050-807f-4b65993850f3,2023-04-09,Consumer To Merchant,5,#E3213 - Charlottenburg - 2023-04-09
+Friedrichshain,#7B319,78cdb6e9-bc2a-51c8-a9c6-663fd70fcbd0,2023-04-13,Consumer To Merchant,5,#7B319 - Friedrichshain - 2023-04-13
+Charlottenburg,#CBADA,b4b3fd70-2405-5563-b178-965fc46c3371,2023-04-08,Consumer To Merchant,5,#CBADA - Charlottenburg - 2023-04-08
+Bergmannkiez,#C7A1E,eb522ea3-2d62-569f-ac2b-b6d27dffd1ba,2023-04-11,Consumer To Merchant,5,#C7A1E - Bergmannkiez - 2023-04-11
+Charlottenburg,#AE84B,a2de40ac-d58e-585b-9860-b9901c26a2e5,2023-04-16,Consumer To Merchant,4,#AE84B - Charlottenburg - 2023-04-16
+Charlottenburg,#45E6D,4395bd06-04e5-5c2c-b8ee-d3942cba9177,2023-04-21,Consumer To Merchant,5,#45E6D - Charlottenburg - 2023-04-21
+Charlottenburg,#F72C7,857bba5a-da08-5905-8e6a-d362687e6190,2023-04-04,Consumer To Merchant,5,#F72C7 - Charlottenburg - 2023-04-04
+Charlottenburg,#2A3E8,c0dfe591-5416-547b-93b8-26232077b19f,2023-04-16,Consumer To Merchant,5,#2A3E8 - Charlottenburg - 2023-04-16
+Charlottenburg,#E3F5D,67192c73-e04d-57cf-919c-c94e286a2c20,2023-04-16,Consumer To Merchant,5,#E3F5D - Charlottenburg - 2023-04-16
+Prenzlauer Berg,#82E18,c0984cf3-7f0e-5a88-a910-3dd4b182c81f,2023-04-19,Consumer To Merchant,5,#82E18 - Prenzlauer Berg - 2023-04-19
+Mitte,#76D89,7f1f3a9a-0ea1-5203-b93f-480a7aa10ed1,2023-04-07,Consumer To Merchant,5,#76D89 - Mitte - 2023-04-07
+Bergmannkiez,#C5083,563bcab0-1bd6-5500-b9fa-3b9f77ae032f,2023-04-06,Consumer To Merchant,1,#C5083 - Bergmannkiez - 2023-04-06
+Bergmannkiez,#BB911,af54bee5-9433-535a-988e-4a5f826c3991,2023-04-06,Consumer To Merchant,5,#BB911 - Bergmannkiez - 2023-04-06
+Prenzlauer Berg,#629D7,b3588e6a-b726-5e5d-989d-da0ff641b1f1,2023-04-16,Consumer To Merchant,5,#629D7 - Prenzlauer Berg - 2023-04-16
+Prenzlauer Berg,#BA244,be1bf67e-af8d-537a-a3de-672bf9682de8,2023-04-24,Consumer To Merchant,3,#BA244 - Prenzlauer Berg - 2023-04-24
+Prenzlauer Berg,#C9EA0,0e1cddca-67bc-5cfa-b30d-9d4191d095cc,2023-04-24,Consumer To Merchant,5,#C9EA0 - Prenzlauer Berg - 2023-04-24
+Charlottenburg,#AA73D,9f2d96a8-9d77-5310-816c-62cedfeea944,2023-04-16,Consumer To Merchant,5,#AA73D - Charlottenburg - 2023-04-16
+Prenzlauer Berg,#2354A,c3d304fa-d231-5f1f-9b51-7b17eff367b8,2023-04-03,Consumer To Merchant,5,#2354A - Prenzlauer Berg - 2023-04-03
+Kreuzberg,#37DB1,3aafa4de-d30e-50f3-92f1-a302a077e260,2023-04-16,Consumer To Merchant,5,#37DB1 - Kreuzberg - 2023-04-16
+Friedrichshain,#1814E,cbb9872f-5933-532c-8cf0-3370291cc2e7,2023-04-23,Consumer To Merchant,5,#1814E - Friedrichshain - 2023-04-23
+Bergmannkiez,#D3A6E,13141b65-0fa3-50f7-821e-49a2b2a57638,2023-04-23,Consumer To Merchant,5,#D3A6E - Bergmannkiez - 2023-04-23
+Mitte,#A022D,1d9123fb-5485-59e5-b4b5-aae903193678,2023-04-23,Consumer To Merchant,5,#A022D - Mitte - 2023-04-23
+Friedrichshain,#15D28,62ca3a89-cc26-56fa-8f38-06007b0e0a34,2023-04-10,Consumer To Merchant,5,#15D28 - Friedrichshain - 2023-04-10
+Kreuzberg,#E4D45,fd621e73-3abb-51c2-aee6-d909f16cb34b,2023-04-10,Consumer To Merchant,4,#E4D45 - Kreuzberg - 2023-04-10
+Charlottenburg,#B0255,a876d9e6-cde0-5969-b873-c38d395fb372,2023-04-11,Consumer To Merchant,5,#B0255 - Charlottenburg - 2023-04-11
+Friedrichshain,#8F1B6,4dd81b8d-ad6c-515c-a2c7-5da40312c556,2023-04-17,Consumer To Merchant,5,#8F1B6 - Friedrichshain - 2023-04-17
+Friedrichshain,#89362,990fecd7-bee5-5896-b429-5bf50de87c58,2023-04-02,Consumer To Merchant,5,#89362 - Friedrichshain - 2023-04-02
+Mitte,#DEAD7,bea64fef-7251-536e-817b-c4b0c9af9b31,2023-04-08,Consumer To Merchant,5,#DEAD7 - Mitte - 2023-04-08
+Prenzlauer Berg,#85781,ec40cb90-3b73-52fa-891e-c0095a26ddb0,2023-04-12,Consumer To Merchant,4,#85781 - Prenzlauer Berg - 2023-04-12
+Friedrichshain,#036C3,fdd9c3c5-a7b6-59a6-93bf-dd83a49dcc07,2023-04-17,Consumer To Merchant,1,#036C3 - Friedrichshain - 2023-04-17
+Prenzlauer Berg,#74E2B,b1011e0b-9c57-504b-a000-1982e8d5ad08,2023-04-17,Consumer To Merchant,5,#74E2B - Prenzlauer Berg - 2023-04-17
+Prenzlauer Berg,#B24A0,dd25fbfc-c1c2-58d8-acea-9348208094b8,2023-04-12,Consumer To Merchant,4,#B24A0 - Prenzlauer Berg - 2023-04-12
+Prenzlauer Berg,#0FC45,47778dda-940f-5bfd-ad5d-87acbdb098b9,2023-04-23,Consumer To Merchant,5,#0FC45 - Prenzlauer Berg - 2023-04-23
+Friedrichshain,#811AD,f0bbacfb-f2b7-5d34-b712-4b3451c871ec,2023-04-01,Consumer To Merchant,5,#811AD - Friedrichshain - 2023-04-01
+Prenzlauer Berg,#96D9C,37556649-4984-5d35-8f2b-17eeaf3048ef,2023-04-13,Consumer To Merchant,5,#96D9C - Prenzlauer Berg - 2023-04-13
+Bergmannkiez,#B3671,d73c5913-85e3-5820-9e5e-44a80d5eaa4d,2023-04-07,Consumer To Merchant,5,#B3671 - Bergmannkiez - 2023-04-07
+Charlottenburg,#1AA51,4f248809-57ee-5e7b-8a7a-90f0d24b6b61,2023-04-02,Consumer To Merchant,5,#1AA51 - Charlottenburg - 2023-04-02
+Charlottenburg,#C74F9,ae0bbbfe-e8d2-59b5-a345-69a96c6879ce,2023-04-12,Consumer To Merchant,5,#C74F9 - Charlottenburg - 2023-04-12
+Friedrichshain,#E7A10,5f1951ed-ea29-5307-bf68-b742de114274,2023-04-18,Consumer To Merchant,5,#E7A10 - Friedrichshain - 2023-04-18
+Mitte,#F95F1,27da4e63-ccbf-5c5a-aaa9-7659bb1a1963,2023-04-18,Consumer To Merchant,3,#F95F1 - Mitte - 2023-04-18
+Friedrichshain,#48B55,5fe31605-3fbc-5674-983e-34280b46830b,2023-04-11,Consumer To Merchant,5,#48B55 - Friedrichshain - 2023-04-11
+Prenzlauer Berg,#FDD25,f18acadd-2573-5561-9dec-65d55235677b,2023-04-15,Consumer To Merchant,5,#FDD25 - Prenzlauer Berg - 2023-04-15
+Prenzlauer Berg,#FDCE3,79b42552-6905-5232-ad44-100630d26502,2023-04-18,Consumer To Merchant,5,#FDCE3 - Prenzlauer Berg - 2023-04-18
+Friedrichshain,#9B227,7b3f307b-82c8-5912-a218-1feff7cf25b8,2023-04-18,Consumer To Merchant,5,#9B227 - Friedrichshain - 2023-04-18
+Bergmannkiez,#2AD70,8b18744a-2ea5-5a28-8cac-a88e3ab1c816,2023-04-03,Consumer To Merchant,5,#2AD70 - Bergmannkiez - 2023-04-03
+Bergmannkiez,#01F4F,808aa7f6-d86b-53bd-9de4-eec90b0dd322,2023-04-03,Consumer To Merchant,5,#01F4F - Bergmannkiez - 2023-04-03
+Bergmannkiez,#BFE92,b0e6e842-a0b3-5388-b52c-9672a864716a,2023-04-17,Consumer To Merchant,5,#BFE92 - Bergmannkiez - 2023-04-17
+Friedrichshain,#2FFA3,4de77e87-6281-5a96-8c70-f55aa10ef791,2023-04-09,Consumer To Merchant,4,#2FFA3 - Friedrichshain - 2023-04-09
+Bergmannkiez,#C0881,ce4981c9-d7e3-5da0-adce-61bfeac5758f,2023-04-10,Consumer To Merchant,5,#C0881 - Bergmannkiez - 2023-04-10
+Bergmannkiez,#F1FA1,555cf3b9-ce30-54ca-a808-7f9ac89b2fcf,2023-04-02,Consumer To Merchant,4,#F1FA1 - Bergmannkiez - 2023-04-02
+Mitte,#26FC4,b42153ca-9fb2-585d-b1b7-4b66a04e6bdb,2023-04-01,Consumer To Merchant,4,#26FC4 - Mitte - 2023-04-01
+Mitte,#70B74,7b9c74a8-beda-5c94-9a93-924062e53252,2023-04-01,Consumer To Merchant,5,#70B74 - Mitte - 2023-04-01
+Prenzlauer Berg,#3536F,e526ecc1-4317-5d63-ab39-92032c752ddb,2023-04-15,Consumer To Merchant,5,#3536F - Prenzlauer Berg - 2023-04-15
+Mitte,#6F596,e7899681-b3e6-510e-b4e7-0bebb5b4a276,2023-04-07,Consumer To Merchant,5,#6F596 - Mitte - 2023-04-07
+Bergmannkiez,#9E533,8476070b-5484-5fdc-82ee-595e3659e3de,2023-04-04,Consumer To Merchant,5,#9E533 - Bergmannkiez - 2023-04-04
+Bergmannkiez,#01F15,ade3f1ea-ee11-5a34-9bc6-e2bf167a7b14,2023-04-04,Consumer To Merchant,5,#01F15 - Bergmannkiez - 2023-04-04
+Charlottenburg,#B2096,781107ef-838c-5915-81a9-b3e4fbe9ad17,2023-04-10,Consumer To Merchant,5,#B2096 - Charlottenburg - 2023-04-10
+Samariterkiez,#3AE9B,6833c42f-0584-557a-adf1-0521d1aa8108,2023-04-25,Consumer To Merchant,4,#3AE9B - Samariterkiez - 2023-04-25
+Friedrichshain,#0B48D,a5f48f35-82f1-56b9-b1ea-e8d267676bf8,2023-04-12,Consumer To Merchant,4,#0B48D - Friedrichshain - 2023-04-12
+Prenzlauer Berg,#9FFFA,e967cafc-fb33-5026-a789-88cf1bb6bb50,2023-04-17,Consumer To Merchant,5,#9FFFA - Prenzlauer Berg - 2023-04-17
+Charlottenburg,#3FF61,6a1c935c-f616-5e3a-8696-0ee108956d28,2023-04-18,Consumer To Merchant,4,#3FF61 - Charlottenburg - 2023-04-18
+Mitte,#D49C5,fcc4f32b-3877-5bd8-914a-180b9570f8df,2023-04-01,Consumer To Merchant,5,#D49C5 - Mitte - 2023-04-01
+Mitte,#27BFA,63805487-94c0-56e3-b3f6-fa25962322d3,2023-04-14,Consumer To Merchant,5,#27BFA - Mitte - 2023-04-14
+Friedrichshain,#3B352,62825f41-ea0a-5940-97a5-79d67d9c4ee3,2023-04-14,Consumer To Merchant,5,#3B352 - Friedrichshain - 2023-04-14
+Charlottenburg,#EC1F1,3fc91836-c37b-52c0-8770-0fc2a152f472,2023-04-17,Consumer To Merchant,5,#EC1F1 - Charlottenburg - 2023-04-17
+Charlottenburg,#7440C,94461e49-593e-5257-b3bf-d37f44ecd3ba,2023-04-15,Consumer To Merchant,5,#7440C - Charlottenburg - 2023-04-15
+Prenzlauer Berg,#4BBE1,606d0080-a3a6-56fd-9aad-ec136323b896,2023-04-15,Consumer To Merchant,5,#4BBE1 - Prenzlauer Berg - 2023-04-15
+Mitte,#932E5,91b1e318-38a6-534e-8352-b2e8915be1e3,2023-04-08,Consumer To Merchant,5,#932E5 - Mitte - 2023-04-08
+Friedrichshain,#5E56D,8b91646b-4532-543f-8410-086e6ec03a16,2023-04-14,Consumer To Merchant,5,#5E56D - Friedrichshain - 2023-04-14
+Charlottenburg,#772E7,4e30b3ea-b8e4-5749-a803-6f9a78fc5c84,2023-04-05,Consumer To Merchant,2,#772E7 - Charlottenburg - 2023-04-05
+Friedrichshain,#076F0,aada2e15-bc65-5c49-83dc-b8f52cf56035,2023-04-21,Consumer To Merchant,5,#076F0 - Friedrichshain - 2023-04-21
+Prenzlauer Berg,#C5228,44a508dc-7577-5cae-98a6-a3b6ceadc154,2023-04-10,Consumer To Merchant,5,#C5228 - Prenzlauer Berg - 2023-04-10
+Prenzlauer Berg,#3F81F,7466088b-1a94-54a0-ac49-700244157491,2023-04-24,Consumer To Merchant,4,#3F81F - Prenzlauer Berg - 2023-04-24
+Kreuzberg,#FC106,050979f5-414e-5ffa-845e-af3b8c553993,2023-04-13,Consumer To Merchant,2,#FC106 - Kreuzberg - 2023-04-13
+Prenzlauer Berg,#5F18D,407e5cb2-a6ae-5ec6-abe5-e7c5a5693ede,2023-04-13,Consumer To Merchant,5,#5F18D - Prenzlauer Berg - 2023-04-13
+Bergmannkiez,#85901,7b660386-d3b2-5e3c-8c1f-455b3d199c6e,2023-04-06,Consumer To Merchant,5,#85901 - Bergmannkiez - 2023-04-06
+Mitte,#03E30,97b8917b-c132-57ab-9b6d-c4508d7eedfc,2023-04-23,Consumer To Merchant,2,#03E30 - Mitte - 2023-04-23
+Prenzlauer Berg,#D374E,4a52d2a0-1776-5e76-bcdb-36b8ce35a917,2023-04-12,Consumer To Merchant,5,#D374E - Prenzlauer Berg - 2023-04-12
+Friedrichshain,#F08C6,ada35368-ace3-5c97-a26f-4dfd6fb295a0,2023-04-07,Consumer To Merchant,5,#F08C6 - Friedrichshain - 2023-04-07
+Bergmannkiez,#86329,e9ba3f1c-c52b-5a92-8662-96b6f0477436,2023-04-04,Consumer To Merchant,5,#86329 - Bergmannkiez - 2023-04-04
+Bergmannkiez,#900BC,4736637d-b78f-55ef-ab52-8e824a8083f2,2023-04-01,Consumer To Merchant,4,#900BC - Bergmannkiez - 2023-04-01
+Prenzlauer Berg,#1BA22,8605a938-f849-5c8b-a5ad-1f3f9bd18cd5,2023-04-04,Consumer To Merchant,5,#1BA22 - Prenzlauer Berg - 2023-04-04
+Kreuzberg,#121E3,779bac7c-f967-5136-82cd-ccb7c00075e6,2023-04-16,Consumer To Merchant,5,#121E3 - Kreuzberg - 2023-04-16
+Bergmannkiez,#5E69D,9f14374d-c61e-56b5-845e-9ee52a68cf8f,2023-04-21,Consumer To Merchant,5,#5E69D - Bergmannkiez - 2023-04-21
+Prenzlauer Berg,#E04BD,b6c0989e-6b27-5253-b6d6-08e0e77e298b,2023-04-01,Consumer To Merchant,5,#E04BD - Prenzlauer Berg - 2023-04-01
+Prenzlauer Berg,#AA4F1,ad4f9438-6ccd-5c82-b923-ab8424a50084,2023-04-01,Consumer To Merchant,5,#AA4F1 - Prenzlauer Berg - 2023-04-01
+Prenzlauer Berg,#19040,9178637b-e3f0-5d4f-b170-a8ac41298af0,2023-04-15,Consumer To Merchant,5,#19040 - Prenzlauer Berg - 2023-04-15
+Leipzig Mitte,#ACF26,a284ef60-c7e1-54c5-b9f1-9ef14f7bded5,2023-05-29,Consumer To Merchant,5,#ACF26 - Leipzig Mitte - 2023-05-29
+Prenzlauer Berg,#080A3,8132a1c4-7b15-5c79-9538-469bda9622f4,2023-05-31,Consumer To Merchant,4,#080A3 - Prenzlauer Berg - 2023-05-31
+Samariterkiez,#E52A6,d0f2248b-167b-5a68-9393-68b4d1b5c90a,2023-05-31,Consumer To Merchant,5,#E52A6 - Samariterkiez - 2023-05-31
+Samariterkiez,#6DA9A,0eb055e3-d1ee-51b6-a86c-56b746bc9905,2023-05-31,Consumer To Merchant,5,#6DA9A - Samariterkiez - 2023-05-31
+Prenzlauer Berg,#06E33,449aa177-2029-519e-8184-1f364925626a,2023-05-30,Consumer To Merchant,5,#06E33 - Prenzlauer Berg - 2023-05-30
+Prenzlauer Berg,#FB1B1,2ba25432-6c74-537c-9c05-b38cfec8c234,2023-05-31,Consumer To Merchant,2,#FB1B1 - Prenzlauer Berg - 2023-05-31
+Prenzlauer Berg,#440F4,a783f62f-e510-562d-9e7b-425a46e53f51,2023-05-28,Consumer To Merchant,3,#440F4 - Prenzlauer Berg - 2023-05-28
+Charlottenburg,#D208D,5b08dbf1-d587-5696-a146-0394fa1c66eb,2023-05-27,Consumer To Merchant,5,#D208D - Charlottenburg - 2023-05-27
+Charlottenburg,#1ECC0,00c7f85a-4f84-5f87-928f-74422347575d,2023-05-28,Consumer To Merchant,2,#1ECC0 - Charlottenburg - 2023-05-28
+Prenzlauer Berg,#D2CC2,caf7d278-3be2-5fc8-9403-964879fdb5a4,2023-05-27,Consumer To Merchant,5,#D2CC2 - Prenzlauer Berg - 2023-05-27
+Friedrichshain,#57917,a241940e-d966-5224-ae4c-b1abb6765474,2023-05-30,Consumer To Merchant,4,#57917 - Friedrichshain - 2023-05-30
+Mitte,#FE358,868f0fc9-67a9-54ae-8421-bf598f3e4089,2023-05-25,Consumer To Merchant,5,#FE358 - Mitte - 2023-05-25
+Mitte,#5AE7D,ec596bc3-5a1b-5969-9ae3-73677cc64140,2023-05-27,Consumer To Merchant,5,#5AE7D - Mitte - 2023-05-27
+Friedrichshain,#4CDE5,332970b7-af29-559a-b232-dce531d88995,2023-05-25,Consumer To Merchant,5,#4CDE5 - Friedrichshain - 2023-05-25
+Friedrichshain,#2D1FC,914140d6-221a-5065-a5b3-a147d5cc5239,2023-05-25,Consumer To Merchant,5,#2D1FC - Friedrichshain - 2023-05-25
+Prenzlauer Berg,#B83E5,a2f90fcf-63b9-532a-b98b-11c1dcfbf498,2023-05-25,Consumer To Merchant,5,#B83E5 - Prenzlauer Berg - 2023-05-25
+Mitte,#8A89C,97b24d51-6787-5b5d-9714-7fb18f85e534,2023-05-28,Consumer To Merchant,4,#8A89C - Mitte - 2023-05-28
+Mitte,#4680D,3f92e2ef-ab9d-537f-a365-c731cba2016a,2023-05-25,Consumer To Merchant,1,#4680D - Mitte - 2023-05-25
+Mitte,#BC9F7,b6a9aef3-de71-5606-9be3-b99e3b5575d8,2023-05-25,Consumer To Merchant,5,#BC9F7 - Mitte - 2023-05-25
+Charlottenburg,#5B53A,34e2d1f9-d580-5070-8f59-51cb52742f39,2023-05-21,Consumer To Merchant,5,#5B53A - Charlottenburg - 2023-05-21
+Prenzlauer Berg,#6DDA9,7366453d-ede7-54e9-8492-e2cc73943f0c,2023-05-24,Consumer To Merchant,5,#6DDA9 - Prenzlauer Berg - 2023-05-24
+Prenzlauer Berg,#13136,12f9111d-0e85-5013-a19f-a065bf41bd43,2023-05-26,Consumer To Merchant,5,#13136 - Prenzlauer Berg - 2023-05-26
+Leipzig Mitte,#50C0D,1924e855-cab1-5946-b943-70e00d09a7d5,2023-05-21,Consumer To Merchant,5,#50C0D - Leipzig Mitte - 2023-05-21
+Prenzlauer Berg,#6A7F1,9d738bc2-6e8f-5ca3-8208-7303feb33b86,2023-05-26,Consumer To Merchant,4,#6A7F1 - Prenzlauer Berg - 2023-05-26
+Charlottenburg,#AEA33,128c94b3-92a1-51c1-b1d4-9ff9ee64df29,2023-05-26,Consumer To Merchant,4,#AEA33 - Charlottenburg - 2023-05-26
+Prenzlauer Berg,#FEC75,99700db5-970a-54f9-a763-93b24ff7273a,2023-05-26,Consumer To Merchant,5,#FEC75 - Prenzlauer Berg - 2023-05-26
+Mitte,#F49EF,c8922576-ac0e-587e-b201-7d81ba5c91bb,2023-05-26,Consumer To Merchant,5,#F49EF - Mitte - 2023-05-26
+Bergmannkiez,#F8DE3,ce4a23e5-0846-5a21-81be-965d67988481,2023-05-26,Consumer To Merchant,5,#F8DE3 - Bergmannkiez - 2023-05-26
+Mitte,#1C315,67c77e02-9831-57ae-b660-3762e8f0eb92,2023-05-25,Consumer To Merchant,5,#1C315 - Mitte - 2023-05-25
+Bergmannkiez,#8E0FD,7a32d4cf-4971-56fd-b1a5-c22ddfb48ca8,2023-05-26,Consumer To Merchant,5,#8E0FD - Bergmannkiez - 2023-05-26
+Charlottenburg,#FC0F6,5dc1a70e-12be-58b1-afa2-48d9b9d13775,2023-05-23,Consumer To Merchant,5,#FC0F6 - Charlottenburg - 2023-05-23
+Mitte,#A0F45,8353bc6b-7baf-5aa8-a2d2-9b0c2208caa5,2023-05-25,Consumer To Merchant,5,#A0F45 - Mitte - 2023-05-25
+Bergmannkiez,#91A23,7892db9f-7ff5-5b0b-aeca-3718d7e2bdf5,2023-05-28,Consumer To Merchant,5,#91A23 - Bergmannkiez - 2023-05-28
+Prenzlauer Berg,#EF977,b258ca29-79c5-544e-a08c-2d0015d1c15c,2023-05-22,Consumer To Merchant,5,#EF977 - Prenzlauer Berg - 2023-05-22
+Friedrichshain,#C6B9D,f800ae36-8926-512b-9b4c-e42a4102763a,2023-05-25,Consumer To Merchant,5,#C6B9D - Friedrichshain - 2023-05-25
+Bergmannkiez,#898A9,ede945ea-040d-5412-af04-b1b400360b19,2023-05-23,Consumer To Merchant,2,#898A9 - Bergmannkiez - 2023-05-23
+Mitte,#1A9A9,d46ec968-4681-5cd7-838b-07cc3e3743a2,2023-05-24,Consumer To Merchant,5,#1A9A9 - Mitte - 2023-05-24
+Prenzlauer Berg,#241E3,63376448-17b3-53a2-8079-5714f2596916,2023-05-21,Consumer To Merchant,4,#241E3 - Prenzlauer Berg - 2023-05-21
+Bergmannkiez,#FC182,3e25adfa-1fba-5fce-9b96-d7ab71fd0fc9,2023-05-20,Consumer To Merchant,5,#FC182 - Bergmannkiez - 2023-05-20
+Prenzlauer Berg,#93638,8a074d69-b11f-5c38-8a5d-6c84f9d9f7dc,2023-05-24,Consumer To Merchant,5,#93638 - Prenzlauer Berg - 2023-05-24
+Charlottenburg,#E5FD0,d62e6928-663d-52ea-9c5d-bd79bc77d239,2023-05-23,Consumer To Merchant,5,#E5FD0 - Charlottenburg - 2023-05-23
+Charlottenburg,#34B67,6dbfb406-2abe-547f-9073-b2d75d368d60,2023-05-23,Consumer To Merchant,4,#34B67 - Charlottenburg - 2023-05-23
+Charlottenburg,#194E4,86a7deaf-6834-59f9-8bad-59d4193fac24,2023-05-24,Consumer To Merchant,5,#194E4 - Charlottenburg - 2023-05-24
+Friedrichshain,#126F9,599800c6-9a9d-52bf-9f8f-430ff9117d1b,2023-05-26,Consumer To Merchant,3,#126F9 - Friedrichshain - 2023-05-26
+Mitte,#34F21,4f8305c5-699a-55cb-9ad4-7a69867274e2,2023-05-26,Consumer To Merchant,4,#34F21 - Mitte - 2023-05-26
+Prenzlauer Berg,#FEC6F,72c5e113-5c8e-5fbd-a129-12fadd28a60f,2023-05-19,Consumer To Merchant,5,#FEC6F - Prenzlauer Berg - 2023-05-19
+Charlottenburg,#A9F9F,20460f78-4471-55bb-be1a-597d86060821,2023-05-22,Consumer To Merchant,5,#A9F9F - Charlottenburg - 2023-05-22
+Prenzlauer Berg,#F8E43,873ca53c-f696-5d64-aa7b-2fea11887605,2023-05-22,Consumer To Merchant,5,#F8E43 - Prenzlauer Berg - 2023-05-22
+Kreuzberg,#B5DF3,c45b70fb-43af-5571-a8cf-dee62fd639bb,2023-05-21,Consumer To Merchant,5,#B5DF3 - Kreuzberg - 2023-05-21
+Prenzlauer Berg,#9551B,fe11b90e-cada-5f6a-b48a-f2096b502a7b,2023-05-21,Consumer To Merchant,5,#9551B - Prenzlauer Berg - 2023-05-21
+Mitte,#300AB,8910d83d-ca0a-5971-a510-9f581a8f0743,2023-05-20,Consumer To Merchant,1,#300AB - Mitte - 2023-05-20
+Mitte,#A1B8A,6b222d26-e05b-5ed9-bf86-d51c41038270,2023-05-25,Consumer To Merchant,5,#A1B8A - Mitte - 2023-05-25
+Prenzlauer Berg,#CF3F3,37ad0397-de22-52fe-adb1-397f3e438f72,2023-05-26,Consumer To Merchant,5,#CF3F3 - Prenzlauer Berg - 2023-05-26
+Friedrichshain,#38B41,bd7c315a-2eb0-5127-8efc-299778a01cf2,2023-05-20,Consumer To Merchant,5,#38B41 - Friedrichshain - 2023-05-20
+Leipzig Mitte,#C937D,2fa38059-fa9f-5390-84d8-db9d2d293c25,2023-05-23,Consumer To Merchant,5,#C937D - Leipzig Mitte - 2023-05-23
+Prenzlauer Berg,#3E81F,4659e1dd-c9fe-5c0c-8aff-a625e20ac305,2023-05-21,Consumer To Merchant,5,#3E81F - Prenzlauer Berg - 2023-05-21
+Leipzig Mitte,#4965C,acd12b0d-cf3b-55cd-b259-ab7894cf37e3,2023-05-21,Consumer To Merchant,4,#4965C - Leipzig Mitte - 2023-05-21
+Mitte,#66044,d0940839-a9ad-5cb8-83f5-3cc2130ad8a8,2023-05-24,Consumer To Merchant,5,#66044 - Mitte - 2023-05-24
+Kreuzberg,#DBD43,9917c8ff-20f9-5cc6-a7ac-d6a2a2009935,2023-05-24,Consumer To Merchant,5,#DBD43 - Kreuzberg - 2023-05-24
+Bergmannkiez,#E6DF9,184d20fd-dee0-56c3-ab74-0b0ae1511858,2023-05-22,Consumer To Merchant,5,#E6DF9 - Bergmannkiez - 2023-05-22
+Mitte,#219CF,370c224e-f0fa-5872-a720-daa9b2a99596,2023-05-20,Consumer To Merchant,5,#219CF - Mitte - 2023-05-20
+Bergmannkiez,#53BD6,82cd91d9-11d7-55fd-b56f-4c6ca4180a92,2023-05-23,Consumer To Merchant,1,#53BD6 - Bergmannkiez - 2023-05-23
+Prenzlauer Berg,#A81E4,77068f10-7e17-576a-82c1-b0344bd35ce3,2023-05-21,Consumer To Merchant,5,#A81E4 - Prenzlauer Berg - 2023-05-21
+Bergmannkiez,#05E18,4629d301-5dcf-5f11-a435-39ff251af033,2023-05-18,Consumer To Merchant,4,#05E18 - Bergmannkiez - 2023-05-18
+Mitte,#0B260,69b64382-b2fc-54be-9caf-dbf01b3ff304,2023-05-22,Consumer To Merchant,5,#0B260 - Mitte - 2023-05-22
+Mitte,#3E488,a92f57e7-3aca-5b24-948d-81fe4a0eaa67,2023-05-22,Consumer To Merchant,4,#3E488 - Mitte - 2023-05-22
+Mitte,#EC2D1,983530e1-0cff-502b-9152-59a779ca190c,2023-05-19,Consumer To Merchant,5,#EC2D1 - Mitte - 2023-05-19
+Bergmannkiez,#5BF79,16f15960-7453-59d6-9b50-bb527e15a459,2023-05-23,Consumer To Merchant,4,#5BF79 - Bergmannkiez - 2023-05-23
+Friedrichshain,#89A61,4b77c814-cd90-568c-b879-4bc363f95c3b,2023-05-18,Consumer To Merchant,5,#89A61 - Friedrichshain - 2023-05-18
+Mitte,#FD76B,107cdb2e-29c8-5c56-971f-78c4fb725fd0,2023-05-18,Consumer To Merchant,5,#FD76B - Mitte - 2023-05-18
+Mitte,#BC94E,208760f1-7026-51db-9384-3dae524b541c,2023-05-18,Consumer To Merchant,2,#BC94E - Mitte - 2023-05-18
+Prenzlauer Berg,#EC460,8ccdb31a-4449-5596-9e1a-eac039202beb,2023-05-22,Consumer To Merchant,5,#EC460 - Prenzlauer Berg - 2023-05-22
+Prenzlauer Berg,#85AAD,4afa4700-ffab-572b-b426-50c9d34d134b,2023-05-20,Consumer To Merchant,5,#85AAD - Prenzlauer Berg - 2023-05-20
+Prenzlauer Berg,#DD31F,1ceb94a9-8b67-5bc7-bfe7-7ef933acb382,2023-05-23,Consumer To Merchant,4,#DD31F - Prenzlauer Berg - 2023-05-23
+Bergmannkiez,#91194,c03f9522-45a0-5b79-8cfc-fe4d113ff8a0,2023-05-17,Consumer To Merchant,4,#91194 - Bergmannkiez - 2023-05-17
+Kreuzberg,#1E247,606a2fd9-289f-501f-ab11-ebc0f042e6ef,2023-05-18,Consumer To Merchant,5,#1E247 - Kreuzberg - 2023-05-18
+Mitte,#D9DEF,2d652c21-8983-5991-98c2-fa792f02746d,2023-05-17,Consumer To Merchant,5,#D9DEF - Mitte - 2023-05-17
+Bergmannkiez,#F7A31,ff39003e-507d-5bce-8c8d-77521e8eda57,2023-05-17,Consumer To Merchant,1,#F7A31 - Bergmannkiez - 2023-05-17
+Bergmannkiez,#772C9,e00b6605-6cd0-5fcc-be3e-334df32a5c2c,2023-05-20,Consumer To Merchant,5,#772C9 - Bergmannkiez - 2023-05-20
+Prenzlauer Berg,#9FD0B,290faca9-f9e0-5689-a515-e4c890bf7c9e,2023-05-20,Consumer To Merchant,5,#9FD0B - Prenzlauer Berg - 2023-05-20
+Samariterkiez,#6DED5,0db71975-35de-5f97-b07a-c40ffb367e73,2023-05-18,Consumer To Merchant,5,#6DED5 - Samariterkiez - 2023-05-18
+Prenzlauer Berg,#BD1A2,dc91f48b-2249-5cf6-a2e1-03b052ff0684,2023-05-25,Consumer To Merchant,3,#BD1A2 - Prenzlauer Berg - 2023-05-25
+Charlottenburg,#E88B7,acf014b1-2b02-5f6d-9376-9dc6188c27b6,2023-05-19,Consumer To Merchant,2,#E88B7 - Charlottenburg - 2023-05-19
+Friedrichshain,#88A4A,ed5b47f2-0fac-5a30-84b9-067e8fb14b7e,2023-05-23,Consumer To Merchant,5,#88A4A - Friedrichshain - 2023-05-23
+Friedrichshain,#3A2C9,89a82826-5a29-5e4e-930a-ffe9aab09eef,2023-05-23,Consumer To Merchant,5,#3A2C9 - Friedrichshain - 2023-05-23
+Mitte,#5F6A6,d858ea95-e7e7-5a81-9176-dba087d322ea,2023-05-18,Consumer To Merchant,5,#5F6A6 - Mitte - 2023-05-18
+Bergmannkiez,#B1350,b9961529-8c0a-5e52-ade2-a06e9a4a8146,2023-05-18,Consumer To Merchant,1,#B1350 - Bergmannkiez - 2023-05-18
+Kreuzberg,#F232D,3964e185-7419-5ac2-8149-762b67164860,2023-05-19,Consumer To Merchant,5,#F232D - Kreuzberg - 2023-05-19
+Friedrichshain,#F8BD6,0e65e9b5-5c56-54e4-ba3a-9942e94b281e,2023-05-19,Consumer To Merchant,5,#F8BD6 - Friedrichshain - 2023-05-19
+Mitte,#87137,d1617b83-11c2-52a4-aee7-1386976f0177,2023-05-17,Consumer To Merchant,4,#87137 - Mitte - 2023-05-17
+Bergmannkiez,#F6A45,f70c8043-2668-51ba-9550-47dd76b46a3c,2023-05-18,Consumer To Merchant,3,#F6A45 - Bergmannkiez - 2023-05-18
+Mitte,#5B3F1,bf1cadc2-e2f2-5129-9e54-f9d70146b3ef,2023-05-15,Consumer To Merchant,5,#5B3F1 - Mitte - 2023-05-15
+Leipzig Mitte,#B86F9,7dfaa320-0683-5cc8-8790-69131eac483b,2023-05-18,Consumer To Merchant,5,#B86F9 - Leipzig Mitte - 2023-05-18
+Mitte,#BF661,64bde4fa-d040-58d5-bcba-15133a4e83c6,2023-05-17,Consumer To Merchant,5,#BF661 - Mitte - 2023-05-17
+Charlottenburg,#B9078,b22c0bf7-b723-56a6-bb29-aa0ed6047a22,2023-05-17,Consumer To Merchant,5,#B9078 - Charlottenburg - 2023-05-17
+Bergmannkiez,#4C815,16c09af2-fedd-58b3-b535-87dd10a2e02d,2023-05-17,Consumer To Merchant,4,#4C815 - Bergmannkiez - 2023-05-17
+Leipzig Mitte,#3B479,850ea67d-aeec-5bbe-af25-b6b02afd0389,2023-05-16,Consumer To Merchant,1,#3B479 - Leipzig Mitte - 2023-05-16
+Leipzig Mitte,#04BB4,b6e85198-b471-5f63-8990-970b5d61399e,2023-05-14,Consumer To Merchant,4,#04BB4 - Leipzig Mitte - 2023-05-14
+Mitte,#0C1E9,66c46cbc-df36-51c4-be9c-c65268b8ac3f,2023-05-15,Consumer To Merchant,3,#0C1E9 - Mitte - 2023-05-15
+Mitte,#BC191,78e222d0-e7a0-5bfd-bd7a-b449afdffe37,2023-05-22,Consumer To Merchant,5,#BC191 - Mitte - 2023-05-22
+Friedrichshain,#F9F62,aceac454-8786-595e-93c9-df689b11ef18,2023-05-22,Consumer To Merchant,5,#F9F62 - Friedrichshain - 2023-05-22
+Bergmannkiez,#8ABD9,acca523e-ec6e-596a-90be-ab63b4309d99,2023-05-18,Consumer To Merchant,5,#8ABD9 - Bergmannkiez - 2023-05-18
+Samariterkiez,#9C144,d9f59481-f84f-5fe1-8786-b7d7e3dbae2f,2023-05-16,Consumer To Merchant,1,#9C144 - Samariterkiez - 2023-05-16
+Mitte,#FA4B8,ce8efcd0-32d3-5464-b9be-a344fb1bdd18,2023-05-14,Consumer To Merchant,5,#FA4B8 - Mitte - 2023-05-14
+Mitte,#7C753,30e3df27-700e-5286-870e-d884bd666afd,2023-05-19,Consumer To Merchant,5,#7C753 - Mitte - 2023-05-19
+Prenzlauer Berg,#EE494,420ca2f7-ea50-5edd-9ea4-704fbe25546b,2023-05-17,Consumer To Merchant,5,#EE494 - Prenzlauer Berg - 2023-05-17
+Friedrichshain,#B6DBF,16b73e2d-6f3f-54d4-b159-97ddcc38bc82,2023-05-13,Consumer To Merchant,3,#B6DBF - Friedrichshain - 2023-05-13
+Prenzlauer Berg,#F05D0,5e87e159-6f42-57e2-bfec-6309f1b578b5,2023-05-23,Consumer To Merchant,5,#F05D0 - Prenzlauer Berg - 2023-05-23
+Samariterkiez,#C4C84,52ec0ccc-3b78-547b-930f-3464479139c0,2023-05-16,Consumer To Merchant,5,#C4C84 - Samariterkiez - 2023-05-16
+Prenzlauer Berg,#2B63D,128a10e4-5ac4-5cb3-b9b9-b13467b3ffc7,2023-05-14,Consumer To Merchant,5,#2B63D - Prenzlauer Berg - 2023-05-14
+Prenzlauer Berg,#73D65,a296a040-9111-531d-87a8-c5e5811c14d9,2023-05-14,Consumer To Merchant,5,#73D65 - Prenzlauer Berg - 2023-05-14
+Prenzlauer Berg,#8F668,851a253a-5a3d-5a3d-a30f-b7bd15369e17,2023-05-14,Consumer To Merchant,5,#8F668 - Prenzlauer Berg - 2023-05-14
+Mitte,#9B7A8,02349b88-d13b-528f-b147-6ef018f67e18,2023-05-16,Consumer To Merchant,5,#9B7A8 - Mitte - 2023-05-16
+Mitte,#ADB6E,1920dca7-3080-5f2e-93ca-fd6bfa6c4e8c,2023-05-15,Consumer To Merchant,4,#ADB6E - Mitte - 2023-05-15
+Mitte,#5DBC6,8a537812-ac34-55f1-b3a4-86093db429d1,2023-05-13,Consumer To Merchant,5,#5DBC6 - Mitte - 2023-05-13
+Leipzig Mitte,#ADD8E,bec17420-56b1-5d85-99c0-b58ead9f879d,2023-05-13,Consumer To Merchant,5,#ADD8E - Leipzig Mitte - 2023-05-13
+Mitte,#FDD0A,85267615-cb41-5e58-a28f-60a6483908b6,2023-05-17,Consumer To Merchant,4,#FDD0A - Mitte - 2023-05-17
+Leipzig Mitte,#E3B3A,9cef199a-28c6-5cfa-96c4-603875fcd9ab,2023-05-13,Consumer To Merchant,5,#E3B3A - Leipzig Mitte - 2023-05-13
+Samariterkiez,#E6115,97386418-2e30-5d17-939c-7406813244db,2023-05-13,Consumer To Merchant,5,#E6115 - Samariterkiez - 2023-05-13
+Mitte,#AA341,2fc68277-ddd6-5062-87fe-e71011334029,2023-05-15,Consumer To Merchant,5,#AA341 - Mitte - 2023-05-15
+Bergmannkiez,#7AC51,d359389c-864a-5f80-a46c-af9510768ca9,2023-05-23,Consumer To Merchant,5,#7AC51 - Bergmannkiez - 2023-05-23
+Charlottenburg,#7D524,aa8a0f91-0edb-583f-9f82-0e014fd8f2b7,2023-05-13,Consumer To Merchant,5,#7D524 - Charlottenburg - 2023-05-13
+Friedrichshain,#059DC,918768af-54a3-50c1-b2d8-49aa5c82f0cc,2023-05-13,Consumer To Merchant,4,#059DC - Friedrichshain - 2023-05-13
+Charlottenburg,#529B4,f2c15619-abee-5999-b47d-c295c2e868ae,2023-05-13,Consumer To Merchant,3,#529B4 - Charlottenburg - 2023-05-13
+Mitte,#351E5,883f9f13-13d1-5f0f-9e23-9929fd4e5419,2023-05-12,Consumer To Merchant,5,#351E5 - Mitte - 2023-05-12
+Bergmannkiez,#790F2,492bb8e7-11fc-521c-a15d-c6c4c6c33dc3,2023-05-15,Consumer To Merchant,3,#790F2 - Bergmannkiez - 2023-05-15
+Bergmannkiez,#128CC,779eb906-8b89-58aa-8616-2514ad50104c,2023-05-17,Consumer To Merchant,1,#128CC - Bergmannkiez - 2023-05-17
+Leipzig Mitte,#6A79D,28b9722b-5a58-57b3-a4a3-507c8aa83fd8,2023-05-14,Consumer To Merchant,5,#6A79D - Leipzig Mitte - 2023-05-14
+Mitte,#E6B87,d0b8d972-64c5-585a-a658-dfbbef4dbf1c,2023-05-10,Consumer To Merchant,5,#E6B87 - Mitte - 2023-05-10
+Leipzig Mitte,#64A02,354d6619-017c-5266-bb66-f128202acb57,2023-05-11,Consumer To Merchant,5,#64A02 - Leipzig Mitte - 2023-05-11
+Bergmannkiez,#C7900,2400259d-c9ab-5b4a-93c2-31a8e0454fb8,2023-05-12,Consumer To Merchant,5,#C7900 - Bergmannkiez - 2023-05-12
+Samariterkiez,#DB8A9,f63f8ff2-e176-53e0-a7e6-1c543eef1d13,2023-05-12,Consumer To Merchant,5,#DB8A9 - Samariterkiez - 2023-05-12
+Samariterkiez,#A79DF,ab6694c9-e200-5bef-a0ae-deda57b51823,2023-05-11,Consumer To Merchant,5,#A79DF - Samariterkiez - 2023-05-11
+Prenzlauer Berg,#B13C0,58620ed5-a17e-5f4f-99d8-1b0044446b9c,2023-05-11,Consumer To Merchant,5,#B13C0 - Prenzlauer Berg - 2023-05-11
+Mitte,#F906F,c9dbe64c-6fa7-5cf0-aae3-7f85487378eb,2023-05-09,Consumer To Merchant,5,#F906F - Mitte - 2023-05-09
+Leipzig Mitte,#5BBC0,585af2ba-9de5-522f-9df7-048e4b9096b5,2023-05-09,Consumer To Merchant,1,#5BBC0 - Leipzig Mitte - 2023-05-09
+Mitte,#CBB7C,67dfdd06-3e5f-59be-b9b4-bcd52c0b7981,2023-05-10,Consumer To Merchant,5,#CBB7C - Mitte - 2023-05-10
+Samariterkiez,#0A274,c63f8953-76a3-59de-918e-04cac35e0392,2023-05-12,Consumer To Merchant,5,#0A274 - Samariterkiez - 2023-05-12
+Prenzlauer Berg,#4999A,1fa8dc8e-d7bf-5d82-bde0-7f00f4cce290,2023-05-11,Consumer To Merchant,4,#4999A - Prenzlauer Berg - 2023-05-11
+Charlottenburg,#BA560,b25630bc-dc7e-57c7-89e5-47bd5e390aac,2023-05-10,Consumer To Merchant,5,#BA560 - Charlottenburg - 2023-05-10
+Samariterkiez,#A7BCA,f23931d9-f32e-5d22-95ba-4270e2c26a48,2023-05-14,Consumer To Merchant,5,#A7BCA - Samariterkiez - 2023-05-14
+Leipzig Mitte,#F033B,7721ecbf-7a40-5b00-8144-4f95bbe79408,2023-05-11,Consumer To Merchant,5,#F033B - Leipzig Mitte - 2023-05-11
+Prenzlauer Berg,#44532,b3ccc311-8202-5e86-9f64-66ad9189930b,2023-05-12,Consumer To Merchant,4,#44532 - Prenzlauer Berg - 2023-05-12
+Mitte,#69825,1fbeff74-a0e7-543a-a475-2f1ea8c64092,2023-05-07,Consumer To Merchant,5,#69825 - Mitte - 2023-05-07
+Friedrichshain,#525E7,7ed08977-9c6f-56f4-895e-b8ad04763dad,2023-05-09,Consumer To Merchant,5,#525E7 - Friedrichshain - 2023-05-09
+Samariterkiez,#074B2,34dbb8c4-8178-5af7-bb32-bfd731a0a721,2023-05-10,Consumer To Merchant,4,#074B2 - Samariterkiez - 2023-05-10
+Samariterkiez,#AF5B4,76e323fe-ec7e-50c1-8d49-e5defba0a139,2023-05-12,Consumer To Merchant,4,#AF5B4 - Samariterkiez - 2023-05-12
+Mitte,#E1A57,38000041-d1b4-5730-8f29-3805fd1ae132,2023-05-06,Consumer To Merchant,5,#E1A57 - Mitte - 2023-05-06
+Friedrichshain,#B80C3,c0dc45e2-c333-5b0b-a591-5a2ad0986462,2023-05-06,Consumer To Merchant,1,#B80C3 - Friedrichshain - 2023-05-06
+Prenzlauer Berg,#22B3F,afd5e51f-f8e5-58af-b9f1-7472d273d88d,2023-05-07,Consumer To Merchant,5,#22B3F - Prenzlauer Berg - 2023-05-07
+Charlottenburg,#2287D,44b84845-a8a8-5df2-bd3b-6ad9937be1b4,2023-05-08,Consumer To Merchant,5,#2287D - Charlottenburg - 2023-05-08
+Friedrichshain,#D5029,f8b17e56-e30d-5860-b5f5-5be086806536,2023-05-08,Consumer To Merchant,3,#D5029 - Friedrichshain - 2023-05-08
+Bergmannkiez,#1B771,4c8912c9-da7d-592f-934a-59a5ed568982,2023-05-06,Consumer To Merchant,5,#1B771 - Bergmannkiez - 2023-05-06
+Samariterkiez,#7A3EE,6e383d0b-9400-5857-8552-763fba92fe5b,2023-05-08,Consumer To Merchant,5,#7A3EE - Samariterkiez - 2023-05-08
+Mitte,#61E10,97b3cfb1-c37b-52ef-8d86-332a51794e5b,2023-05-06,Consumer To Merchant,5,#61E10 - Mitte - 2023-05-06
+Mitte,#F3412,d600e4aa-2975-5774-b9d4-2b5ec1781ae5,2023-05-06,Consumer To Merchant,5,#F3412 - Mitte - 2023-05-06
+Prenzlauer Berg,#3A273,a3abb4d1-f1f7-5d93-84fa-e68d75978ac4,2023-05-08,Consumer To Merchant,5,#3A273 - Prenzlauer Berg - 2023-05-08
+Samariterkiez,#9A472,2ed7eed4-118e-5cd4-a7b2-9fea4253d4b9,2023-05-07,Consumer To Merchant,4,#9A472 - Samariterkiez - 2023-05-07
+Friedrichshain,#7F85C,453066c1-ab4c-5b70-80f4-785e86b4899c,2023-05-07,Consumer To Merchant,5,#7F85C - Friedrichshain - 2023-05-07
+Friedrichshain,#CC8E5,4527713d-d9dd-5d07-8516-4fd09f099392,2023-05-06,Consumer To Merchant,5,#CC8E5 - Friedrichshain - 2023-05-06
+Charlottenburg,#D38F6,52a9aff3-b9bf-5921-a323-79d698e2e6bc,2023-05-12,Consumer To Merchant,5,#D38F6 - Charlottenburg - 2023-05-12
+Prenzlauer Berg,#DD04E,52b2785d-7192-5017-9766-4717d3d64694,2023-05-08,Consumer To Merchant,5,#DD04E - Prenzlauer Berg - 2023-05-08
+Charlottenburg,#ED5B0,8ddb8033-fe72-52d0-b71d-fcbda4f269f9,2023-05-07,Consumer To Merchant,5,#ED5B0 - Charlottenburg - 2023-05-07
+Leipzig Mitte,#264DC,c5ffdc25-0ca8-512f-86ac-18a1e5d1260c,2023-05-09,Consumer To Merchant,3,#264DC - Leipzig Mitte - 2023-05-09
+Kreuzberg,#E2987,091d1338-67bb-59f3-ada3-2719564287c2,2023-05-06,Consumer To Merchant,5,#E2987 - Kreuzberg - 2023-05-06
+Prenzlauer Berg,#43E54,0092fa05-ad92-5178-8e74-556f0339d857,2023-05-08,Consumer To Merchant,4,#43E54 - Prenzlauer Berg - 2023-05-08
+Prenzlauer Berg,#6302C,31de0954-a1fa-5e4f-b528-1436397410e9,2023-05-07,Consumer To Merchant,5,#6302C - Prenzlauer Berg - 2023-05-07
+Leipzig Mitte,#1B932,e1726c29-4673-5cdf-a5e2-36802be4a093,2023-05-06,Consumer To Merchant,5,#1B932 - Leipzig Mitte - 2023-05-06
+Bergmannkiez,#AC75D,9493e451-5e67-5c8f-8ce8-440ef048c142,2023-05-03,Consumer To Merchant,1,#AC75D - Bergmannkiez - 2023-05-03
+Mitte,#A0B30,f33d3914-46cf-5231-bbe4-6d27f5956b56,2023-05-06,Consumer To Merchant,5,#A0B30 - Mitte - 2023-05-06
+Leipzig Mitte,#FD873,b886453c-7177-5f4a-b1ba-b008531d44fb,2023-05-07,Consumer To Merchant,3,#FD873 - Leipzig Mitte - 2023-05-07
+Prenzlauer Berg,#8DF0E,237b2982-93d2-5982-84c3-6caccb9b30da,2023-05-07,Consumer To Merchant,5,#8DF0E - Prenzlauer Berg - 2023-05-07
+Friedrichshain,#EED4F,d88ae579-92f2-5995-a70e-d865f41e5e1a,2023-05-06,Consumer To Merchant,3,#EED4F - Friedrichshain - 2023-05-06
+Prenzlauer Berg,#FE06F,607774c5-c5ed-5133-9a74-b2ce00066118,2023-05-07,Consumer To Merchant,4,#FE06F - Prenzlauer Berg - 2023-05-07
+Mitte,#E93A8,81294360-e999-5246-91a9-8ffdb5484352,2023-05-09,Consumer To Merchant,5,#E93A8 - Mitte - 2023-05-09
+Samariterkiez,#44F04,f74ba266-ec70-5c4b-b540-31f18f5c2f56,2023-05-05,Consumer To Merchant,5,#44F04 - Samariterkiez - 2023-05-05
+Bergmannkiez,#B0E0D,647d1cb6-a058-5161-9b53-f7f8370d7f9b,2023-05-03,Consumer To Merchant,5,#B0E0D - Bergmannkiez - 2023-05-03
+Bergmannkiez,#C53B8,9ea61d7b-1c2b-5448-bb44-127d5b27e0d8,2023-05-03,Consumer To Merchant,5,#C53B8 - Bergmannkiez - 2023-05-03
+Prenzlauer Berg,#666AD,64ee5911-c9f1-53d2-966d-3d41b5b99ad6,2023-05-06,Consumer To Merchant,5,#666AD - Prenzlauer Berg - 2023-05-06
+Mitte,#D79EE,d2326318-b821-589c-81e3-8c66fe827755,2023-05-07,Consumer To Merchant,1,#D79EE - Mitte - 2023-05-07
+Prenzlauer Berg,#A8B5B,f0c5a335-b1ea-5086-aec9-bfb7f35efb37,2023-05-07,Consumer To Merchant,3,#A8B5B - Prenzlauer Berg - 2023-05-07
+Bergmannkiez,#5EFC6,204ac29e-0667-5b65-af91-6c2666a1cbdb,2023-05-03,Consumer To Merchant,5,#5EFC6 - Bergmannkiez - 2023-05-03
+Friedrichshain,#561E7,f6d81087-25ce-53ae-9d9e-eff70326f21f,2023-05-05,Consumer To Merchant,2,#561E7 - Friedrichshain - 2023-05-05
+Mitte,#88B66,7e2eb959-ae22-58e0-8c8a-9d2a4b114cc4,2023-05-05,Consumer To Merchant,5,#88B66 - Mitte - 2023-05-05
+Prenzlauer Berg,#EE843,90e6df4b-5df2-5c4d-afdf-075f585c39e0,2023-05-03,Consumer To Merchant,5,#EE843 - Prenzlauer Berg - 2023-05-03
+Mitte,#5A172,f1642a16-2859-5ab1-9178-766bdb21dac0,2023-05-05,Consumer To Merchant,1,#5A172 - Mitte - 2023-05-05
+Bergmannkiez,#1D7B7,0a647d9d-eb32-5b8b-92d6-a9500f1b9a32,2023-05-05,Consumer To Merchant,5,#1D7B7 - Bergmannkiez - 2023-05-05
+Prenzlauer Berg,#044BE,c3848af3-1c26-5fc1-9380-c5a9fa75183c,2023-05-06,Consumer To Merchant,5,#044BE - Prenzlauer Berg - 2023-05-06
+Samariterkiez,#845C0,720c6ad8-6f42-590b-972e-00cd90656b0a,2023-05-05,Consumer To Merchant,2,#845C0 - Samariterkiez - 2023-05-05
+Mitte,#A8C38,0c586291-791a-5d6c-88e8-7b86a0709a08,2023-05-04,Consumer To Merchant,2,#A8C38 - Mitte - 2023-05-04
+Mitte,#FC73C,bde2c79f-290d-525e-8dd8-22677a28bb73,2023-05-05,Consumer To Merchant,4,#FC73C - Mitte - 2023-05-05
+Prenzlauer Berg,#20744,cf9256ed-b936-5889-a1ff-8bfeb18402a4,2023-05-05,Consumer To Merchant,5,#20744 - Prenzlauer Berg - 2023-05-05
+Bergmannkiez,#90989,349e7961-888d-507b-a0d5-cb5eeb58af0f,2023-05-02,Consumer To Merchant,5,#90989 - Bergmannkiez - 2023-05-02
+Charlottenburg,#747C9,948f3720-65b9-5b5a-b6fa-00c90b0c69ac,2023-05-05,Consumer To Merchant,4,#747C9 - Charlottenburg - 2023-05-05
+Prenzlauer Berg,#EF569,65e98afb-63ff-543d-ae46-b9df55b69482,2023-05-03,Consumer To Merchant,5,#EF569 - Prenzlauer Berg - 2023-05-03
+Friedrichshain,#B1AB7,b1dc38b3-baa9-5f0b-95d5-3fb44fbd82d5,2023-05-01,Consumer To Merchant,5,#B1AB7 - Friedrichshain - 2023-05-01
+Charlottenburg,#B8686,b44eea16-35aa-5bba-82bf-f7d31fefe469,2023-05-01,Consumer To Merchant,5,#B8686 - Charlottenburg - 2023-05-01
+Mitte,#2FED9,6c53fb3b-170f-5186-a0d5-411fe9e1a6e4,2023-05-02,Consumer To Merchant,3,#2FED9 - Mitte - 2023-05-02
+Prenzlauer Berg,#EDE63,5043a27d-b01f-5636-a059-5cc3784d88ca,2023-05-02,Consumer To Merchant,5,#EDE63 - Prenzlauer Berg - 2023-05-02
+Kreuzberg,#B7D0B,8bba1e29-6bf0-5d10-bdf0-033a83cde145,2023-05-02,Consumer To Merchant,5,#B7D0B - Kreuzberg - 2023-05-02
+Charlottenburg,#64366,8db6b6f0-6540-5ed1-9e6a-fb458ff099c4,2023-05-01,Consumer To Merchant,2,#64366 - Charlottenburg - 2023-05-01
+Charlottenburg,#B5533,757afa8a-60ba-5d41-851c-8b94753eca5d,2023-05-01,Consumer To Merchant,5,#B5533 - Charlottenburg - 2023-05-01
+Friedrichshain,#A5B67,f4b691d4-fa65-5b99-9b63-ea8a26a5728a,2023-05-01,Consumer To Merchant,5,#A5B67 - Friedrichshain - 2023-05-01
+Samariterkiez,#8EB52,a203bbdf-59d3-5570-a432-24b21685143c,2023-05-02,Consumer To Merchant,5,#8EB52 - Samariterkiez - 2023-05-02
+Mitte,#F8E40,a9a8f460-8b83-597b-a5f0-52c3ab5e51bc,2023-05-01,Consumer To Merchant,5,#F8E40 - Mitte - 2023-05-01
+Nollendorfkiez,#5DFAA,8c25c915-b1c0-53bb-a9a8-aecdbf41d8c5,2023-06-29,Consumer To Merchant,1,#5DFAA - Nollendorfkiez - 2023-06-29
+Nollendorfkiez,#CC6AD,17a75e73-0385-560e-a088-1c92b3d2a987,2023-06-30,Consumer To Merchant,5,#CC6AD - Nollendorfkiez - 2023-06-30
+Samariterkiez,#9403A,5f48d4df-4173-5735-bde5-d0493901a4c3,2023-06-30,Consumer To Merchant,5,#9403A - Samariterkiez - 2023-06-30
+Leipzig Mitte,#E0144,1c9f38e3-270e-58ea-9882-315114cbacda,2023-06-30,Consumer To Merchant,4,#E0144 - Leipzig Mitte - 2023-06-30
+Nollendorfkiez,#0B65E,8d20e51b-8477-54de-812a-615cae0fb4b3,2023-06-29,Consumer To Merchant,5,#0B65E - Nollendorfkiez - 2023-06-29
+Schillerkiez,#C634F,f80d4909-cb16-5a69-86ee-0630a4d15df1,2023-06-29,Consumer To Merchant,5,#C634F - Schillerkiez - 2023-06-29
+Nollendorfkiez,#48E2C,7c7f1d78-bb53-5063-91b5-7941a5d93543,2023-06-30,Consumer To Merchant,5,#48E2C - Nollendorfkiez - 2023-06-30
+Mitte,#902D9,667b96b0-07e0-5334-a005-d97b30d0e8ec,2023-06-29,Consumer To Merchant,4,#902D9 - Mitte - 2023-06-29
+Leipzig Mitte,#F28E2,2d38bbde-56d5-5450-8203-2c2e3580f55b,2023-06-30,Consumer To Merchant,4,#F28E2 - Leipzig Mitte - 2023-06-30
+DTM Westend,#DDE71,714cfefb-f295-5785-b628-42c76f9a0714,2023-06-24,Consumer To Merchant,3,#DDE71 - DTM Westend - 2023-06-24
+Nollendorfkiez,#D79FE,0b6273cf-0e3c-5abb-b8f0-5cf876a76de6,2023-06-29,Consumer To Merchant,5,#D79FE - Nollendorfkiez - 2023-06-29
+Schillerkiez,#B0C42,1826966a-fdc1-54ea-a4fd-a4a8f7f39c0f,2023-06-30,Consumer To Merchant,5,#B0C42 - Schillerkiez - 2023-06-30
+Nollendorfkiez,#C0B00,fccaf392-511d-5c15-8524-ed4cbf88ba99,2023-06-29,Consumer To Merchant,5,#C0B00 - Nollendorfkiez - 2023-06-29
+Charlottenburg,#84F7F,427b72c4-0f35-563c-a3eb-620c2f3f9802,2023-06-23,Consumer To Merchant,5,#84F7F - Charlottenburg - 2023-06-23
+Mitte,#EBD45,a6def96c-536b-5b79-a4be-c7a5267e8b1e,2023-06-28,Consumer To Merchant,5,#EBD45 - Mitte - 2023-06-28
+Prenzlauer Berg,#64F7F,b56b8cf3-fbe9-5f36-8338-c4540ec8082b,2023-06-23,Consumer To Merchant,5,#64F7F - Prenzlauer Berg - 2023-06-23
+Leipzig Mitte,#1A99D,eb5aea21-4ea7-5677-9b77-8311c4d02933,2023-06-23,Consumer To Merchant,2,#1A99D - Leipzig Mitte - 2023-06-23
+Charlottenburg,#DFCAD,36c041ee-7024-5ae9-a19f-b4ccc5c7dcf7,2023-06-23,Consumer To Merchant,5,#DFCAD - Charlottenburg - 2023-06-23
+Charlottenburg,#D7FC2,27423170-ec34-5ce6-ac92-a687197ad559,2023-06-28,Consumer To Merchant,4,#D7FC2 - Charlottenburg - 2023-06-28
+DTM Westend,#DA48F,de1c4461-c0f7-557c-bbef-fd2998c0c281,2023-06-28,Consumer To Merchant,4,#DA48F - DTM Westend - 2023-06-28
+Mitte,#321A0,f26f814f-dc34-5de4-bdb6-2ebcd6002323,2023-06-28,Consumer To Merchant,1,#321A0 - Mitte - 2023-06-28
+Mitte,#B4096,5a67f816-aaca-5c38-a935-a92a98b05be1,2023-06-30,Consumer To Merchant,1,#B4096 - Mitte - 2023-06-30
+Leipzig Mitte,#B1C59,c45dd905-62d4-5853-82c5-578635719876,2023-06-30,Consumer To Merchant,2,#B1C59 - Leipzig Mitte - 2023-06-30
+Nollendorfkiez,#A7C16,5857fdc9-e3ce-566a-a545-239bdf5e7f26,2023-06-29,Consumer To Merchant,5,#A7C16 - Nollendorfkiez - 2023-06-29
+Charlottenburg,#FDC32,040f6455-2431-5e1e-ac2a-3ddce67d3b67,2023-06-24,Consumer To Merchant,1,#FDC32 - Charlottenburg - 2023-06-24
+Nollendorfkiez,#34256,e74d467b-9707-5ff4-83b7-90f1386d0cd7,2023-06-29,Consumer To Merchant,5,#34256 - Nollendorfkiez - 2023-06-29
+Nollendorfkiez,#FF00D,c08ce247-c038-5bf9-a13a-2d256b9a1eda,2023-06-25,Consumer To Merchant,5,#FF00D - Nollendorfkiez - 2023-06-25
+DTM Westend,#E5ADC,f553c75d-0ec1-5c06-bef1-e27fafda6bce,2023-06-29,Consumer To Merchant,5,#E5ADC - DTM Westend - 2023-06-29
+DTM Westend,#E95AD,2186f8e4-784a-5939-8b57-cae834efb0b1,2023-06-30,Consumer To Merchant,5,#E95AD - DTM Westend - 2023-06-30
+Mitte,#3694D,2ce1703f-c195-5256-a4e7-7e9b5a2cf84d,2023-06-19,Consumer To Merchant,5,#3694D - Mitte - 2023-06-19
+Schillerkiez,#769AA,dd65d955-a8ca-5bb2-84fa-bb2e171c2013,2023-06-15,Consumer To Merchant,5,#769AA - Schillerkiez - 2023-06-15
+Samariterkiez,#A19E9,6db08b6f-786b-59ae-bf0e-70bbcb676152,2023-06-30,Consumer To Merchant,5,#A19E9 - Samariterkiez - 2023-06-30
+Charlottenburg,#26A19,f55727b5-6682-5a8a-a693-08c8413e5cba,2023-06-30,Consumer To Merchant,5,#26A19 - Charlottenburg - 2023-06-30
+Nollendorfkiez,#D2E9E,733cd5cd-f9d8-5f50-86ad-a584cc718c33,2023-06-23,Consumer To Merchant,3,#D2E9E - Nollendorfkiez - 2023-06-23
+Prenzlauer Berg,#4F768,a8400c26-3f1c-59f9-92df-d964f576fbba,2023-06-24,Consumer To Merchant,5,#4F768 - Prenzlauer Berg - 2023-06-24
+Nollendorfkiez,#AD704,3e27eee9-d7e1-5fdc-b3f0-134f9f2bac09,2023-06-24,Consumer To Merchant,4,#AD704 - Nollendorfkiez - 2023-06-24
+Mitte,#2140E,818d4c62-6b79-52dd-9072-63d8291809b7,2023-06-27,Consumer To Merchant,3,#2140E - Mitte - 2023-06-27
+Prenzlauer Berg,#6EAC6,7a08c9dc-d08a-57e3-97f6-12f1e35ea861,2023-06-18,Consumer To Merchant,4,#6EAC6 - Prenzlauer Berg - 2023-06-18
+Prenzlauer Berg,#4DF89,7f332a83-52dc-5f70-818e-c76d8e5bd139,2023-06-15,Consumer To Merchant,5,#4DF89 - Prenzlauer Berg - 2023-06-15
+Samariterkiez,#D2537,ff7ecb83-ce94-5a4a-b739-0b2c43d93edc,2023-06-28,Consumer To Merchant,5,#D2537 - Samariterkiez - 2023-06-28
+Schillerkiez,#923D8,3a9ce173-1f3a-5613-8eb6-3b1aca7a05ce,2023-06-18,Consumer To Merchant,5,#923D8 - Schillerkiez - 2023-06-18
+Leipzig Mitte,#EFDA5,e429034d-6ae8-5062-9e3e-000780ed0cff,2023-06-25,Consumer To Merchant,4,#EFDA5 - Leipzig Mitte - 2023-06-25
+Leipzig Mitte,#3F2ED,d105857e-b74f-518b-bbc5-4170503b640e,2023-06-23,Consumer To Merchant,4,#3F2ED - Leipzig Mitte - 2023-06-23
+Prenzlauer Berg,#3BFB0,9d50a254-0a68-5825-9601-b2c39ee53d90,2023-06-23,Consumer To Merchant,5,#3BFB0 - Prenzlauer Berg - 2023-06-23
+Prenzlauer Berg,#83849,dd57a7a7-f805-513a-b3fd-981f3ff6bdbb,2023-06-19,Consumer To Merchant,5,#83849 - Prenzlauer Berg - 2023-06-19
+Charlottenburg,#CDF0B,4f5fcb91-1810-534a-8808-bcbe0ff512a3,2023-06-16,Consumer To Merchant,2,#CDF0B - Charlottenburg - 2023-06-16
+Mitte,#FC5C0,31bd4d63-2372-549f-b68c-9c32ab7b221c,2023-06-28,Consumer To Merchant,5,#FC5C0 - Mitte - 2023-06-28
+Prenzlauer Berg,#A0A51,111bfa0d-9690-5eb1-807f-b891c43b8181,2023-06-09,Consumer To Merchant,5,#A0A51 - Prenzlauer Berg - 2023-06-09
+Leipzig Mitte,#D5201,11321a58-8522-57cc-a416-fa8973f6079c,2023-06-18,Consumer To Merchant,5,#D5201 - Leipzig Mitte - 2023-06-18
+Nollendorfkiez,#3ECD2,ab106275-e449-5632-9d59-82b3b1f9ddce,2023-06-25,Consumer To Merchant,4,#3ECD2 - Nollendorfkiez - 2023-06-25
+Charlottenburg,#07D6E,268c119a-78cb-5fa8-ae74-4d562cda3c03,2023-06-23,Consumer To Merchant,5,#07D6E - Charlottenburg - 2023-06-23
+Nollendorfkiez,#2EFF6,45c5dc9d-8ce9-5c62-84e2-f4a84e1baef3,2023-06-20,Consumer To Merchant,5,#2EFF6 - Nollendorfkiez - 2023-06-20
+Mitte,#0AE09,953255d0-e0d4-504b-8f2b-ff2557c3c2bd,2023-06-25,Consumer To Merchant,5,#0AE09 - Mitte - 2023-06-25
+Leipzig Mitte,#FFC34,1b15b49d-0d78-51be-b7c4-124946f6f5ab,2023-06-28,Consumer To Merchant,5,#FFC34 - Leipzig Mitte - 2023-06-28
+Prenzlauer Berg,#DA5E5,8ed3bc36-c14d-597b-a3e6-8b6924a799db,2023-06-24,Consumer To Merchant,5,#DA5E5 - Prenzlauer Berg - 2023-06-24
+Mitte,#06DF3,f1dc8ac6-85ce-5560-b629-202c24c94af4,2023-06-24,Consumer To Merchant,1,#06DF3 - Mitte - 2023-06-24
+Mitte,#C6417,4dfd074d-7120-5fc9-a245-19a5c0a248a9,2023-06-24,Consumer To Merchant,5,#C6417 - Mitte - 2023-06-24
+Kreuzberg,#7F2D4,9d34ba89-6cd6-512a-9f82-648eaed1de41,2023-06-22,Consumer To Merchant,5,#7F2D4 - Kreuzberg - 2023-06-22
+Samariterkiez,#6B8BD,c8679344-fce1-54af-8be3-4da8b56d63a9,2023-06-27,Consumer To Merchant,5,#6B8BD - Samariterkiez - 2023-06-27
+Charlottenburg,#9A54F,f36f8aab-3f9c-5ab5-879d-51393b0ab4ab,2023-06-16,Consumer To Merchant,3,#9A54F - Charlottenburg - 2023-06-16
+Charlottenburg,#E0822,1eeda18b-664c-53f5-9701-cb6a440b02dc,2023-06-26,Consumer To Merchant,5,#E0822 - Charlottenburg - 2023-06-26
+Prenzlauer Berg,#F20F8,9cac3224-a89d-5a2e-adb5-32a2494c5f53,2023-06-18,Consumer To Merchant,2,#F20F8 - Prenzlauer Berg - 2023-06-18
+Leipzig Mitte,#5DF40,65299c6e-6713-5aa0-9781-1c3cc03ecbd4,2023-06-23,Consumer To Merchant,5,#5DF40 - Leipzig Mitte - 2023-06-23
+Kreuzberg,#977E0,d19b90ab-fb8c-5bd3-bb4b-62d3d764e9bc,2023-06-19,Consumer To Merchant,5,#977E0 - Kreuzberg - 2023-06-19
+Leipzig Mitte,#DFA79,1c70ac21-ebbd-567b-b35f-65abe0df9233,2023-06-24,Consumer To Merchant,4,#DFA79 - Leipzig Mitte - 2023-06-24
+Leipzig Mitte,#1E8BA,e39109ef-cb21-5edd-917c-b29f9fba8874,2023-06-21,Consumer To Merchant,5,#1E8BA - Leipzig Mitte - 2023-06-21
+Prenzlauer Berg,#E206A,c85538d2-8dfe-5a50-ac00-ad52af7db9b2,2023-06-26,Consumer To Merchant,5,#E206A - Prenzlauer Berg - 2023-06-26
+Schillerkiez,#ABE74,24e734e8-c0d4-5d27-b44b-d485656182a3,2023-06-26,Consumer To Merchant,5,#ABE74 - Schillerkiez - 2023-06-26
+Charlottenburg,#40C3E,6d74e71e-5fbd-5bc1-af2d-17a8904d87b9,2023-06-30,Consumer To Merchant,5,#40C3E - Charlottenburg - 2023-06-30
+Kreuzberg,#06A68,88307c7b-0850-5c16-bb73-05e4bffa05ad,2023-06-12,Consumer To Merchant,5,#06A68 - Kreuzberg - 2023-06-12
+Prenzlauer Berg,#ED67B,944e6c76-e92b-51ad-9c4b-cb3c4ee3f761,2023-06-25,Consumer To Merchant,5,#ED67B - Prenzlauer Berg - 2023-06-25
+Prenzlauer Berg,#8842D,564aee5c-a798-59de-a46e-b97a73f6e8b5,2023-06-24,Consumer To Merchant,1,#8842D - Prenzlauer Berg - 2023-06-24
+Leipzig Mitte,#6EDA3,ccce746d-150f-52c5-9987-0feebd7e6cc2,2023-06-18,Consumer To Merchant,4,#6EDA3 - Leipzig Mitte - 2023-06-18
+Prenzlauer Berg,#4DD1E,7a2e3287-1a2e-51f9-b317-6358705695f1,2023-06-25,Consumer To Merchant,5,#4DD1E - Prenzlauer Berg - 2023-06-25
+DTM Westend,#34436,6c104368-72c5-50df-92cb-63ca64e6cfd3,2023-06-25,Consumer To Merchant,5,#34436 - DTM Westend - 2023-06-25
+Schillerkiez,#6FF63,355c51c6-328a-5458-9386-9c070f862090,2023-06-11,Consumer To Merchant,3,#6FF63 - Schillerkiez - 2023-06-11
+Nollendorfkiez,#C252A,2cee5f18-92ea-5578-9480-935ead7b8427,2023-06-15,Consumer To Merchant,5,#C252A - Nollendorfkiez - 2023-06-15
+Prenzlauer Berg,#DD4B8,14f73ed1-1677-5062-980c-2ce84a4548f0,2023-06-15,Consumer To Merchant,5,#DD4B8 - Prenzlauer Berg - 2023-06-15
+Prenzlauer Berg,#AC5EF,4a50bb67-4bff-5cd8-8b26-9afad5c92eb4,2023-06-13,Consumer To Merchant,5,#AC5EF - Prenzlauer Berg - 2023-06-13
+Leipzig Mitte,#2BDB0,0ce66647-2a90-5fd3-9790-42efb15dd4c4,2023-06-08,Consumer To Merchant,5,#2BDB0 - Leipzig Mitte - 2023-06-08
+Kreuzberg,#05B52,4321d542-9e32-55a2-94a6-de89f55d2f01,2023-06-20,Consumer To Merchant,5,#05B52 - Kreuzberg - 2023-06-20
+Schillerkiez,#160B2,e5d94436-fd6b-5ec7-b226-81433a8e4d89,2023-06-15,Consumer To Merchant,5,#160B2 - Schillerkiez - 2023-06-15
+Prenzlauer Berg,#4AE4A,f9c06a51-1dbb-5838-9058-69764dbaf4f8,2023-06-23,Consumer To Merchant,2,#4AE4A - Prenzlauer Berg - 2023-06-23
+Schillerkiez,#17D84,eee4ef26-8c1b-5ad5-b56f-815989e9b976,2023-06-16,Consumer To Merchant,5,#17D84 - Schillerkiez - 2023-06-16
+Prenzlauer Berg,#F5CD8,df0e78e4-19b4-5d9c-b868-936a50e27dbd,2023-06-24,Consumer To Merchant,1,#F5CD8 - Prenzlauer Berg - 2023-06-24
+Prenzlauer Berg,#EFF5E,4a9e6194-c4bf-51c7-8f8d-848feaf38801,2023-06-12,Consumer To Merchant,5,#EFF5E - Prenzlauer Berg - 2023-06-12
+Prenzlauer Berg,#54512,8297ae50-b351-58a7-bf8a-37457e8382da,2023-06-22,Consumer To Merchant,5,#54512 - Prenzlauer Berg - 2023-06-22
+Samariterkiez,#FC63D,52954052-d5c4-5940-92e1-8b95d8615aa7,2023-06-25,Consumer To Merchant,5,#FC63D - Samariterkiez - 2023-06-25
+Charlottenburg,#8E40F,c88694b8-1716-527a-8389-0167b67723b3,2023-06-25,Consumer To Merchant,1,#8E40F - Charlottenburg - 2023-06-25
+Leipzig Mitte,#0684D,733a91f3-8ea4-54c0-82c2-dba2ac4fdc9a,2023-06-25,Consumer To Merchant,5,#0684D - Leipzig Mitte - 2023-06-25
+Samariterkiez,#8AA8E,d6183349-a805-5073-95e0-ec9c399c3967,2023-06-25,Consumer To Merchant,5,#8AA8E - Samariterkiez - 2023-06-25
+Prenzlauer Berg,#38109,180b695a-a63d-5ef8-9e9f-c5e9bc56a50f,2023-06-18,Consumer To Merchant,5,#38109 - Prenzlauer Berg - 2023-06-18
+Samariterkiez,#B8165,5c33eac8-e798-5192-af1b-38d43f808bd7,2023-06-16,Consumer To Merchant,5,#B8165 - Samariterkiez - 2023-06-16
+Leipzig Mitte,#34F90,d0227d22-f3f5-5244-9773-f0412107fc69,2023-06-25,Consumer To Merchant,5,#34F90 - Leipzig Mitte - 2023-06-25
+Leipzig Mitte,#DC866,d57a9bc1-466b-5ffe-bb12-021badc63553,2023-06-25,Consumer To Merchant,4,#DC866 - Leipzig Mitte - 2023-06-25
+Prenzlauer Berg,#D90AA,77b87e37-11ef-58fe-a1a1-621fb3b0f7d2,2023-06-26,Consumer To Merchant,3,#D90AA - Prenzlauer Berg - 2023-06-26
+Mitte,#2480F,05d3f601-0715-57e9-9117-d0f8a850cdd1,2023-06-26,Consumer To Merchant,5,#2480F - Mitte - 2023-06-26
+Leipzig Mitte,#D41D8,7880e876-7b89-534c-8dba-746a61682577,2023-06-28,Consumer To Merchant,5,#D41D8 - Leipzig Mitte - 2023-06-28
+Leipzig Mitte,#A4C49,8efc41fd-8675-5ce8-910c-9a8727664f78,2023-06-28,Consumer To Merchant,5,#A4C49 - Leipzig Mitte - 2023-06-28
+Prenzlauer Berg,#E3E92,5ce7dab5-bf4a-5d2b-9772-1f0e9ae8b260,2023-06-26,Consumer To Merchant,1,#E3E92 - Prenzlauer Berg - 2023-06-26
+Charlottenburg,#D8F1E,fe7d1399-1592-5820-8752-0c822eace385,2023-06-14,Consumer To Merchant,2,#D8F1E - Charlottenburg - 2023-06-14
+Charlottenburg,#A6565,c52bf004-2d9a-5ed4-8e79-663a5864c65d,2023-06-23,Consumer To Merchant,1,#A6565 - Charlottenburg - 2023-06-23
+Prenzlauer Berg,#A1D6A,21712b30-eb68-5c86-8729-925c74bfdecf,2023-06-26,Consumer To Merchant,1,#A1D6A - Prenzlauer Berg - 2023-06-26
+Charlottenburg,#686C2,2dd567ad-95eb-5c95-9ce1-4992a1d4a60b,2023-06-30,Consumer To Merchant,4,#686C2 - Charlottenburg - 2023-06-30
+Kreuzberg,#64965,cb1a95c8-f622-5741-a36a-dfaf2ea8304a,2023-06-20,Consumer To Merchant,5,#64965 - Kreuzberg - 2023-06-20
+Prenzlauer Berg,#213A4,4ac0c6bc-02f3-5f2d-95dc-d96baafe572d,2023-06-25,Consumer To Merchant,1,#213A4 - Prenzlauer Berg - 2023-06-25
+DTM Westend,#3700D,992bf9bc-a98a-5dff-93df-8836c5ba4a88,2023-06-25,Consumer To Merchant,3,#3700D - DTM Westend - 2023-06-25
+Mitte,#F9CF0,91cb6de9-e761-537e-9cd2-04cbe1c1c5e2,2023-06-27,Consumer To Merchant,5,#F9CF0 - Mitte - 2023-06-27
+Nollendorfkiez,#853CE,d7ecbfbf-6646-54ac-9e98-1d66ac80f0f0,2023-06-26,Consumer To Merchant,4,#853CE - Nollendorfkiez - 2023-06-26
+Nollendorfkiez,#C8604,1b84822e-2591-56bd-90d2-4ce2d24c4747,2023-06-26,Consumer To Merchant,4,#C8604 - Nollendorfkiez - 2023-06-26
+Charlottenburg,#F6B14,ac8872d9-50ad-5da5-aeca-3df9584f33b1,2023-06-26,Consumer To Merchant,5,#F6B14 - Charlottenburg - 2023-06-26
+Prenzlauer Berg,#4F8D1,28ed9352-120c-5603-9617-357bf6ec0957,2023-06-21,Consumer To Merchant,5,#4F8D1 - Prenzlauer Berg - 2023-06-21
+Mitte,#D4512,0dd78e98-3151-5f9f-aa71-2a3099a3bba9,2023-06-10,Consumer To Merchant,5,#D4512 - Mitte - 2023-06-10
+Prenzlauer Berg,#958B4,7628f0a5-b3bb-539f-bf26-6d3202a5c059,2023-06-10,Consumer To Merchant,4,#958B4 - Prenzlauer Berg - 2023-06-10
+Prenzlauer Berg,#E0FFD,bc655ba1-362c-5619-9edf-9cc3304ec283,2023-06-03,Consumer To Merchant,5,#E0FFD - Prenzlauer Berg - 2023-06-03
+Schillerkiez,#E8F4C,2ab8eb79-7d6d-5fe0-a435-75cace113a86,2023-06-17,Consumer To Merchant,5,#E8F4C - Schillerkiez - 2023-06-17
+Prenzlauer Berg,#02914,d417fc4c-d0a6-5cac-acfc-5f7fd9c1ae22,2023-06-26,Consumer To Merchant,3,#02914 - Prenzlauer Berg - 2023-06-26
+Samariterkiez,#44A19,ff5fb487-6397-5f7b-b1b1-b69c72f0e51c,2023-06-26,Consumer To Merchant,5,#44A19 - Samariterkiez - 2023-06-26
+Samariterkiez,#E282F,547cdc52-dbf2-5289-957f-7b68a92fb35c,2023-06-16,Consumer To Merchant,5,#E282F - Samariterkiez - 2023-06-16
+Kreuzberg,#EFB8A,426810fa-cda1-5721-86e1-b77414cc093f,2023-06-16,Consumer To Merchant,5,#EFB8A - Kreuzberg - 2023-06-16
+Leipzig Mitte,#CA53F,47afd5de-d526-5f38-b4fc-e0581e4ec7d5,2023-06-06,Consumer To Merchant,1,#CA53F - Leipzig Mitte - 2023-06-06
+Mitte,#E9F82,f5bd01b1-88e8-5d3b-9f2b-8f89242744da,2023-06-23,Consumer To Merchant,3,#E9F82 - Mitte - 2023-06-23
+Prenzlauer Berg,#37E35,f3d9e5d8-7907-51ec-9d5b-4e7eaa26d36d,2023-06-23,Consumer To Merchant,3,#37E35 - Prenzlauer Berg - 2023-06-23
+Leipzig Mitte,#A78E9,4766ab71-07f7-5358-8d44-ab815228d4bc,2023-06-15,Consumer To Merchant,5,#A78E9 - Leipzig Mitte - 2023-06-15
+Leipzig Mitte,#AA3A6,398ea11a-f791-5304-a118-193ec8a57efb,2023-06-27,Consumer To Merchant,1,#AA3A6 - Leipzig Mitte - 2023-06-27
+Samariterkiez,#9C153,c2afcd89-5bbc-50ff-b6ce-34938836a4e6,2023-06-27,Consumer To Merchant,5,#9C153 - Samariterkiez - 2023-06-27
+Leipzig Mitte,#01267,127a1379-de63-5590-a47a-163f9f934d02,2023-06-14,Consumer To Merchant,1,#01267 - Leipzig Mitte - 2023-06-14
+Kreuzberg,#10F96,621aba6b-4395-5c7c-aa2c-ad1653fbc5b9,2023-06-15,Consumer To Merchant,5,#10F96 - Kreuzberg - 2023-06-15
+Prenzlauer Berg,#F9B7B,5fba253f-6917-552c-9476-ae953d5f1b9a,2023-06-24,Consumer To Merchant,5,#F9B7B - Prenzlauer Berg - 2023-06-24
+Charlottenburg,#498C1,75b19c29-bac0-5bea-bb3d-0ffca0df3f48,2023-06-24,Consumer To Merchant,3,#498C1 - Charlottenburg - 2023-06-24
+Prenzlauer Berg,#711AF,5e5117c4-caa2-5a40-b83f-9abb7724ee34,2023-06-24,Consumer To Merchant,5,#711AF - Prenzlauer Berg - 2023-06-24
+Schillerkiez,#42FC1,a8dcf9e5-a82b-5cc2-a3e7-f54594e5640b,2023-06-15,Consumer To Merchant,1,#42FC1 - Schillerkiez - 2023-06-15
+Prenzlauer Berg,#CFB63,f3094c83-cdeb-5c52-9fe7-3f2f71844b87,2023-06-20,Consumer To Merchant,5,#CFB63 - Prenzlauer Berg - 2023-06-20
+Prenzlauer Berg,#9B719,13996bf8-265f-580a-8cf0-4d43084ddf8f,2023-06-22,Consumer To Merchant,3,#9B719 - Prenzlauer Berg - 2023-06-22
+Prenzlauer Berg,#9BDB9,88ac7321-53b3-5e20-8cff-a513c144a73e,2023-06-18,Consumer To Merchant,3,#9BDB9 - Prenzlauer Berg - 2023-06-18
+Prenzlauer Berg,#37485,7224de3b-2f63-53d6-865c-3237503664d6,2023-06-05,Consumer To Merchant,5,#37485 - Prenzlauer Berg - 2023-06-05
+Mitte,#03EBF,d206bd6c-0749-5d3b-846a-3a4b6e21ad87,2023-06-23,Consumer To Merchant,5,#03EBF - Mitte - 2023-06-23
+DTM Westend,#AEE06,7a6480e2-0f6d-5965-8884-b3573901bbb9,2023-06-27,Consumer To Merchant,3,#AEE06 - DTM Westend - 2023-06-27
+Prenzlauer Berg,#A2AD0,db91a836-4780-5889-8daa-4396b887c39c,2023-06-15,Consumer To Merchant,5,#A2AD0 - Prenzlauer Berg - 2023-06-15
+Mitte,#6A3EF,70e981bb-36c2-5d80-93a6-60d409211691,2023-06-28,Consumer To Merchant,5,#6A3EF - Mitte - 2023-06-28
+Prenzlauer Berg,#163FD,3092e22e-4d45-5772-b562-abedd3f1f562,2023-06-22,Consumer To Merchant,5,#163FD - Prenzlauer Berg - 2023-06-22
+Charlottenburg,#C390C,52bf12a2-2f23-541b-bba5-bd7f560aa733,2023-06-04,Consumer To Merchant,4,#C390C - Charlottenburg - 2023-06-04
+Nollendorfkiez,#8C719,72759626-1198-5957-8e12-74a7e343ffc4,2023-06-23,Consumer To Merchant,4,#8C719 - Nollendorfkiez - 2023-06-23
+Charlottenburg,#9E184,98065e88-8590-5969-ba46-d60ec60a8662,2023-06-23,Consumer To Merchant,4,#9E184 - Charlottenburg - 2023-06-23
+Mitte,#04B68,53ac28c3-87fa-5950-a79e-4fb54a974108,2023-06-06,Consumer To Merchant,4,#04B68 - Mitte - 2023-06-06
+Mitte,#404AC,089df1c7-a336-5ab6-a016-46bdae084641,2023-06-06,Consumer To Merchant,3,#404AC - Mitte - 2023-06-06
+Schillerkiez,#37798,2bc5a3a7-3372-543d-886b-6fdcfb3d9e23,2023-06-09,Consumer To Merchant,5,#37798 - Schillerkiez - 2023-06-09
+Samariterkiez,#952B6,aeb2ae19-39dc-5b6d-969f-60a317914a56,2023-06-14,Consumer To Merchant,3,#952B6 - Samariterkiez - 2023-06-14
+Prenzlauer Berg,#065F3,0c637e1f-932e-5474-9736-55d4fbd06bbb,2023-06-05,Consumer To Merchant,5,#065F3 - Prenzlauer Berg - 2023-06-05
+Charlottenburg,#6245D,6257a973-30a0-5270-af63-c72cf6b19278,2023-06-16,Consumer To Merchant,5,#6245D - Charlottenburg - 2023-06-16
+Prenzlauer Berg,#5BBC8,8a100d85-8476-5c05-a034-03104619a9fe,2023-06-03,Consumer To Merchant,4,#5BBC8 - Prenzlauer Berg - 2023-06-03
+Schillerkiez,#E6458,a4440cdf-7b15-54dd-a8dd-b67498e7f862,2023-06-16,Consumer To Merchant,4,#E6458 - Schillerkiez - 2023-06-16
+Schillerkiez,#D0285,30f11815-56d0-5abc-97ea-78fe45ffc9f4,2023-06-16,Consumer To Merchant,5,#D0285 - Schillerkiez - 2023-06-16
+Kreuzberg,#42432,40323a55-f7be-5cf2-9ec3-5fb28b80e85e,2023-06-12,Consumer To Merchant,2,#42432 - Kreuzberg - 2023-06-12
+Samariterkiez,#EBB47,1239df4c-c143-5fe6-bf7e-d5101a8f4335,2023-06-05,Consumer To Merchant,5,#EBB47 - Samariterkiez - 2023-06-05
+Leipzig Mitte,#6C84C,24499712-968d-5740-b036-eb4dfac8286a,2023-06-04,Consumer To Merchant,5,#6C84C - Leipzig Mitte - 2023-06-04
+Charlottenburg,#E79CE,e9222ecc-5d6f-5ed1-8b45-266a0e0a2a2d,2023-06-25,Consumer To Merchant,5,#E79CE - Charlottenburg - 2023-06-25
+Nollendorfkiez,#63575,f9718c21-8666-5003-afd0-b7d158d940f3,2023-06-25,Consumer To Merchant,5,#63575 - Nollendorfkiez - 2023-06-25
+Leipzig Mitte,#4A76A,2c884be4-839b-5a09-a81a-9fa5a7ed8e55,2023-06-25,Consumer To Merchant,5,#4A76A - Leipzig Mitte - 2023-06-25
+Prenzlauer Berg,#6690C,9d898e35-45d2-53ed-bd53-2e0c58af9637,2023-06-25,Consumer To Merchant,5,#6690C - Prenzlauer Berg - 2023-06-25
+DTM Westend,#4C605,19afff8e-b9da-5a6e-a202-502a3b45edaa,2023-06-25,Consumer To Merchant,2,#4C605 - DTM Westend - 2023-06-25
+Mitte,#B7B26,256d7f76-097f-5d8a-af35-e019332517b7,2023-06-08,Consumer To Merchant,5,#B7B26 - Mitte - 2023-06-08
+Samariterkiez,#C96B6,6844371a-91f4-5089-bc22-20b63a478f37,2023-06-24,Consumer To Merchant,3,#C96B6 - Samariterkiez - 2023-06-24
+Prenzlauer Berg,#65F2C,6fb0f17f-06e8-5e15-8a80-557684ddf6cd,2023-06-24,Consumer To Merchant,5,#65F2C - Prenzlauer Berg - 2023-06-24
+Prenzlauer Berg,#073DD,59965920-4fb5-5a81-9cc1-9c1e797cadb9,2023-06-02,Consumer To Merchant,5,#073DD - Prenzlauer Berg - 2023-06-02
+Samariterkiez,#A7655,c960225f-474e-5b0d-baaa-d2b78f86bd2f,2023-06-08,Consumer To Merchant,3,#A7655 - Samariterkiez - 2023-06-08
+Charlottenburg,#08102,b3d649e1-4a86-58f4-bdf2-1d6d9a544949,2023-06-18,Consumer To Merchant,5,#08102 - Charlottenburg - 2023-06-18
+Mitte,#96FF3,005aa868-ab9a-598a-8bf9-b45f09f4dbaf,2023-06-23,Consumer To Merchant,2,#96FF3 - Mitte - 2023-06-23
+Nollendorfkiez,#35E4A,1b599429-1f4b-5051-9516-cdf1b91aadc4,2023-06-14,Consumer To Merchant,5,#35E4A - Nollendorfkiez - 2023-06-14
+Kreuzberg,#B6470,fd4f56d6-f533-504d-805f-4e8811dd3698,2023-06-17,Consumer To Merchant,5,#B6470 - Kreuzberg - 2023-06-17
+Charlottenburg,#AC952,a9bd8553-8fb2-5bdb-81c7-b7cc9569c685,2023-06-11,Consumer To Merchant,5,#AC952 - Charlottenburg - 2023-06-11
+Samariterkiez,#15D9F,381f7eb2-e3ae-5ff6-aa64-e194dc824a1e,2023-06-11,Consumer To Merchant,1,#15D9F - Samariterkiez - 2023-06-11
+Kreuzberg,#513EA,6ee30759-5ec7-5f09-af08-90d4142c7a48,2023-06-06,Consumer To Merchant,5,#513EA - Kreuzberg - 2023-06-06
+DTM Westend,#B0740,85822908-ba1a-5500-8635-b8a14c5f6205,2023-06-25,Consumer To Merchant,5,#B0740 - DTM Westend - 2023-06-25
+Prenzlauer Berg,#5CB9C,efbe3e11-3e69-5f22-ad47-35be111906bd,2023-06-07,Consumer To Merchant,5,#5CB9C - Prenzlauer Berg - 2023-06-07
+Prenzlauer Berg,#EE4D8,cdff8151-3058-584d-8121-41a1544f67d8,2023-06-14,Consumer To Merchant,5,#EE4D8 - Prenzlauer Berg - 2023-06-14
+Mitte,#2031C,1701609e-158d-5654-b948-d16ec51dd7a7,2023-06-29,Consumer To Merchant,4,#2031C - Mitte - 2023-06-29
+Nollendorfkiez,#C2B0C,3d97bdd3-5887-5c42-98e6-06ae08d377bb,2023-06-29,Consumer To Merchant,1,#C2B0C - Nollendorfkiez - 2023-06-29
+Mitte,#683F8,0b158666-281d-55a3-8e02-8380882f1d37,2023-06-22,Consumer To Merchant,3,#683F8 - Mitte - 2023-06-22
+Prenzlauer Berg,#0C87C,d22709a8-de1b-51b6-b344-4403f3938382,2023-06-19,Consumer To Merchant,5,#0C87C - Prenzlauer Berg - 2023-06-19
+Prenzlauer Berg,#AF06E,41808ada-ef52-5231-99dc-13eff618139f,2023-06-07,Consumer To Merchant,5,#AF06E - Prenzlauer Berg - 2023-06-07
+Schillerkiez,#8A078,61cde365-4275-5fb7-976b-f935d7b4a68f,2023-06-18,Consumer To Merchant,4,#8A078 - Schillerkiez - 2023-06-18
+Prenzlauer Berg,#181D3,c44a8543-8b33-5333-a99d-3f3c4695eada,2023-06-15,Consumer To Merchant,5,#181D3 - Prenzlauer Berg - 2023-06-15
+Leipzig Mitte,#23BF6,b0e3b754-a4f9-5ace-ac82-c803c0b124aa,2023-06-15,Consumer To Merchant,5,#23BF6 - Leipzig Mitte - 2023-06-15
+Leipzig Mitte,#B1A9E,2fd0b96d-4a32-50f0-92ee-98dc675b5253,2023-06-03,Consumer To Merchant,5,#B1A9E - Leipzig Mitte - 2023-06-03
+Prenzlauer Berg,#24F9E,a68ef0a3-2d05-556e-9789-fbae9c6fb782,2023-06-09,Consumer To Merchant,5,#24F9E - Prenzlauer Berg - 2023-06-09
+Prenzlauer Berg,#5A9B3,a43f840d-d2aa-53b9-8022-580defa5235e,2023-06-23,Consumer To Merchant,5,#5A9B3 - Prenzlauer Berg - 2023-06-23
+Kreuzberg,#227D4,3036ee89-2a45-5eed-bdd4-4a3695742fe2,2023-06-02,Consumer To Merchant,4,#227D4 - Kreuzberg - 2023-06-02
+Mitte,#B8F52,d7b0d50f-5793-5a36-8048-3dffa601df7a,2023-06-06,Consumer To Merchant,5,#B8F52 - Mitte - 2023-06-06
+Charlottenburg,#081E5,23087794-e40a-590d-9262-5adbb2b442d1,2023-06-04,Consumer To Merchant,1,#081E5 - Charlottenburg - 2023-06-04
+Leipzig Mitte,#518C9,c55b0555-5261-5c9f-93b5-0932f87da3e5,2023-06-04,Consumer To Merchant,4,#518C9 - Leipzig Mitte - 2023-06-04
+Charlottenburg,#CF5F5,d1c48561-4791-50c9-9b11-1999f7a66f52,2023-06-18,Consumer To Merchant,5,#CF5F5 - Charlottenburg - 2023-06-18
+Prenzlauer Berg,#D47AD,87858888-c090-5ace-b964-20f87eeccca3,2023-06-20,Consumer To Merchant,5,#D47AD - Prenzlauer Berg - 2023-06-20
+Prenzlauer Berg,#FA178,0b1ee30e-5efd-54c8-90ab-fdabe950e61c,2023-06-23,Consumer To Merchant,5,#FA178 - Prenzlauer Berg - 2023-06-23
+Prenzlauer Berg,#B59D7,2184c892-38c7-5c4b-9a66-c1a3a9141c1c,2023-06-08,Consumer To Merchant,4,#B59D7 - Prenzlauer Berg - 2023-06-08
+Kreuzberg,#A34A6,40d0bb19-9736-5f75-9434-99cf5473d966,2023-06-07,Consumer To Merchant,4,#A34A6 - Kreuzberg - 2023-06-07
+Schillerkiez,#87DDB,50e06a6a-7835-5090-83fc-4faa5c61aa6a,2023-06-07,Consumer To Merchant,5,#87DDB - Schillerkiez - 2023-06-07
+Charlottenburg,#9B56F,cdfde283-c752-54e3-a35c-c31bac5a15bf,2023-06-13,Consumer To Merchant,4,#9B56F - Charlottenburg - 2023-06-13
+Prenzlauer Berg,#B2E3B,24669981-ac8f-5b64-af33-76f2acba9326,2023-06-11,Consumer To Merchant,5,#B2E3B - Prenzlauer Berg - 2023-06-11
+Prenzlauer Berg,#6BCD5,9d0deebc-d528-5fe9-b8ae-c49a6aec0a64,2023-06-10,Consumer To Merchant,5,#6BCD5 - Prenzlauer Berg - 2023-06-10
+Nollendorfkiez,#42D9B,a56638df-fa12-57b3-9738-b00185d30cc9,2023-06-25,Consumer To Merchant,5,#42D9B - Nollendorfkiez - 2023-06-25
+Prenzlauer Berg,#3B3D9,7d46bc5f-07c5-50f2-b54a-c65a7dea4d0b,2023-06-25,Consumer To Merchant,4,#3B3D9 - Prenzlauer Berg - 2023-06-25
+Mitte,#17BEF,116ada10-4624-52aa-aadc-804430ce0310,2023-06-04,Consumer To Merchant,5,#17BEF - Mitte - 2023-06-04
+Prenzlauer Berg,#D799F,2f1058b9-8b01-555a-99ca-09166fe96011,2023-06-18,Consumer To Merchant,5,#D799F - Prenzlauer Berg - 2023-06-18
+Nollendorfkiez,#5E49E,23c32488-029a-5317-a272-16f2885749dc,2023-06-30,Consumer To Merchant,5,#5E49E - Nollendorfkiez - 2023-06-30
+Mitte,#67523,f5a04789-f295-59ec-96c4-4e5eac0cc1d1,2023-06-25,Consumer To Merchant,1,#67523 - Mitte - 2023-06-25
+Charlottenburg,#45EC6,811f158d-0c32-585e-92c6-28fc08b96050,2023-06-25,Consumer To Merchant,5,#45EC6 - Charlottenburg - 2023-06-25
+Prenzlauer Berg,#A881F,e827a96f-bf97-5580-ba76-16faac9b8d1c,2023-06-14,Consumer To Merchant,5,#A881F - Prenzlauer Berg - 2023-06-14
+Mitte,#97EAB,9e0a0099-00e0-5c9f-ac41-fbc293bec49c,2023-06-04,Consumer To Merchant,5,#97EAB - Mitte - 2023-06-04
+Leipzig Mitte,#8EE5E,83d301ba-ec84-553e-8ed2-3372fab2fba0,2023-06-04,Consumer To Merchant,5,#8EE5E - Leipzig Mitte - 2023-06-04
+Schillerkiez,#A3AAE,88b50f62-3b6f-57a0-b00f-fbd9c17e9b15,2023-06-11,Consumer To Merchant,3,#A3AAE - Schillerkiez - 2023-06-11
+Schillerkiez,#D0E7E,b6b0f350-695e-5afa-8942-dc76f1b68487,2023-06-11,Consumer To Merchant,5,#D0E7E - Schillerkiez - 2023-06-11
+Friedrichshain,#36985,07b73446-a1a2-5f9f-8b2e-44ceeaf683b2,2023-06-02,Consumer To Merchant,4,#36985 - Friedrichshain - 2023-06-02
+Leipzig Mitte,#0FCD5,125efcce-43b9-5f89-8d10-960d96f504a7,2023-06-30,Consumer To Merchant,5,#0FCD5 - Leipzig Mitte - 2023-06-30
+Leipzig Mitte,#56032,02372969-65d2-59cc-9e49-52496a466738,2023-06-30,Consumer To Merchant,3,#56032 - Leipzig Mitte - 2023-06-30
+Kreuzberg,#F7077,5a471a1e-e435-561a-90a4-438e063661e9,2023-06-09,Consumer To Merchant,5,#F7077 - Kreuzberg - 2023-06-09
+Schillerkiez,#E1290,8e6b9ba7-a479-51f4-9173-2b4d5bdab35f,2023-06-09,Consumer To Merchant,1,#E1290 - Schillerkiez - 2023-06-09
+Leipzig Mitte,#EF546,c5e4699e-58dc-5726-a294-639c24d5fa78,2023-06-17,Consumer To Merchant,5,#EF546 - Leipzig Mitte - 2023-06-17
+Prenzlauer Berg,#CE9AC,11542204-a672-5784-a983-984afd4e3b62,2023-06-26,Consumer To Merchant,5,#CE9AC - Prenzlauer Berg - 2023-06-26
+Charlottenburg,#3A6A2,420659c5-3cd6-5a8f-8952-cdafdcbb2696,2023-06-11,Consumer To Merchant,3,#3A6A2 - Charlottenburg - 2023-06-11
+Schillerkiez,#FB514,510a529b-0db9-5a9a-aff9-a25ad0a6613c,2023-06-04,Consumer To Merchant,1,#FB514 - Schillerkiez - 2023-06-04
+Prenzlauer Berg,#07E34,53df51b1-786b-5027-96d1-e239926c005c,2023-06-03,Consumer To Merchant,5,#07E34 - Prenzlauer Berg - 2023-06-03
+Leipzig Mitte,#32E74,a567a102-3d8c-5f43-ab41-1f0642ec30f9,2023-06-17,Consumer To Merchant,5,#32E74 - Leipzig Mitte - 2023-06-17
+DTM Westend,#6252F,6be60489-2401-5dc0-8475-3c12519ed1d6,2023-06-25,Consumer To Merchant,4,#6252F - DTM Westend - 2023-06-25
+Kreuzberg,#7CBCD,c337002f-c834-5639-821a-c83e17c8420c,2023-06-01,Consumer To Merchant,5,#7CBCD - Kreuzberg - 2023-06-01
+Samariterkiez,#AC159,995477a8-57d6-56da-8918-0e3aa5354818,2023-06-12,Consumer To Merchant,5,#AC159 - Samariterkiez - 2023-06-12
+Mitte,#6BDC4,8d00f6f4-a3ea-5fa7-a159-84acd72670c7,2023-06-06,Consumer To Merchant,5,#6BDC4 - Mitte - 2023-06-06
+Prenzlauer Berg,#B2EE1,6f058a61-0ab5-5c33-99e7-cf935521b4e9,2023-06-17,Consumer To Merchant,5,#B2EE1 - Prenzlauer Berg - 2023-06-17
+Kreuzberg,#E9043,a01ef3b5-98b6-5f45-8458-ce8618abf5a6,2023-06-17,Consumer To Merchant,5,#E9043 - Kreuzberg - 2023-06-17
+Leipzig Mitte,#4072B,fe4c906a-49c1-576b-b6f3-8dd946207b5c,2023-06-09,Consumer To Merchant,5,#4072B - Leipzig Mitte - 2023-06-09
+Schillerkiez,#7D3E3,40f55610-6379-52a7-84b9-675c6ffb8764,2023-06-04,Consumer To Merchant,1,#7D3E3 - Schillerkiez - 2023-06-04
+Prenzlauer Berg,#51447,36ce2a49-65a2-518e-a76f-77eec376e8aa,2023-06-01,Consumer To Merchant,5,#51447 - Prenzlauer Berg - 2023-06-01
+Schillerkiez,#82CC7,82bd5ff2-4fb0-5877-b7fe-07a02003d44f,2023-06-09,Consumer To Merchant,1,#82CC7 - Schillerkiez - 2023-06-09
+Prenzlauer Berg,#7825C,5c5310df-9350-5745-944a-dd378e6d7f77,2023-06-07,Consumer To Merchant,5,#7825C - Prenzlauer Berg - 2023-06-07
+Prenzlauer Berg,#9B735,52ecd2b0-2eba-58d6-9e75-247195a66732,2023-06-06,Consumer To Merchant,4,#9B735 - Prenzlauer Berg - 2023-06-06
+Prenzlauer Berg,#E8856,603d4d8e-ef84-50ba-aa89-975fcb9fde38,2023-06-04,Consumer To Merchant,3,#E8856 - Prenzlauer Berg - 2023-06-04
+Samariterkiez,#805BB,1cc4b7bc-4e56-536f-90e8-8ef06c55474f,2023-06-08,Consumer To Merchant,3,#805BB - Samariterkiez - 2023-06-08
+Kreuzberg,#C85A0,11ca12de-6a56-5402-a088-6b1392575659,2023-06-20,Consumer To Merchant,4,#C85A0 - Kreuzberg - 2023-06-20
+Samariterkiez,#601F5,ee61b8a9-c61b-521e-895c-d0c161ea33cb,2023-06-02,Consumer To Merchant,1,#601F5 - Samariterkiez - 2023-06-02
+Prenzlauer Berg,#EB5E4,1a726f78-5967-5f0d-bd8e-b56fe296fb7c,2023-06-14,Consumer To Merchant,5,#EB5E4 - Prenzlauer Berg - 2023-06-14
+Nollendorfkiez,#104EF,ca07e6f4-d670-538b-a301-25646d3e4d49,2023-06-29,Consumer To Merchant,5,#104EF - Nollendorfkiez - 2023-06-29
+Charlottenburg,#C45E5,ee41fb09-f05d-58a4-8863-22d51a2159b1,2023-06-11,Consumer To Merchant,5,#C45E5 - Charlottenburg - 2023-06-11
+Prenzlauer Berg,#A9FC2,58a5c954-9c50-5d71-a34e-431340d6f0d1,2023-06-04,Consumer To Merchant,5,#A9FC2 - Prenzlauer Berg - 2023-06-04
+Prenzlauer Berg,#8B503,d38ec25f-573f-59d7-b64b-0dc6ed1ed665,2023-06-04,Consumer To Merchant,5,#8B503 - Prenzlauer Berg - 2023-06-04
+Prenzlauer Berg,#5FD74,3fa0bda9-758d-51ff-a0a0-a2ec9d157343,2023-06-17,Consumer To Merchant,5,#5FD74 - Prenzlauer Berg - 2023-06-17
+Prenzlauer Berg,#25853,041de69e-d7b8-5607-8315-07ad7f54ac98,2023-06-14,Consumer To Merchant,5,#25853 - Prenzlauer Berg - 2023-06-14
+Mitte,#83CC5,d1852c93-1f96-56a5-b254-9ef85f848f5c,2023-06-14,Consumer To Merchant,4,#83CC5 - Mitte - 2023-06-14
+Charlottenburg,#5F974,c9989cd3-733d-56d0-a92b-cad35b20f166,2023-06-30,Consumer To Merchant,5,#5F974 - Charlottenburg - 2023-06-30
+Charlottenburg,#17C98,f88f2883-45c6-5ca1-acac-d1452e6f0775,2023-06-06,Consumer To Merchant,5,#17C98 - Charlottenburg - 2023-06-06
+Mitte,#AEDF0,d243fdcb-5433-51ac-b4e3-56d50ea4e7fc,2023-06-16,Consumer To Merchant,5,#AEDF0 - Mitte - 2023-06-16
+Leipzig Mitte,#2012F,1e8e4b94-8a06-5a01-b4d8-c6cd0569cbfb,2023-06-11,Consumer To Merchant,4,#2012F - Leipzig Mitte - 2023-06-11
+Schillerkiez,#6FCFC,794b44fc-ff62-50fd-ab1e-30b518f0bb3e,2023-06-04,Consumer To Merchant,5,#6FCFC - Schillerkiez - 2023-06-04
+Schillerkiez,#72AC1,9745c28c-fe78-545e-81d0-5a7c7f0d9487,2023-06-07,Consumer To Merchant,3,#72AC1 - Schillerkiez - 2023-06-07
+Leipzig Mitte,#A06B6,27e9aee5-964a-516c-8fe1-5b70512a1d64,2023-06-11,Consumer To Merchant,5,#A06B6 - Leipzig Mitte - 2023-06-11
+Schillerkiez,#0C42F,e97789dc-f515-58e9-8b49-fcf6e91c06f7,2023-06-10,Consumer To Merchant,4,#0C42F - Schillerkiez - 2023-06-10
+Prenzlauer Berg,#E39C3,cf762ad0-2175-5428-8d37-4bfbb8a23d1b,2023-06-13,Consumer To Merchant,4,#E39C3 - Prenzlauer Berg - 2023-06-13
+Prenzlauer Berg,#49E04,23b8c5f5-6b2a-5892-9af9-18963ea1aed8,2023-06-23,Consumer To Merchant,5,#49E04 - Prenzlauer Berg - 2023-06-23
+Mitte,#A0FD4,2a928a0d-0846-578e-9704-b73a723ae074,2023-06-04,Consumer To Merchant,4,#A0FD4 - Mitte - 2023-06-04
+Samariterkiez,#A06AB,22fd7856-8fdf-53bc-acf2-ec3beb329754,2023-06-11,Consumer To Merchant,1,#A06AB - Samariterkiez - 2023-06-11
+Schillerkiez,#6258B,babd583f-2d6c-514a-b1c2-bfc2cce45d22,2023-06-18,Consumer To Merchant,2,#6258B - Schillerkiez - 2023-06-18
+Prenzlauer Berg,#2053C,a8f14c90-a707-5762-9005-04ee273db846,2023-06-04,Consumer To Merchant,4,#2053C - Prenzlauer Berg - 2023-06-04
+Schillerkiez,#7B422,c9cccfa9-e09d-5fc2-bfe9-6aba036674e4,2023-06-04,Consumer To Merchant,5,#7B422 - Schillerkiez - 2023-06-04
+Prenzlauer Berg,#255A0,a5b9d407-fbf5-531e-8fd5-64deb5f2fbdf,2023-06-04,Consumer To Merchant,5,#255A0 - Prenzlauer Berg - 2023-06-04
+Mitte,#54114,22e4bb38-b11c-5dda-aa99-9a2dd27421d0,2023-06-05,Consumer To Merchant,5,#54114 - Mitte - 2023-06-05
+Mitte,#31A2D,500ad652-c9bd-591a-bc5b-12c2c807480f,2023-06-03,Consumer To Merchant,5,#31A2D - Mitte - 2023-06-03
+Leipzig Mitte,#979A7,3f0f2a3a-9e3c-5200-9f0b-6291c98c344b,2023-06-02,Consumer To Merchant,5,#979A7 - Leipzig Mitte - 2023-06-02
+Prenzlauer Berg,#C0316,c94532c2-5e57-5788-b4ab-033b36f296e1,2023-06-10,Consumer To Merchant,5,#C0316 - Prenzlauer Berg - 2023-06-10
+Schillerkiez,#E6126,f9bfb904-2565-5092-a6e7-0da24c718250,2023-06-02,Consumer To Merchant,5,#E6126 - Schillerkiez - 2023-06-02
+Schillerkiez,#8489D,d7642fa5-4b91-51ff-8ef1-342a8822bc6f,2023-06-02,Consumer To Merchant,1,#8489D - Schillerkiez - 2023-06-02
+Leipzig Mitte,#0C14A,a9dce1da-404a-5ea7-b336-1cdbe40821b1,2023-06-08,Consumer To Merchant,3,#0C14A - Leipzig Mitte - 2023-06-08
+Prenzlauer Berg,#52D93,9d2c7dd6-55e6-5012-bcf0-018502649e11,2023-06-08,Consumer To Merchant,2,#52D93 - Prenzlauer Berg - 2023-06-08
+Charlottenburg,#C2581,42a20a4f-4e07-54c1-a1aa-c07a47e409dc,2023-06-23,Consumer To Merchant,5,#C2581 - Charlottenburg - 2023-06-23
+Prenzlauer Berg,#18A2E,05e815be-6ffc-5d04-94e8-aaf62753ab67,2023-06-23,Consumer To Merchant,5,#18A2E - Prenzlauer Berg - 2023-06-23
+Prenzlauer Berg,#7F4F6,d6fbcd57-37b3-5284-89f0-7d2f8c9bcf74,2023-06-10,Consumer To Merchant,5,#7F4F6 - Prenzlauer Berg - 2023-06-10
+Prenzlauer Berg,#F9598,55b6406c-308a-5cf8-bc8b-31b1daf8da5e,2023-06-18,Consumer To Merchant,5,#F9598 - Prenzlauer Berg - 2023-06-18
