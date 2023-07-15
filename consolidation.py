@@ -27,15 +27,12 @@ def get_period_string(date_str):
     return period_str
 
 def process_consolidated_data():
-    # Source folder
-    source_folder = r'H:\Shared drives\99 - Data\99 - Test Data'
-
     # Read CSV Files
-    deliverect_data = pd.read_csv(r'H:\Shared drives\99 - Data\99 - Test\Deliverect Data.csv')
-    uber_eats_data = pd.read_csv(r'H:\Shared drives\99 - Data\99 - Test\UE Consolidated Data.csv')
-    wolt_data = pd.read_csv(r'H:\Shared drives\99 - Data\99 - Test\Wolt Data.csv')
-    lieferando_data = pd.read_csv(r'H:\Shared drives\99 - Data\99 - Test\Lieferando Data.csv')
-    food_panda_data = pd.read_csv(r'H:\Shared drives\99 - Data\99 - Test\Food Panda Data.csv')
+    deliverect_data = pd.read_csv(r'H:\Shared drives\99 - Data\00 - Cleaned Data\Deliverect Data.csv')
+    uber_eats_data = pd.read_csv(r'H:\Shared drives\99 - Data\00 - Cleaned Data\UE Consolidated Data.csv')
+    wolt_data = pd.read_csv(r'H:\Shared drives\99 - Data\00 - Cleaned Data\Wolt Data.csv')
+    lieferando_data = pd.read_csv(r'H:\Shared drives\99 - Data\00 - Cleaned Data\Lieferando Data.csv')
+    food_panda_data = pd.read_csv(r'H:\Shared drives\99 - Data\00 - Cleaned Data\Food Panda Data.csv')
 
     # Combine the "Primary Keys" column from all DataFrames
     consolidated_data = pd.concat([deliverect_data[['PrimaryKey']], uber_eats_data[['PrimaryKey']], wolt_data[['PrimaryKey']], lieferando_data[['PrimaryKey']], food_panda_data[['PrimaryKey']]], ignore_index=True)
@@ -44,7 +41,7 @@ def process_consolidated_data():
     consolidated_data = consolidated_data.drop_duplicates()
 
     # Export Primary Key List
-    os.chdir(r'H:\Shared drives\99 - Data\99 - Test')
+    os.chdir(r'H:\Shared drives\99 - Data\00 - Cleaned Data')
     consolidated_data.to_csv('Primary Key List.csv', index=False)
 
     # Does it exist in Deliverect
@@ -228,5 +225,5 @@ def process_consolidated_data():
     consolidated_data = consolidated_data[['PrimaryKey', 'ExistsInDeliverect', 'Location', 'Loc with Brand', 'Brands', 'OrderID', 'OrderDate', 'OrderTime', 'OrderWeek', 'OrderMonth', 'Period', 'Channel', 'ChannelCopy', 'City', 'OrderStatus', 'CleanedOrderStatus', 'DeliveryStatus', 'DeliveryType', 'Discount Flag', 'Promo Flag', 'GrossAOV', 'GrossAOV Adj', 'StackingType', 'WorkflowUUID', 'OrderUUID', 'IsScheduled', 'IsSubscription', 'OrderStartTime', 'TimeToAccept', 'TimeToCourierArrivedAtRx', 'TimeCourierAtRx', 'TimeToDeliver', 'TimeCourierAtCx', 'OrderDuration', 'PromotionsOnItems', 'PriceAdjustments', 'DeliveryFee', 'PromotionsOnDelivery', 'Tips', 'MarketplaceFee', 'TotalPayout', 'PayoutDate', 'OrderIssue', 'TotalRefund', 'RefundCoveredByMerchant', 'RefundNotCoveredByMerchant', 'RatingScore', 'ProductPLUs', 'ProductNames', 'IsTestOrder', 'PaymentType', 'PickupTime', 'MasterOrderIndex', 'PDFIndexHalfMonth', 'PDFIndexFullMonth']]
 
     # Save CSV
-    os.chdir(r'H:\Shared drives\99 - Data\99 - Test')
+    os.chdir(r'H:\Shared drives\99 - Data\00 - Cleaned Data')
     consolidated_data.to_csv('Consolidated Data.csv', index=False)

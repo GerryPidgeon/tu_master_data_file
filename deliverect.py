@@ -124,7 +124,7 @@ def process_deliverect_data():
     df = df.loc[df['OrderID'] != '#63H1WT']
     
     # Change to Data Directory
-    os.chdir(r'H:\Shared drives\99 - Data\99 - Test')
+    os.chdir(r'H:\Shared drives\99 - Data\00 - Cleaned Data')
     
     # Export File
     df.to_csv('Deliverect Data.csv', index=False)

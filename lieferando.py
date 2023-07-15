@@ -69,5 +69,5 @@ def process_lieferando_data():
     df = df.loc[df['OrderID'] != '#63H1WT']
 
     # Save The DataFrame
-    os.chdir(r'H:\Shared drives\99 - Data\99 - Test')
+    os.chdir(r'H:\Shared drives\99 - Data\00 - Cleaned Data')
     df = df.to_csv('Lieferando Data.csv', index=False)

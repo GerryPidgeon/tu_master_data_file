@@ -186,7 +186,7 @@ def process_uber_eats_order_data():
     df['PrimaryKey'] = df['OrderID'] + ' - ' + df['Location'] + ' - ' + df['OrderDate']
 
     # Change to Data Directory
-    os.chdir(r'H:\Shared drives\99 - Data\99 - Test')
+    os.chdir(r'H:\Shared drives\99 - Data\00 - Cleaned Data')
 
     # Export to CSV file
     df.to_csv('UE Order Data.csv', index=False)
@@ -334,7 +334,7 @@ def process_uber_eats_payment_details_data():
                                       orders_df['OrderDate'].dt.strftime('%Y-%m-%d')
 
     # # Change to Data Directory
-    os.chdir(r'H:\Shared drives\99 - Data\99 - Test')
+    os.chdir(r'H:\Shared drives\99 - Data\00 - Cleaned Data')
     new_df.to_csv('UE Non Order Payment Data.csv', index=False)
     orders_df.to_csv('UE Order Payment Data.csv', index=False)
 
@@ -388,7 +388,7 @@ def process_uber_eats_refund_data():
     df['PrimaryKey'] = df['OrderID'] + ' - ' + df['Location'] + ' - ' + df['OrderDate'].dt.strftime('%Y-%m-%d')
 
     # # Change to Data Directory
-    os.chdir(r'H:\Shared drives\99 - Data\99 - Test')
+    os.chdir(r'H:\Shared drives\99 - Data\00 - Cleaned Data')
     df.to_csv('UE Refund Data.csv', index=False)
 
 def process_uber_eats_review_data():
@@ -446,7 +446,7 @@ def process_uber_eats_review_data():
                                    df['OrderDate'].dt.strftime('%Y-%m-%d')
 
     # # Change to Data Directory
-    os.chdir(r'H:\Shared drives\99 - Data\99 - Test')
+    os.chdir(r'H:\Shared drives\99 - Data\00 - Cleaned Data')
     df.to_csv('UE Review Data.csv', index=False)
     
 def process_uber_eats_review_data():
@@ -503,18 +503,18 @@ def process_uber_eats_review_data():
                                    df['OrderDate'].dt.strftime('%Y-%m-%d')
 
     # # Change to Data Directory
-    os.chdir(r'H:\Shared drives\99 - Data\99 - Test')
+    os.chdir(r'H:\Shared drives\99 - Data\00 - Cleaned Data')
     df.to_csv('UE Review Data.csv', index=False)
 
 def process_uber_eats_consolidtated_data():
     # Change to Data Directory
-    os.chdir(r'H:\Shared drives\99 - Data\99 - Test')
+    os.chdir(r'H:\Shared drives\99 - Data\00 - Cleaned Data')
 
     # Load Data
-    orders_df = pd.read_csv(r'H:\Shared drives\99 - Data\99 - Test\UE Order Data.csv')
-    payment_details_df = pd.read_csv(r'H:\Shared drives\99 - Data\99 - Test\UE Order Payment Data.csv')
-    refund_df = pd.read_csv(r'H:\Shared drives\99 - Data\99 - Test\UE Refund Data.csv')
-    review_df = pd.read_csv(r'H:\Shared drives\99 - Data\99 - Test\UE Review Data.csv')
+    orders_df = pd.read_csv(r'H:\Shared drives\99 - Data\00 - Cleaned Data\UE Order Data.csv')
+    payment_details_df = pd.read_csv(r'H:\Shared drives\99 - Data\00 - Cleaned Data\UE Order Payment Data.csv')
+    refund_df = pd.read_csv(r'H:\Shared drives\99 - Data\00 - Cleaned Data\UE Refund Data.csv')
+    review_df = pd.read_csv(r'H:\Shared drives\99 - Data\00 - Cleaned Data\UE Review Data.csv')
 
     # Clean Dates Columns
     orders_df['OrderDate'] = pd.to_datetime(orders_df['OrderDate'], format='mixed', dayfirst=True).dt.date
@@ -579,7 +579,7 @@ def process_uber_eats_consolidtated_data():
     consolidated_df = consolidated_df[consolidated_list_2]
 
     # Change to Data Directory
-    os.chdir(r'H:\Shared drives\99 - Data\99 - Test')
+    os.chdir(r'H:\Shared drives\99 - Data\00 - Cleaned Data')
 
     # Export to CSV file
     consolidated_df.to_csv('UE Consolidated Data.csv', index=False)
