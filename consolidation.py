@@ -227,3 +227,5 @@ def process_consolidated_data():
     # Save CSV
     os.chdir(r'H:\Shared drives\99 - Data\00 - Cleaned Data')
     consolidated_data.to_csv('Consolidated Data.csv', index=False)
+
+process_consolidated_data()

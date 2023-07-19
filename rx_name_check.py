@@ -173,3 +173,5 @@ def process_rx_name_data():
     # Import Cleaned Names
     cleaned_names = pd.read_csv(r'Full Rx List, with Cleaned Names.csv')
     all_locations_alt = pd.merge(all_locations_alt, cleaned_names[['Location', 'Cleaned Name']], on='Location', how='left')
+
+process_rx_name_data()

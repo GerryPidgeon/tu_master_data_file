@@ -3,6 +3,7 @@ import datetime as dt
 import numpy as np
 import os
 import itertools
+from datetime import datetime
 
 def clean_location_names(df):
     # Clean Location
@@ -214,12 +215,16 @@ def process_uber_eats_payment_details_data():
         '23.11 - UE - Payment Details.csv',
         '23.12 - UE - Payment Details.csv',
     ]:
+
         if os.path.exists(file_path):
             # If the file path exists, load the corresponding CSV file and append it to the list
             df = pd.read_csv(file_path, dtype={'Order ID': str}, encoding='utf-8')
             new_columns = df.iloc[0]
             df = df[1:].reset_index(drop=True)
             df.columns = new_columns
+
+            # Add a new column 'File Name' with the file name
+            df['File Name'] = os.path.basename(file_path)
             dataframe.append(df)
         else:
             # If the file path does not exist, append None to the list
@@ -242,8 +247,7 @@ def process_uber_eats_payment_details_data():
     ue_pd_non_orders_data = df.loc[df['Other payments description'].notnull()]
 
     # Adjust and Clean ue_pd_non_orders_data DataFrame
-    ue_pd_non_orders_data = ue_pd_non_orders_data[
-        ['Location', 'Payout date', 'Other payments (incl. VAT)', 'Other payments description']]
+    ue_pd_non_orders_data = ue_pd_non_orders_data[['Location', 'Payout date', 'Other payments (incl. VAT)', 'Other payments description', 'File Name']]
     ue_pd_non_orders_data = ue_pd_non_orders_data.rename(
         columns={'Payout date': 'PayoutDate', 'Other payments (incl. VAT)': 'OtherPayments',
                  'Other payments description': 'PaymentType'})
@@ -255,12 +259,18 @@ def process_uber_eats_payment_details_data():
 
     # Adjust Payout Date to Prior Week
     ue_pd_non_orders_data = ue_pd_non_orders_data.copy()
-    ue_pd_non_orders_data.loc[:, 'PayoutDate'] = pd.to_datetime(ue_pd_non_orders_data['PayoutDate'],
-                                                                dayfirst=True) - pd.DateOffset(days=7)
+    ue_pd_non_orders_data.loc[:, 'PayoutDate'] = pd.to_datetime(ue_pd_non_orders_data['PayoutDate'], dayfirst=True) - pd.DateOffset(days=7)
 
     # Group Data
-    ue_pd_non_orders_data = ue_pd_non_orders_data.groupby(['Location', 'PayoutDate', 'PaymentType'])[
-        'OtherPayments'].sum().reset_index()
+    ue_pd_non_orders_data = ue_pd_non_orders_data.groupby(['Location', 'PayoutDate', 'PaymentType', 'File Name'])['OtherPayments'].sum().reset_index()
+
+    # Turn File Name into Date
+    ue_pd_non_orders_data['File Name'] = ue_pd_non_orders_data['File Name'].str[:5]
+    ue_pd_non_orders_data['File Name'] = ue_pd_non_orders_data['File Name'].apply(lambda x: datetime.strptime(x, "%y.%m"))
+    ue_pd_non_orders_data = ue_pd_non_orders_data.rename(columns={'File Name': 'Invoice Month'})
+
+    # Re-Order Columns
+    ue_pd_non_orders_data = ue_pd_non_orders_data[['Location', 'PayoutDate', 'Invoice Month', 'PaymentType', 'OtherPayments']]
 
     # Create Unique Lists
     unique_payment_descriptions = ue_pd_non_orders_data['PaymentType'].unique()
@@ -335,6 +345,7 @@ def process_uber_eats_payment_details_data():
 
     # # Change to Data Directory
     os.chdir(r'H:\Shared drives\99 - Data\00 - Cleaned Data')
+    ue_pd_non_orders_data.to_csv('UE Non Order Payment Data (Monthly).csv', index=False)
     new_df.to_csv('UE Non Order Payment Data.csv', index=False)
     orders_df.to_csv('UE Order Payment Data.csv', index=False)
 
@@ -583,3 +594,5 @@ def process_uber_eats_consolidtated_data():
 
     # Export to CSV file
     consolidated_df.to_csv('UE Consolidated Data.csv', index=False)
+
+process_uber_eats_payment_details_data()
