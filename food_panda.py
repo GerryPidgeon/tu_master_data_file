@@ -1,7 +1,5 @@
 import numpy as np
 import pandas as pd
-import datetime as dt
-import openpyxl as xl
 import os
 
 def process_food_panda_data():
