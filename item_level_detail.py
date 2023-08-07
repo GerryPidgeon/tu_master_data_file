@@ -254,9 +254,9 @@ def process_item_level_analysis():
                                                  deliverect_data_birria_long['Production Costs']
 
     # Clean Lieferando Chicken Tenders
-    deliverect_data_birdie_long['Retail Price'] = np.where((deliverect_data_birdie_long['Channel'] == 'Lieferando') & (
-                deliverect_data_birdie_long['ProductName'] == 'Classic Tenders [Regular]'), 7.50,
-                                                           deliverect_data_birdie_long['Retail Price'])
+    # deliverect_data_birdie_long['Retail Price'] = np.where((deliverect_data_birdie_long['Channel'] == 'Lieferando') & (
+    #             deliverect_data_birdie_long['ProductName'] == 'Classic Tenders [Regular]'), 7.50,
+    #                                                        deliverect_data_birdie_long['Retail Price'])
 
     # Export CSV
     deliverect_data_birdie_long.to_csv('Order Detail with Prices - Birdie.csv', index=False)
