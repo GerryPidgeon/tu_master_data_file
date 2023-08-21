@@ -127,3 +127,5 @@ def process_deliverect_data():
     
     # Export File
     df.to_csv('Deliverect Data.csv', index=False)
+
+process_deliverect_data()

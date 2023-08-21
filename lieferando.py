@@ -70,3 +70,5 @@ def process_lieferando_data():
     # Save The DataFrame
     os.chdir(r'H:\Shared drives\99 - Data\00 - Cleaned Data')
     df = df.to_csv('Lieferando Data.csv', index=False)
+
+process_lieferando_data()

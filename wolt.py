@@ -79,3 +79,5 @@ def process_wolt_order_data():
     # Save The DataFrame
     os.chdir(r'H:\Shared drives\99 - Data\00 - Cleaned Data')
     df = df.to_csv('Wolt Data.csv', index=False)
+
+process_wolt_order_data()

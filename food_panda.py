@@ -69,3 +69,5 @@ def process_food_panda_data():
     # Save The DataFrame
     os.chdir(r'H:\Shared drives\99 - Data\00 - Cleaned Data')
     food_panda_data = food_panda_data.to_csv('Food Panda Data.csv', index=False)
+
+process_food_panda_data()

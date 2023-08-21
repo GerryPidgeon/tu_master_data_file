@@ -262,3 +262,4 @@ def process_item_level_analysis():
     deliverect_data_birdie_long.to_csv('Order Detail with Prices - Birdie.csv', index=False)
     deliverect_data_birria_long.to_csv('Order Detail with Prices - Birria.csv', index=False)
 
+process_item_level_data()
